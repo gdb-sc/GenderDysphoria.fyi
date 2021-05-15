@@ -30,7 +30,7 @@ siblings:
 
 2. [什么是性别？](/gdb/what-is-gender)
 
-3. [性别烦躁史](/gdb/history)
+3. [性别烦躁简史](/gdb/history)
 
 4. [性别亢奋](/gdb/euphoria)
 
