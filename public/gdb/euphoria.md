@@ -18,35 +18,35 @@ tweets:
   - https://twitter.com/ErinInTheMorn/status/1228165767264256003
 ---
 
-# Gender Euphoria
+# 性别亢奋
 
 {!{
 <div class="gutter"><blockquote>
-  <strong>Eu·pho·ri·a</strong> - <em>Noun</em><br>
-  A feeling or state of intense excitement and happiness. Elation, joy, glee.
+  <strong>亢奋</strong> - <em>名词</em><br>
+  极度兴奋、幸福、喜悦、激动的感觉或状态。
 </blockquote></div>
 }!}
 
 
-Before I can talk about discomfort, I have to talk about relief. Gender Euphoria is itself a sign of Gender Dysphoria. You might be asking yourself, "how can happiness be sadness?" The answer to that is simple.
+说起不适感之前，我得先说说宽慰。性别亢奋本身就是性别烦躁的一个标志。你可能会问，“快乐怎么会成为悲伤呢？”其实答案很简单。
 
-Imagine a person who was born in a cave, who spent their entire life living underground, their only source of illumination being candles and oil lamps. Imagine they've never been above ground, they don't even know the surface exists. Then one day a cave-in happens in a side tunnel, and reveals an opening to the surface. Sunlight pours into the opening, and at first it is blinding and the person runs away in fear. Later they return to the opening, and as the person's eyes adjust they look out through the hole and see a bright and brilliant world full of colors they didn't even know existed.
+想象一下，一个在地洞里出生并生活的人，他们唯一的照明来源是蜡烛和油灯。他们从来没有去过地表，甚至都不知道地表的存在。之后有一天，一个侧面隧道塌陷，露出了一个通向地表的出口。阳光洒进洞口，一开始是致盲的，所以人们害怕地跑开了。后来又回到洞口，眼睛适应后，他们通过洞向外看到一个明亮璀璨的世界，充满了他们从来不知道的色彩。
 
-That world is scary, it's huge and full of unknowns, so they crawl back into the cave for safety, but that hole is still there, and they see the light every time they pass it. Gradually they peek out more and more frequently, and further and further from the opening. They start to want that light, they find reasons to visit it more often.
+那个世界很可怕，它庞大而又充满了未知，所以为了安全，他们爬回了洞穴。但那个洞还在，每次经过时都能看到光。渐渐地他们偷看的次数越来越多，走得离洞口也越来越远。他们开始想要那片光，因此找借口总去看它。
 
-Eventually they realize that they don't want to go back into the hole any more. They have to go back, because that is where their family and friends are, but this place is so much better, they want to stay here. Going back into the hole feels wrong, it starts to hurt to be in the dark so much.
+最后他们意识到自己不想再回到洞里了。他们必须回去，因为那是家人和朋友所在的地方，但他们想留在这个更美好的地方。回到那么黑的洞里开始令人难受了。
 
-This is what Gender Euphoria is like, it is brief flashes of a light that may be too bright to handle at first, too confusing to understand, but as time goes on you become more accustomed to them and you realize that this is where you belong, and the darkness becomes the dysphoria.
+这就是性别亢奋。它是短暂的光芒，一开始可能太亮而难以适应，太困惑而难以理解，但随着时间的推移，你会逐渐习惯它们。你意识到你属于这里，而黑暗变成了烦躁。
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1215716433210105856'
 ] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
-Many trans people have no idea how much pain they are in until they find small bits of relief. Cosplay, stage acting, drag, role playing games, video games; small little forays into a different gender than they have lived as. They find that it feels just a little bit more comfortable. They'll make up excuses for why ("If I'm gonna be looking at this character's ass, it might as well be a girl's ass."), they'll try to convince themselves it's all just for fun, or an artistic expression. They might tell themselves that the bits of joy they feel at hearing a different pronoun are just novelty. But soon they find themselves looking for reasons to get that more often. More and more frequently they're role playing characters of a different sex, building more costumes, buying more clothes, performing more often. You find yourself wanting to do that all the time, because it just feels better than your real life, and being "you" starts to hurt. Eventually, the old you becomes the costume.
+许多跨性别者直到找到一点点宽慰时才明白自己有多痛苦。Cosplay，舞台表演，变装，角色扮演，电子游戏；一点点尝试和生活中不同的性别。他们发现这样更舒服。他们会找借口（“如果要我看这个角色的屁股，那还不如看女孩的屁股。”），他们会努力说服自己这都只是为了好玩，或者是一种艺术表达。他们可能会告诉自己，听到对自己用不同代词（她/他）称呼时感受的喜悦只是新奇。但很快他们就会发现自己在找更多的借口。他们越来越频繁地扮演不同性别的角色，制作更多的戏服，购买更多的衣服，更频繁地表演。你发现自己一直想这样演下去，因为这比现实感觉更好，成为“你自己”开始令人难受了。最终，之前的你变成了套在外面的戏服。
 
-This is the most fundamental reason why we as a community say "you do not need dysphoria to be trans", because black ink on a black canvas isn't visible without close examination and a lot of light.
+这就是我们在社群中说“成为跨性别者不需要有性别烦躁”的最根本原因。因为如果没有仔细的检查和充足的光照，黑色画布上的黑色墨迹是看不见的。
 
-Anything that can be a source of dysphoria has an equal and opposite euphoria.
+任何可以是烦躁感来源的东西都有对等的亢奋感。
 
 {!{ <div class="print-break-before"></div> }!}
 
@@ -56,22 +56,22 @@ Anything that can be a source of dysphoria has an equal and opposite euphoria.
   '1228165767264256003'
 ] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
-Examples:
+例如：
 
-- Being gendered correctly
-- Being addressed by your chosen name
-- Wearing correctly gendered clothing
-- Seeing and feeling changes in your body
-- Seeing yourself in the mirror (removal of depersonalization)
-- Socializing in a way that conforms with gendered expectations
-- Getting a haircut in a masculine / feminine / androgynous manner
-- Shaving your legs
-- NOT shaving your legs
-- Being included in something you wouldn't otherwise because of your assigned gender (e.g. bridal party or bachelor shower)
-- Feeling sexy / having sex in a way that aligns with your gender and sexuality.
+- 正确区分性别
+- 用想要的名字称呼你
+- 穿着正确性别的衣服
+- 看到并感受身体的变化
+- 看到镜子中的自己（不是人格解体）
+- 以符合期望性别的方式社交
+- 以阳刚/阴柔/中性的方式理发
+- 刮腿毛
+- 不刮腿毛
+- 参加一些本因指派性别而不能参加的活动（如新娘派对或单身汉派对）
+- 觉得性感/以与你的性别和性取向一致的方式做爱。
 
-Even just being out in the world as yourself and being seen as yourself can be massively euphoric.
+即使只是以自己的身份存在于世间，被当作你自己也令人亢奋。
 
-**What euphoria is NOT** is a sexual high, turn on, or fetish. Sometimes euphoria can trigger a sexual response, and there are many factors at play that cause that (feeling good about your body is a turn on, for example), but it is not a source of sexual excitement. Trans people are not "getting off" on presenting or acting like their true selves.
+**亢奋不是**性兴奋或恋物。有时亢奋会导致性反应，它是许多因素的作用（例如，对你的身体感觉良好是一种兴奋），但它不是性兴奋的来源。跨性别者不会“摆脱”表演或表现出真实的自己。
 
-That said, many people who have not yet realized they are trans may resort to fetishes and kinks to express their gender and/or relieve their dysphoria. They may maintain some of these kinks through transition. There is no shame in this, how they find sexual fulfillment is their own business. However, these things are *alongside* their gender. A trans person's sense of gender persists indefinitely, it does not go away when they go back to their daily lives.
+也就是说，许多尚未意识到自己是跨性别者的人可能会诉诸恋物癖和怪癖来表达他们的性别或缓解他们的烦躁感。他们可能会在转变期间保持其中的一些纠结。这没什么好丢人的，如何得到性愉悦是自己的事情。然而，这些东西和他们的性别是共生的。跨性别者的性别意识会一直存在，回归日常生活后并不会消失。
