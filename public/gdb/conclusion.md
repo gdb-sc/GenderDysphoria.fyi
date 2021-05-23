@@ -1,27 +1,27 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "In Conclusion"
-linkTitle: "Conclusion"
-description: "Enough with the gatekeeping already."
+title: "总而言之"
+linkTitle: "结论"
+description: "别再守着性别的大门了。"
 siblings:
   prev: /gdb/second-puberty-fem
-  prevCaption: Estrogenic Second Puberty
+  prevCaption: 雌激素第二青春期
 classes:
   - gdb
 preBody: '_disclaimer'
 ---
 
-## Conclusion
+## 结论
 
-Every single year we get new studies that show an increase in the size of the transgender population. As awareness continues to grow, more and more people are realizing what has been wrong with their lives and are coming out of the closet. People who transitioned decades ago are coming out of stealth. GLAAD estimates as much as 3% of the population could be transgender, and I have seen numbers as high as 5% or even 10% from more liberal estimations. The more we come to understand about gender, the more language we gain to describe gender, the more people realize that the rigid Male and Female sexual structure that we have been forced into is false.
+每年都有新的研究白哦明跨性别者的群体在扩充。随着认知的不断提高，越来越多的人意识到他们的生活出了问题，并选择出轨。几十年前就走上这条道路的、隐藏在人群当中的跨性别者们正在现身。GLAAD（美国性少数人群者反诋毁联盟，译者注）估计，多达3%的人口可能是跨性别者，而更加开明的估计则上升至5%或甚至10%。我们对心理性别的理解更多、描述心理性别的语言更多，就会有更多的人意识到被迫进入僵化的男性/ 女性性结构是错误的。
 
-Yet all this change frightens people. It frightens conservatives who see their patriarchal social structures dissolving under the new understanding of gender. It frightens old-school transgender people who transitioned under the Harry Benjamin rules and now see so many people easily obtaining what they had to act and lie and manipulate to achieve. They fear that if anyone can be trans, then the public will stop taking trans people seriously. It frightens the misogynistic trans-exclusionary groups that fight so hard to invalidate transgender rights, because they think if anyone can be a man or a woman, then their status as a man or a woman is harmed.
+但这一切变化却使人们惊怕。这让那些认为他们父权主义社会结构正在在新的性别认知下解体的保守派们惊怕、这让那些在哈利·本杰明（美国性学家，以其伪科学的、认为跨性别者有着不同的大脑结构的错误理论所知名，译者注）规则下转变的古板跨性别者们慌忙：现在竟有如此多的人轻松的获得了他们必须通过行动、谎言和操纵才能实现的事情——他们担心，如果任何人都能成为跨性别者，那公众则不将认真对待跨性别者。这让那些极力反对跨性别者权利的厌女排跨团体胆寒，因为他们认为如果所有人都能选择成为男人或女人，那么他们作为男人或女人的地位就会受到损害。
 
-There is no such thing as a "Transtrender".
+选择跨性别绝非是跟风行为。
 
-There is no such thing as "Rapid Onset Gender Dysphoria".
+你的性别焦虑也不是瞬间发作的。
 
-There is no such thing as anyone "transing" kids.
+更没有人在故意操纵孩子们的性别。
 
-These mentalities have to stop.
+请让这些心态止步于此吧。
 
