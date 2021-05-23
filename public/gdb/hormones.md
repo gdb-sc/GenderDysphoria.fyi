@@ -8,7 +8,7 @@ siblings:
   prev: /gdb/chromosomes
   prevCaption: Chromosomes
   next: /gdb/second-puberty-masc
-  nextCaption: Androgenic Second Puberty
+  nextCaption: 雄激素第二青春期
 classes:
   - gdb
 ---
@@ -76,44 +76,44 @@ classes:
 
 雌二醇是女性化的荷尔蒙。它是乳腺（乳腺组织）生长的主要信号荷尔蒙，而且它鼓励脂肪沉积在大腿、臀部、臀部、胸部和手臂，同时阻止脂肪沉积在腹部，从而产生更多的曲线身材。雌二醇还能促进胶原蛋白的产生，使皮肤更柔软，肌腱和韧带更灵活。
 
-雌酮在体内的作用一直是医学研究中的一个难题，因为与雌二醇相比，它的结合亲和力明显较低（0.6%），而且转导能力非常低（4%）。这种激素似乎不*做*任何事情，它只是停留在血流中。然而，它有一种独特的能力，可以通过一种叫做 "17β-HSD" 的酶组转化为雌二醇。 [17β-羟基类固醇脱氢酶](https://zh.wikipedia.org/wiki/17%CE%B2-%E7%BE%9F%E5%9F%BA%E7%B1%BB%E5%9B%BA%E9%86%87%E8%84%B1%E6%B0%A2%E9%85%B6),使其非常适合在体内发挥雌激素电池的功能。
+雌酮在体内的作用一直是医学研究中的一个难题，因为与雌二醇相比，它的结合亲和力明显较低（0.6%），而且转导能力非常低（4%）。这种激素似乎不*做*任何事情，它只是停留在血流中。然而，它有一种独特的能力，可以通过一种叫做 "17β-HSD" 的酶组转化为雌二醇。 [17β-羟基类固醇脱氢酶](https://zh.wikipedia.org/wiki/17%CE%B2-%E7%BE%9F%E5%9F%BA%E7%B1%BB%E5%9B%BA%E9%86%87%E8%84%B1%E6%B0%A2%E9%85%B6)，使其非常适合在体内发挥雌激素电池的功能。
 
 新的研究开始表明，身体可能通过释放HSD17B1将雌二醇转化为雌酮，并释放HSD17B2将其转化回来来调节总雌二醇水平，然而这只是非常早期的研究。这两种酶都在乳腺组织中产生，并可能在没有卵巢的雌激素个体（如跨性别女性）出现周期性月经样症状时起作用。
 
-{!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">For Your Information</h4> }!}
+{!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">供您参考</h4> }!}
 
-**Why aren't AFAB trans people prescribed estrogen blockers alongside testosterone?**
+**为什么以女性出生的跨性别者们在使用睾酮的同时不使用雌激素阻断剂？**
 
-There are two separate sources for estrogens within the female reproductive system. Ovaries contains thousands of follicles, cell structures which produce eggs. The pituitary gland produces luteinizing hormone (LH) and follicle-stimulating hormone (FSH), which encourages the follicles to grow into luteal cells. Theca cells within the follicle produce testosterone, and granulosa cells produce the enzyme [aromatase](https://en.wikipedia.org/wiki/Aromatase), which converts that testosterone into estradiol. This is the first source of estrogen, but it is not the largest source.
+在女性生殖系统中，有两个独立的雌激素来源。卵巢含有成千上万的卵泡，是产生卵子的细胞结构。垂体产生黄体生成素（LH）和卵泡刺激素（FSH），促使卵泡生长为黄体细胞。卵泡内的黄体细胞产生睾丸激素，而颗粒细胞产生 [芳香化酶](https://zh.wikipedia.org/wiki/%E8%8A%B3%E9%A6%99%E5%8C%96%E9%85%B6)，它将睾丸激素转化为雌二醇。这是雌激素的第一个来源，但它不是最大的来源。
 
-Note: This is why PCOS causes ovaries to produce testosterone; the ovarian cysts disrupt the aromatase production, so the testosterone does not get converted.
+注意：这就是为什么多囊卵巢综合症会导致卵巢产生睾丸激素；卵巢囊肿破坏了芳香化酶的产生，所以睾丸激素不能被转化。
 
-Two weeks into the period cycle the hypothalamus tells the pituitary gland to produce an LH and FSH spike three to four times stronger than earlier in the cycle. That surge causes the follicles to swell until one pops, releasing an egg, at which point the remains of the follicle become a structure known as the corpus luteum. That corpus luteum then begins to produce progesterone and significantly more estrogens in order to prepare the womb for a fertilized egg. This is the second source.
+在月经周期的两周内，下丘脑使垂体产生LH和FSH峰值，其强度是周期早期的三到四倍。这种激增导致卵泡膨胀，直到一个卵泡破裂，释放出一个卵子，这时，卵泡的残余部分成为一个被称为黄体的结构。然后，黄体开始产生孕酮和明显更多的雌激素，以使子宫为受精卵做好准备。这是第二个来源。
 
-Taking testosterone causes the hypothalamus to deactivate the genes that initiate this LH and FSH spike, so the follicles never reach maturity, ovulation never occurs, and the corpus luteum is never formed, removing a significant source of estrogen within the ovaries.
+服用睾丸激素会导致下丘脑停用启动这种LH和FSH峰值的基因，因此卵泡从未达到成熟，排卵从未发生，黄体也从未形成，消除了卵巢内雌激素的一个重要来源。
 
-*So no, Reddit, it isn't just "because testosterone is stronger", it's because ovaries are a hell of a lot more complex than testes and are easier to disrupt. Please stop spreading this falsehood.*
+*所以，不，这不仅仅是 "因为睾丸激素更强"，而是因为卵巢比睾丸复杂得多，更容易被破坏。请停止传播这种谬论。*
 
 {!{ </div></div></div> }!}
 
-### Progestagins
+### 孕激素
 
-The primary progestogin is [progesterone](https://en.wikipedia.org/wiki/Progesterone), which plays numerous roles in the body and has been found to be [an important component for feminizing hormone therapy](https://academic.oup.com/jcem/article/104/4/1181/5270376).
+最主要的孕激素是 [孕酮](https://zh.wikipedia.org/zh/%E5%AD%95%E9%85%AE)，它在体内起着许多作用，并被发现是 [女性化激素治疗的一个重要组成部分](https://academic.oup.com/jcem/article/104/4/1181/5270376)。
 
-One of the largest roles that the progestogin receptor plays is in the regulation of gonadal function (ovaries and testies). The hypothalamus is positively *littered* with progestogin receptors and responds strongly to their activation, downregulating the production of [GnRH](https://en.wikipedia.org/wiki/Gonadotropin-releasing_hormone), which then reduces the production of [luteinizing hormone](https://en.wikipedia.org/wiki/Luteinizing_hormone) by the pituitary gland.
+孕激素受体发挥的最大作用之一是对性腺功能（卵巢和睾丸）的调节。下丘脑*充满了*孕激素受体，并对其激活作出强烈反应，下调GnRH的产生 [促性腺激素释放激素](https://zh.wikipedia.org/wiki/%E4%BF%83%E6%80%A7%E8%85%BA%E6%BF%80%E7%B4%A0%E9%87%8A%E6%94%BE%E6%BF%80%E7%B4%A0)，然后减少脑垂体的 [黄体生成素](https://zh.wikipedia.org/wiki/%E9%BB%84%E4%BD%93%E7%94%9F%E6%88%90%E7%B4%A0)的分泌。
 
-LH is what tells the ovaries and testes to produce estrogen and androgens. LH and its sibling hormone [FSH](https://en.wikipedia.org/wiki/Follicle-stimulating_hormone) both play central roles in ovulation, which is another large source of estrogen in ovary-havers. Thus, synthetic progestins, chemicals that fit into progestogin receptors, are often included in birth control in order to prevent ovulation. In AMABs, progestogins are a useful tool for blocking testosterone production.
+黄体生成素是告诉卵巢和睾丸产生雌激素和雄激素的原因。黄体生成素和它的姐妹荷尔蒙 [促卵泡激素](https://zh.wikipedia.org/wiki/%E4%BF%83%E5%8D%B5%E6%B3%A1%E6%BF%80%E7%B4%A0) 两者都在排卵中发挥核心作用，而排卵是卵巢癌患者的另一大雌激素来源。因此，合成的孕激素，即适合孕激素受体的化学物质，经常包含在节育器中，以防止排卵。在以男性出生的跨性别者们中，孕激素是阻断睾丸激素产生的一个有用工具。
 
-Another type of cell that is full of progestogin receptors is mammary tissue. Progesterone plays a major role in the growth and maturation of milk ducts within breast tissue. While little formal research has been conducted into progesterone's effect on breast development, anecdotally it has been seen widely across the transfem community to provide significant improvements in breast fullness. Progesterone has also been demonstrated to increase blood flow to breast tissue, and encourages fat deposits in the breasts, both of which increase breast size.
+另一种充满孕激素受体的细胞类型是乳腺组织。孕激素在乳腺组织内乳腺管的生长和成熟中起着重要作用。虽然对孕酮对乳房发育的影响进行的正式研究很少，但它在整个跨性别女性社区中被广泛认为对乳房的丰满度有明显改善。孕酮还被证明能增加乳房组织的血流量，并促进乳房中的脂肪沉积，这两者都能增加乳房大小。
 
-Additionally, progesterone promotes better sleep, improves cardiovascular health, increases ketogenesis (reducing triglycerides), increases metabolic function, and has been found to reduce breast cancer risk.
+此外，孕酮能促进更好的睡眠，改善心血管健康，增加生酮作用（减少甘油三酯），增加代谢功能，并被发现能减少乳腺癌风险。
 
-### Mineralcorticoids
+### 盐皮质激素
 
-Mineralcorticoids play no role in transition, but they are worth mentioning because of one major hormone: [Aldosterone](https://en.wikipedia.org/wiki/Aldosterone).
+矿物质皮质激素在过渡期没有作用，但它们值得一提，因为有一种主要的激素：[醛固酮](https://zh.wikipedia.org/wiki/%E9%86%9B%E5%9B%BA%E9%85%AE)。
 
-Aldosterone is what instructs the kidneys to *stop* extracting water from the blood stream. It is produced by the adrenal glands in order to regulate body hydration. Why is this significant?
+醛固酮是指示肾脏*停止*从血流中提取水分的东西。它是由肾上腺产生的，以调节身体的水合作用。为什么这很重要？
 
-Because one drug that is very commonly used in trans hormone therapy is an extremely powerful aldosterone antagonist... Spironolactone. Spiro binds to mineralcorticoid receptors more strongly than aldosterone does, but does not activate the receptor. It just clogs it, preventing the kidneys from receiving the signal to stop extracting water.
+因为在跨性别激素治疗中非常常用的一种药物是一种极其强大的醛固酮拮抗剂... 螺内酯。螺内酯与矿物皮质激素受体的结合比醛固酮更强，但不会激活受体。它只是堵塞它，防止肾脏收到停止提取水的信号。
 
-This is why spiro makes people pee so much.
+这就是为什么螺会让人尿得那么多。
