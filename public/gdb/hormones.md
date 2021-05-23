@@ -32,54 +32,53 @@ classes:
 
 在某些情况下，一种激素可以通过减缓或增加细胞中的行为，作为一种不同激素的抑制剂或激活剂。例如，孕酮增加细胞的活性，使细胞对雌激素和雄激素的反应更有效，而睾酮增加多巴胺受体的处理能力，因此在大脑中需要更少的多巴胺来达到同样的效果。
 
-## Whats in a Hormone
+## 都有什么激素？
 
-There are four main kinds of hormones:
+有四种主要的激素：
 
-- [Amino Acids](https://en.wikipedia.org/wiki/Amino_acid) such as Melatonin which controls sleep, or Thyroxine which regulates the metabolism.
-- [Peptides](https://en.wikipedia.org/wiki/Peptide_hormone), like Oxytocin and Insulin, which are collections of Amino Acids.
-- [Eicosanoids](https://en.wikipedia.org/wiki/Eicosanoid) that are formed from lipids and fatty acids and predominantly affect the immune system
-- [Steroids](https://en.wikipedia.org/wiki/Steroid) are signaling molecules produced by various internal organs in order to pass messages to other organs within the body.
+- [氨基酸](https://zh.wikipedia.org/wiki/%E6%B0%A8%E5%9F%BA%E9%85%B8) 如控制睡眠的褪黑激素，或调节新陈代谢的甲状腺素。
+- [缩氨酸](https://zh.wikipedia.org/wiki/%E8%82%BD) 如催产素和胰岛素，它们是氨基酸的集合。
+- [类花生酸](https://zh.wikipedia.org/wiki/%E7%B1%BB%E8%8A%B1%E7%94%9F%E9%85%B8) 主要是由脂质和脂肪酸形成的，影响免疫系统。
+- [类固醇](https://zh.wikipedia.org/wiki/%E7%94%BE%E4%BD%93) 是由各种内部器官产生的信号分子，以便向身体内的其他器官传递信息。
 
 {!{ <div class="gutter print-span3">{{import '~/img' images.steroidogenesis
   className="card"
   link="https://en.wikipedia.org/wiki/File:Steroidogenesis.svg"
   external=1
-  alt="Chart of steroid metabolism flow"
-  caption="All steroids are formed from cholesterols (top left) and are derived from other steroids. Progestins form into Androgens which form into Estrogens. This is a one-way exchange, and does not reverse, so don't believe it when someone tells you that too much estrogen will turn it into testosterone."
+  alt="类固醇代谢流程图"
+  caption="所有的类固醇都是由胆固醇（左上角）形成的，并由其他类固醇衍生出来。孕激素形成雄激素，雄激素形成雌激素。这是一个单向的交换，不会逆转，所以当有人告诉你太多的雌激素会变成睾酮时不要相信。"
 }}</div> }!}
 
-For the purposes of transition, this last category is what we care about the most, as all of the sex hormones are steroids. They fall into seven main categories:
+为了跨性别的目的，这最后一类是我们最关心的，因为所有的性激素都是类固醇。它们分为七个主要类别。
 
-- [Androgens](https://en.wikipedia.org/wiki/Androgen)
-- [Estrogens](https://en.wikipedia.org/wiki/Estrogen)
-- [Progestagins](https://en.wikipedia.org/wiki/Progestogen)
-- [Glucocorticoids](https://en.wikipedia.org/wiki/Glucocorticoid)
-- [Mineralcorticoids](https://en.wikipedia.org/wiki/Mineralocorticoid)
-- [Neurosteroids](https://en.wikipedia.org/wiki/Steroid)
-- [Aminosteroids](https://en.wikipedia.org/wiki/Aminosteroid)
+- [雄激素](https://zh.wikipedia.org/wiki/%E9%9B%84%E6%BF%80%E7%B4%A0)
+- [雌激素](https://zh.wikipedia.org/wiki/%E9%9B%8C%E6%BF%80%E7%B4%A0)
+- [孕酮](https://zh.wikipedia.org/wiki/%E5%AD%95%E9%85%AE)
+- [糖皮质激素](https://zh.wikipedia.org/wiki/%E7%B3%96%E7%9A%AE%E8%B4%A8%E6%BF%80%E7%B4%A0)
+- [盐皮质激素](https://zh.wikipedia.org/wiki/%E7%9B%90%E7%9A%AE%E8%B4%A8%E6%BF%80%E7%B4%A0)
+- [神经甾体](https://baike.baidu.com/item/%E7%A5%9E%E7%BB%8F%E7%94%BE%E4%BD%93)
+- [氨基甾体](https://zh.wikipedia.org/wiki/%E6%B0%A8%E5%9F%BA%E7%94%BE%E4%BD%93)
 
-The first three of these are what we care about most when it comes to Hormone Therapy. Note: All human beings, regardless of phenotype, have some of every one of these hormones in their bodies. The ratios are what affect body shape.
+当涉及到激素治疗时，其中的前三个是我们最关心的。注意：所有的人，无论其表型如何，体内都有这些激素中的一部分。比例是影响体形的因素。
+
+### 雄激素
+
+有近十种不同的雄性激素，但我们最关心的是 [睾酮](https://zh.wikipedia.org/wiki/%E7%9D%BE%E9%85%AE) 和 [双氢睾酮](https://zh.wikipedia.org/wiki/%E5%8F%8C%E6%B0%A2%E7%9D%BE%E9%85%AE)。
+
+睾酮是人体的主要男性化激素，在肾上腺、睾丸和卵巢中产生（在卵巢中立即转化为雌酮和雌二醇）。它让肌肉和骨骼细胞生长，在较高的浓度下产生更大的肌肉质量和更厚的骨骼结构。这也意味着睾酮对骨骼健康至关重要，因为它影响骨骼结构内的钙质分布。因此，睾丸激素的严重耗损会导致骨质疏松症和骨骼脆弱。睾酮还在性欲和性欲方面发挥重要作用，鼓励大脑皮层内的交配行为。
+
+双氢睾酮 (DHT) 由睾酮在前列腺、皮肤和肝脏中转化而来，在青春期男性生殖器的发育过程中起着重要作用，它能诱发随机勃起，并使面部和身体毛发生长。矛盾的是，DHT也是导致男性秃头的原因，因为它扼杀了头皮顶部的毛囊的血液循环（对不起，跨性别男性，这是一把双刃剑）。DHT与雄性激素受体的结合比睾丸激素强十倍，这就是为什么消除它对女性化转变至关重要。
 
 
-### Androgens
+### 雌激素
 
-There are nearly a dozen different androgens, but the ones we care about the most are [Testosterone](https://en.wikipedia.org/wiki/Testosterone) and [Dihydrotestosterone](https://en.wikipedia.org/wiki/Dihydrotestosterone).
+有四种雌激素： [雌二醇](https://zh.wikipedia.org/wiki/%E9%9B%8C%E4%BA%8C%E9%86%87)， [雌酮](https://zh.wikipedia.org/wiki/%E9%9B%8C%E9%85%AE)，雌三醇和雌四醇。后两者只在怀孕期间产生，对胎儿健康很重要，但对跨性别没有影响。
 
-Testosterone is the primary masculinizing hormone for the human body and is produced in the adrenal glands, the testes, and in the ovaries (where it is immediately converted into estrone and estradiol). It tells both muscle and bone cells to grow and in higher concentrations encourages larger muscle mass and thicker skeletal structure. This also means that Testosterone is critical for bone health, as it affects calcium distribution within the skeletal structure. Thus, severe depletion of testosterone can result in osteoperosis and fragile bones. Testosterone also plays a major role in sex drive and libido, encouraging mating behavior within the cerebral cortex.
+雌二醇是女性化的荷尔蒙。它是乳腺（乳腺组织）生长的主要信号荷尔蒙，而且它鼓励脂肪沉积在大腿、臀部、臀部、胸部和手臂，同时阻止脂肪沉积在腹部，从而产生更多的曲线身材。雌二醇还能促进胶原蛋白的产生，使皮肤更柔软，肌腱和韧带更灵活。
 
-Dihydrotestosterone (DHT), which is converted from Testosterone in the prostate, skin and liver, plays a major role in the development of the male genitalia during puberty by inducing random erections, and the growth of facial and body hair. Paradoxically, DHT is also what causes male pattern baldness, as it chokes off blood circulation to the follicles on the top of the scalp (sorry, trans guys, it's a double edged sword). DHT binds to androgen receptors ten times more strongly than testosterone, which is why it is critical to eliminate it for feminizing transition.
+雌酮在体内的作用一直是医学研究中的一个难题，因为与雌二醇相比，它的结合亲和力明显较低（0.6%），而且转导能力非常低（4%）。这种激素似乎不*做*任何事情，它只是停留在血流中。然而，它有一种独特的能力，可以通过一种叫做 "17β-HSD" 的酶组转化为雌二醇。 [17β-羟基类固醇脱氢酶](https://zh.wikipedia.org/wiki/17%CE%B2-%E7%BE%9F%E5%9F%BA%E7%B1%BB%E5%9B%BA%E9%86%87%E8%84%B1%E6%B0%A2%E9%85%B6),使其非常适合在体内发挥雌激素电池的功能。
 
-
-### Estrogens
-
-There are four estrogens: [Estradiol](https://en.wikipedia.org/wiki/Estradiol), [Estrone](https://en.wikipedia.org/wiki/Estrone), Estriol and Estetrol. The latter two are only produced during pregnancy and are important for fetal health, but have no bearing on transition.
-
-Estradiol is the Feminizing hormone, as it is the primary signaling hormone for growth in the mammary glands (breast tissue), and because it encourages fat deposits in the thighs, hips, butt, chest and arms, while discouraging fat deposits in the abdomen, thus producing a curvier figure. Estradiol also promote increased collagen production, resulting in softer skin and more flexible tendons & ligaments.
-
-Estrone's role in the body has been something of a puzzle in medical research, as it has significantly lower binding affinity compared to estradiol (0.6%) and very low transactivational ability (4%). The hormone doesn't appear to *do* anything, it just sits in the blood stream. However it has a unique ability to convert to and from Estradiol via an enzyme group called [17β-HSD](https://en.wikipedia.org/wiki/17%CE%B2-Hydroxysteroid_dehydrogenase), making it ideally suited to function like an estrogen battery within the body.
-
-New research is starting to suggest that the body may regulate total estradiol levels by releasing HSD17B1 to turn estradiol into estrone, and releasing HSD17B2 to convert it back, however this is very early study. Both enzymes are produced in breast tissue, and may play a role in the presence of cyclical period-like symptoms in estrogenic individuals who do not have ovaries, such as trans women.
+新的研究开始表明，身体可能通过释放HSD17B1将雌二醇转化为雌酮，并释放HSD17B2将其转化回来来调节总雌二醇水平，然而这只是非常早期的研究。这两种酶都在乳腺组织中产生，并可能在没有卵巢的雌激素个体（如跨性别女性）出现周期性月经样症状时起作用。
 
 {!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">For Your Information</h4> }!}
 
