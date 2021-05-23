@@ -1,8 +1,8 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Hormones: How do they work"
-linkTitle: "How Hormones Work"
-description: "It's nothing like magnets."
+title: "激素怎么工作呢？"
+linkTitle: "激素如何工作"
+description: "就像磁铁一样。"
 preBody: '_disclaimer'
 siblings:
   prev: /gdb/chromosomes
@@ -13,24 +13,24 @@ classes:
   - gdb
 ---
 
-# How Hormones Work
+# 激素如何工作
 
-As we described in the [Causes of Gender Dysphoria](/gdb/causes) section, every human's DNA contains the genetic instructions for both male and female bodies, and which set of instructions gets used is controlled by what hormones your gonads produce. That differentiation occurs entirely based on whether you happen to have an SRY gene which, in the 6-8th week of gestation, kicks off a chain reaction that produces testes instead of ovaries. From that point on, every sexual attribute of the human body (primary and secondary) is a result of the hormones that those gonads produce.
+正如我们在 [性别焦虑的原因](/gdb/causes) 一节中所描述的，每个人的DNA均包含男性与女性身体的遗传指令，而哪一条指令被使用则由你的性腺产生的激素控制。这种分化完全基于你是否拥有一个SRY基因，即在妊娠的第6-8周产生睾丸而不是卵巢的连锁反应。从那时起，人体的每一个性属性（第一性征或第二性征）都是这些性腺产生的激素的结果。
 
-If they produce estrogens (primarily Estradiol) then the genitals form into a vulva, vagina and uterus. If they produce androgens (primarily Testosterone) then the genitals form into a penis and scrotum, shifting the [Skene's gland](https://en.wikipedia.org/wiki/Skene%27s_gland) downward and enlarging it into a prostate. Differentiation ends here until the onset of puberty, 9-10 years later, and we all know what puberty does.
+如果它们产生雌激素（主要是雌二醇），那么生殖器会形成外阴、阴道和子宫。如果它们产生雄性激素（主要是睾酮），那么生殖器就会形成阴茎和阴囊，将 [斯基恩氏腺](https://zh.wikipedia.org/wiki/%E6%96%AF%E5%9F%BA%E6%81%A9%E6%B0%8F%E8%85%BA) 下移并扩大成前列腺。分化在此结束，直到9-10年后的青春期，而我们都知道青春期的作用。
 
-So how does this work? Why do the cells differentiate like this? Well, before we can explain that, first we have to explain the concept of a **Receptor**.
+所以这是怎么做到的呢？为什么细胞会这么分化？嗯，在我们解释这个问题之前，先来说明一下 **受体** 的概念。
 
 
-## Hormone Receptors
+## 激素受体
 
-In simplest terms, a receptor is like the keyed lock ignition on a car (do new car’s still have keyed ignitions?). Every cell in the body has a set of locks which activate different functions within that cell. They’re like switches which signal to the cell that it should activate a different part of its genetic sequence. Each receptor can only accept certain chemical compounds, much like how a lock can only accept certain keys, and different chemicals have different capabilities at turning the key. Some can completely start the car, while others only turn it to Accessory Mode.
+简单来说，受体就像汽车上的钥匙锁点火装置（等下，新车还有这东西嘛？）。身体里的每个细胞都有一套锁，用于激活该细胞内的不同功能。它们就像开关，向细胞发出信号，告诉它应该激活其基因序列的不同步分。每个受体只能接受某些化合物，就像锁只能接受某些钥匙一样，而不同的化学物质在转动钥匙时有不同的能力。有的可以完全启动汽车，而有的只能把它的车载音响打开。
 
-The ability for a chemical to fit into a receptor is called **Relational Binding Affinity**, and is measured as percentage of how likely a chemical will bind to a receptor compared to another. So, for example, if Hormone B binds only 10% of the time in relation to Hormone A, then it is said to have a 10% binding affinity. Similarly, the ability for a chemical to turn the key is called *Transactivational Ability*. Compounds which fit into a receptor but don’t do anything are called *Antagonists*, compounds which are able to turn the key are called **Agonists**. If it can only turn the key a tiny bit, it’s called a **Partial Agonist**.
+化学物质适应受体的能力被称为 **关系结合亲和力**，它以一种化学物质和另一种化学物质相比与受体结合的可能性百分比来衡量。因此，例如如果激素B与激素A相比只有10%的时间结合，那么就说它有10%的结合亲和力。同样地，一种化学品转动钥匙的能力被称为 *跨活性能力*。适合受体但不做任何事情的化合物被称为 *拮抗剂*，能够转动钥匙的化合物被称为 **激动剂**。如果它只能转动一点点钥匙，它则被称为 **部分激动剂**。
 
-You can think of antagonists like bouncers at a club. They stand in the doorway and prevent anything else from getting through, but don’t enter the club themselves. Most antagonists are referred to as **blockers**. This is different from an **inhibitor**, which is a compound that slows down a chemical reaction, or an *activator*, which speeds up a reaction. In receptors, an inhibitor lowers the ability of the receptor, causing it to respond less effectively to things that bind to the receptor, and an activator increases the ability of the receptor, making it respond stronger, like a booster.
+你可以把拮抗剂想象成俱乐部的报表。他们站在门口，阻止其他东西通过，但自己不进入俱乐部。大多数拮抗剂被称为 **阻断剂**。这与 **抑制剂** 不同，后者是一种减缓化学反应的化合物，而 *激活剂* 则加速反应。在受体中，抑制剂降低了受体的能力，从而使其对与受体结合的事物的反应不那么有效，而激活剂则提高了受体的能力，使其反应更强，就像一个助推器。
 
-In some cases a hormone can function as an inhibitor or an activator for a different hormone by slowing down or increasing behavior in a cell. For example, progesterone increase cell activity, making cells respond more effectively to estrogens and androgens, and testosterone increases the transaction ability of dopamine receptors, so less dopamine is needed in the brain for the same effect.
+在某些情况下，一种激素可以通过减缓或增加细胞中的行为，作为一种不同激素的抑制剂或激活剂。例如，孕酮增加细胞的活性，使细胞对雌激素和雄激素的反应更有效，而睾酮增加多巴胺受体的处理能力，因此在大脑中需要更少的多巴胺来达到同样的效果。
 
 ## Whats in a Hormone
 
