@@ -1,14 +1,14 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "How Gender Dysphoria Manifests: Societal Dysphoria"
-linkTitle: "Societal Dysphoria"
-description: "Because a Role is a Role, and a Toll is a Toll, and it's a heavy toll to live the wrong role."
+title: "性别焦虑是如何表现的：社会性烦躁"
+linkTitle: "社会性烦躁"
+description: "只因为活在错误的角色当中会带来沉重的代价。"
 preBody: '_disclaimer'
 siblings:
   prev: /gdb/social-dysphoria
-  prevCaption: Social Dysphoria
+  prevCaption: 社交烦躁
   next: /gdb/sexual-dysphoria
-  nextCaption: Sexual Dysphoria
+  nextCaption: 性烦躁
 classes:
   - gdb
 tweets:
@@ -24,35 +24,35 @@ tweets:
 
 ---
 
-# Societal Dysphoria
+# 社会性烦躁
 
-Gender roles exist, and as much as we may try to buck them and point out the sexism that exists, there will always be expectations placed on people for their gender. The strongest of these are in marital and parental roles; "Husband", "Wife", "Mother", "Father", these terms come with loads of baggage attached to them, and the wrong role, or even any role at all, can feel like a lead lined straight jacket. You are given a whole book full of behaviors and actions, likes and dislikes, that you are just expected to fulfill, and if you fail to meet those requirements then you are seen as a bad spouse or a bad parent.
+尽管我们试图尽量抵制并指出存在的性别歧视，它们仍然存在，而人们总是会被因为自身的性别而被强加期望。这当中最强烈的是婚姻与父母角色；“丈夫”、“妻子”、“母亲”、“父亲”，这些术语都带着大量的包袱。错误的角色——甚至是任何角色——都会像铅球一般沉重。你被给予了一整本充满着行为与喜好的书，而你被期望履行书中的要求。如果你不能满足这些要求，那你就会被视为一个坏配偶或坏父母。
 
-An AFAB parent who gives birth may experience severe dysphoria around being labeled as a mother. The vast majority of resources for birth are *extremely* female gendered, so just the very process of conceiving, carrying, and giving birth is exceptionally loaded with gender expectations. If you are pregnant then you are labeled a mom, regardless of how you actually feel about your role, and with that comes a whole load of assumptions. Assumptions about caregiving, breastfeeding, and child rearing.
+一位生理性别为女性的父母可能会因为被贴上母亲的标签而经历严重的心理障碍。绝大多数的生育资源都*非常地*被套上了女性的模子，所以哪怕是怀孕和分娩的过程都充满了性别期望。如果你怀孕了，那么你就被贴上了母亲的标签，不管你对自己的角色的实际感受如何，而随之而来的是一大堆关于护理、母乳喂养和抚养孩子的假设。
 
-[Cisgender-passing](https://en.wikipedia.org/wiki/Passing_(gender)) transfeminine individuals also run into this. If you are holding an infant or tending to a child then you are labeled a mom (unless the child is mixed race, then you're demoted to nanny, but that's a whole other topic). This can be validating, because it is a sign that you've been seen as a woman, but it can also be extremely *invalidating* when cis women start to talk about what they think are shared experiences with reproductive processes.
+尝试 [准行化 (Passing, 即试图被社会默认为自己希望成为的性别的过程)](https://en.wikipedia.org/wiki/Passing_(gender)) 的跨性别者也会遇到这种情况。如果你抱着一个婴儿或照顾一个孩子，那你就被贴上了妈妈的标签（除非孩子是混血儿，那你会被降级为保姆，不过说远了）。这可以被看作是成功的 (validating)，因为这是表明你已经被看作是一个女人的迹象，但是当顺性别女性开始谈论她们生育过程的经验时这会非常*失败* (invalidating)。
 
-Some unexpected ways that Societal Dysphoria can appear are in the need to conform to the social standards of your true gender. For example, many trans women have stories about feeling the need to cover up their chest pre-transition out of an intrinsic sense of modesty. A discomfort at swimming topless is a common trait, even when there is no understanding of one's true self; something just knows.
+当你需要符合你认同性别的社会标准时，社会性烦躁可能以一些意想不到的方式出现。例如，许多跨性别女性有这样的故事：出于内心中的羞涩感，她们在开始转换前感到需要遮盖自己的胸部。对赤裸上身游泳的不适是一个共同的特征，甚至在她们对真实自我没有了解的时候就已经浮现了。
 
-### Shame
+### 羞耻感
 
-Failure to live up to these roles can manifest *intensely* as shame and humiliation. Growing up closeted and struggling to fit into common gender tropes often results in signs of disappointment from parents and peers who expected otherwise. A father may be disappointed that their AMAB child isn't willing to engage in sports or other masculine activities. Female peers may demonstrate disapproval of an AFAB teenager choosing to hang out with a male social circle. Teen boys may ostracize an AMAB trans person who doesn't join in with their humor.
+不能达到这些角色的要求会被体现为*强烈的*羞愧和耻辱。在成长过程中保持非出柜状态并努力适应常见的社会性别模式往往会导致父母和同龄人的失望，因为他们的期望是不同的。父亲可能对他们的生理男性孩子不愿意参加体育或其他男性活动而感到失望。女性同龄人可能会对一个选择与男性社交圈混在一起的生理女性青少年表示不赞同。十几岁的男孩可能会排斥一个不加入他们的“幽默”的生理男性跨性别者。
 
-These kinds of situations can lead to bullying and abuse, pushing the trans person to feel isolated, alone, and out of place. This sense of division then creates feelings of shame for failing to be the person everyone expects them to be. This then manifests as depression on top of other dysphoria, compounding their pain.
+这类情况可能会导致欺凌与虐待，使跨性别者感到孤立、孤独和不合群。这种分裂感随后产生了羞耻感，因为他们没能成为大家期望中的哪个人。然后，这表现为在其他心理烦躁之上的抑郁症，加剧了ta们的痛苦。
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
     '1201138482569195526'
 ] tweets=meta.tweets className="" }}</div> }!}
 
-The shame becomes especially intense at the moment of revealing themselves to be trans. Transphobic friends and family having negative, sometimes even violent reactions to a trans person coming out of the closet converts that shame into extreme guilt and disgrace. An adult trans person in a marriage may feel a tremendous amount of remorse at upending their spouse's life by revealing themselves. They may expect reproach from their neighbors and peers, and fear how that will affect their spouse and/or children.
+这种羞耻感在暴露自己是跨性别的那一刻变的尤为强烈。仇视跨性别群体的朋友和家人对跨性别出柜后的消极反应，有时甚至是暴力反应，将这种羞耻感转化为极端的内疚和羞辱。婚姻中的成年跨性别者可能会对自己出柜而破坏配偶的生活而感到十分自责。他们可能会受到邻居与同龄人的指责，并担心这会影响到他们的配偶和/或孩子。
 
-This too is a form of gender dysphoria, as these influences would not have been felt if the person had been cisgender.
+这也是性别烦躁的一种形式，因为如果这个人是顺性别者，就不会感受到这些影响。
 
-The other way shame comes in to play is in the systemic transphobia present in our society. Trans adults of today grew up watching transphobic media in their childhood. The transsexual obsession of the late 80s and early 90s was horrifically traumatic for trans kids of the time, watching all the adults and peers around them laugh and jeer at and be disgusted by people who they not only identified with, but strongly empathized and looked up to. This shame sits with us for our entire lives; it is a fundamental reason for why so many trans people do not come out until their late 30s or later, because only when they reach mid-life are they able to overcome that shame.
+羞耻感发挥作用的另一种方式是我们社会中存在的系统性跨性别恐惧。今天的跨性别成年人在他们的童年时期是看着恐跨的媒体长大的。美国社会中80年代末和90年代初对跨性别的“迷恋”对当时的跨性别孩子们是一种可怕的创伤：ta们看着周围所有的成年人和同龄人嘲笑、讥讽和厌恶那些他们不仅认同，并且强烈同情和仰望的人。这种羞耻感伴随着我们的一生；这是许多跨性别者直到30多岁或更晚才出柜的根本原因，因为只有到了中年，ta们才能克服这种羞耻感。
 
-Shame also tends to build up until it boils over into radical action. A very common aspect among trans people's histories are cycles where they will build up their presentation, fighting their feelings less and less, until suddenly they feel overcome with the shame and purge everything, vowing to never pursue those feelings again. This pattern repeats over and over again.
+羞耻感也倾向于积累，直至它沸腾为激进的行动。在跨性别的历史中，一个很常见的方面就是ta们会不断增加自己的表现、不断减少与自己的感觉相斗争，直到ta们突然被羞耻感所征服，清除一切并发誓不再追求这些感觉。这种模式一遍又一遍地重复。
 
-### Dating and Romantic Relationships
+### 约会与浪漫关系
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1216109204093722630'
@@ -65,12 +65,12 @@ Shame also tends to build up until it boils over into radical action. A very com
   '1216112014411599877'
 ] tweets=meta.tweets className="oneblock capped" }}</div> }!}
 
-Societal Dysphoria *strongly* comes into play with courtship rituals. Being forced into being the boyfriend or girlfriend when you are not a boy or a girl is extremely disorienting and often feels very unfair. AMABs may find themselves wishing *they* were the one being pampered, and AFABs may become uncomfortable with the amount of attention they receive from their prospective partners (beyond the discomfort that women experience, as this includes genuine attention, not just unwanted attention). The expectations placed on them by their partners to fill these courtship roles may feel like a heavy burden to bear. By contrast, dating as your true gender becomes euphoric. Buy a trans girl flowers and see how much she swoons.
+社会性烦躁*强烈地*影响到求爱的仪式。当你不是男孩或女孩时，被迫成为男友或女友是非常迷惑人的，而且常常感觉很不公平。生理男性者可能会发现自己希望*ta们*是被宠爱的那个人，而生理女性者可能会对ta们从未来的伴侣那里得到的关注量感到不舒服（超越女性所经历的不舒服，因为这包括真正的关注，而不仅仅是不想要的关注）。ta们的伴侣对ta们填补这些求爱角色的期望，可能会成为一个沉重的负担。相比之下，以自己的真实性别进行约会会变得很兴奋。给一个跨性别女孩买花，看看她会有多开心。
 
-A closeted trans person may feel so much pressure to conform to heterosexuality that they suppress their own instincts with regards to relationships and take on a performative role. Many a trans woman has attempted to play the role of a heterosexual husband to a wife, only to realize with transition that they would much prefer the role of the wife. They may not even be attracted to women.
+一个未出柜的跨性别者可能会感到有许多来自符合异性恋的要求的压力，以至于ta们压制了自己在人际关系方面的本能，而扮演了一个表演的角色。许多跨性别女性试图扮演异性恋丈夫对妻子的角色，但在转变后才发现她们更喜欢妻子的角色。她们甚至不会被女性所吸引。
 
-Beyond discomfort, many trans people realize that the dynamics of relationships that they have experienced simply did not fit the shape of how they appeared. Many trans people come to realize after transition that they had never actually dated like a cis person of their assigned gender, instead always having romantic relationships that fit their true orientation. Male to male and female to female relationships have completely different patterns from heterosexual relationships; different courtship rituals, different perceptions, different communication styles. Men relate differently to men than they do to women, and women to women differently than they do to men, even when they don't know they are men or women.
+除了不舒服之外，许多跨性别者意识到ta们所经历的关系变化根本不符合ta们的外表形态。许多跨性别者在转换后意识到，ta们实际上从来没有像原先性别的顺性别者那样约会过，而总是有着像ta们真实取向的浪漫关系。男性对男性和女性对女性的关系与异性恋关系有完全不同的模式；不同的求爱仪式、不同的看法、不同的沟通方式。男人与男人的关系和他们与女人的关系不同，女人与女人的关系和她们与男人的关系不同，即使ta们不知道自己是男人还是女人。
 
-For example, I myself realized after coming out to my wife that all of my previous dating attempts had absolutely been sapphic in nature. My first order had always been to become good friends with them. Dates would never be labeled as dates because we would just sit and talk somewhere, hanging out together. Consequently, several of my relationships ended simply because I was too scared to make the first move out of destroying the friendship. I would spend half my waking day thinking about them and wanting to be around them, not out of sexual lust, but out of personal infatuation. My first girlfriend straight up told me on our first date that I was unlike any man she'd ever dated because I enjoyed talking instead of just trying to get physical. She broke up with me two months later because I wasn't as assertive as she wanted from a partner.
+举个例子，我（原作者本人）在向妻子出柜后意识到，我以前所有的约会尝试都像女同性恋一样：首要任务一直是与她们成为好朋友。约会永远不会被贴上约会的标签，因为约会仅仅是坐在某个地方聊天并一起闲逛。因此，我们的几段关系仅仅因我太害怕了，不敢迈出第一步以免破坏了友谊而结束。我会花半天时间去想她们，想和她们在一起，不是出于性欲，而是出于个人迷恋。我的第一位女朋友在第一次约会时直接告诉我，我与她曾经约会过的任何男人都不一样，因为我喜欢聊天，而不是只想得到身体。两个月后，她和我分手了，因为我不像她希望的那样有自信的伴侣。
 
-These dynamics get even more complex for non-binary people, some of whom can at best describe their dating style as Queer. Some struggle to identify what role they play in a relationship. Others take a specific role that is typically seen as a binary gendered role. Some non-binary people wish to be seen as a boyfriend/girlfriend, even if they are not a boy/girl. Some want to play a role seen by society as neutral or consisting of aspects from both binary roles.
+这些变化对于非二元者变的更加复杂，其中一些人最多可以把ta们的约会风格描述为同性恋。有些人努力确定ta们在一段关系中扮演什么角色。另一些人则扮演了一个通常被视为二元性别角色的特定角色。一些非二元者希望被看作是男朋友/女朋友，即使ta们不是男孩/女孩。有些人希望扮演一个被社会视为中性或由两种二元角色的各个方面组成的角色。
