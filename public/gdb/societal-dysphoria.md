@@ -30,7 +30,7 @@ tweets:
 
 一位生理性别为女性的父母可能会因为被贴上母亲的标签而经历严重的心理障碍。绝大多数的生育资源都*非常*被套上了女性的模子，所以哪怕是怀孕和分娩的过程都充满了性别期望。如果你怀孕了，那么你就被贴上了母亲的标签，不管你对自己的角色的实际感受如何，而随之而来的是一大堆关于护理、母乳喂养和抚养孩子的假设。
 
-尝试 [准行化 (Passing, 即试图被社会默认为自己希望成为的性别的过程)](https://en.wikipedia.org/wiki/Passing_(gender)) 过程的跨性别者也会遇到这种情况。如果你抱着一个婴儿或照顾一个孩子，那你就被贴上了妈妈的标签（除非孩子是混血儿，那你会被降级为保姆，不过说远了）。这可以被看作是有效的 (valid)，因为这是表明你已经被看作是一个女人的迹象，但是当顺性别女性开始谈论她们生育过程的经验时这会非常*无效* (invalid)。
+尝试 [准行化 (Passing, 即试图被社会默认为自己希望成为的性别的过程)](https://en.wikipedia.org/wiki/Passing_(gender)) 的跨性别者也会遇到这种情况。如果你抱着一个婴儿或照顾一个孩子，那你就被贴上了妈妈的标签（除非孩子是混血儿，那你会被降级为保姆，不过说远了）。这可以被看作是有效的 (valid)，因为这是表明你已经被看作是一个女人的迹象，但是当顺性别女性开始谈论她们生育过程的经验时这会非常*无效* (invalid)。
 
 当你需要符合你认同性别的社会标准时，社会性烦躁可能以一些意想不到的方式出现。例如，许多跨性别女性有这样的故事：出于内心中的羞涩感，她们在开始转换前感到需要遮盖自己的胸部。对赤裸上身有用的不适是一个共同的特征，甚至在她们对真实自我没有了解的时候就已经浮现了。
 
@@ -65,12 +65,12 @@ tweets:
   '1216112014411599877'
 ] tweets=meta.tweets className="oneblock capped" }}</div> }!}
 
-Societal Dysphoria *strongly* comes into play with courtship rituals. Being forced into being the boyfriend or girlfriend when you are not a boy or a girl is extremely disorienting and often feels very unfair. AMABs may find themselves wishing *they* were the one being pampered, and AFABs may become uncomfortable with the amount of attention they receive from their prospective partners (beyond the discomfort that women experience, as this includes genuine attention, not just unwanted attention). The expectations placed on them by their partners to fill these courtship roles may feel like a heavy burden to bear. By contrast, dating as your true gender becomes euphoric. Buy a trans girl flowers and see how much she swoons.
+社会性烦躁*强烈地*影响到求爱的仪式。当你不是男孩或女孩时，被迫成为男友或女友是非常迷惑人的，而且常常感觉很不公平。生理男性者可能会发现自己希望*ta们*是被宠爱的那个人，而生理女性者可能会对ta们从未来的伴侣那里得到的关注量感到不舒服（超越女性所经历的不舒服，因为这包括真正的关注，而不仅仅是不想要的关注）。伴侣对他们填补这些求爱角色的期望，可能会让他们觉得是一个沉重的负担。相比之下，以自己的真实性别进行约会会变得很兴奋。给一个跨性别女孩买花，看看她会有多开心。
 
-A closeted trans person may feel so much pressure to conform to heterosexuality that they suppress their own instincts with regards to relationships and take on a performative role. Many a trans woman has attempted to play the role of a heterosexual husband to a wife, only to realize with transition that they would much prefer the role of the wife. They may not even be attracted to women.
+一个未出柜的跨性别者可能会感到有许多来自符合异性恋的要求的压力，以至于ta们压制了自己在人际关系方面的本能，而扮演了一个表演的角色。许多跨性别女性试图扮演异性恋丈夫对妻子的角色，但在转变后才发现她们更喜欢妻子的角色。她们甚至不会被女性所吸引。
 
-Beyond discomfort, many trans people realize that the dynamics of relationships that they have experienced simply did not fit the shape of how they appeared. Many trans people come to realize after transition that they had never actually dated like a cis person of their assigned gender, instead always having romantic relationships that fit their true orientation. Male to male and female to female relationships have completely different patterns from heterosexual relationships; different courtship rituals, different perceptions, different communication styles. Men relate differently to men than they do to women, and women to women differently than they do to men, even when they don't know they are men or women.
+除了不舒服之外，许多跨性别者意识到ta们所经历的关系变化根本不符合ta们的外表形态。许多跨性别者在转换后意识到，ta们实际上从来没有像原先性别的顺性别者那样约会过，而总是有着像ta们真实取向的浪漫关系。男性对男性和女性对女性的关系与异性恋关系有完全不同的模式；不同的求爱仪式、不同的看法、不同的沟通方式。男人与男人的关系和他们与女人的关系不同，女人与女人的关系和她们与男人的关系不同，即使ta们不知道自己是男人还是女人。
 
-For example, I myself realized after coming out to my wife that all of my previous dating attempts had absolutely been sapphic in nature. My first order had always been to become good friends with them. Dates would never be labeled as dates because we would just sit and talk somewhere, hanging out together. Consequently, several of my relationships ended simply because I was too scared to make the first move out of destroying the friendship. I would spend half my waking day thinking about them and wanting to be around them, not out of sexual lust, but out of personal infatuation. My first girlfriend straight up told me on our first date that I was unlike any man she'd ever dated because I enjoyed talking instead of just trying to get physical. She broke up with me two months later because I wasn't as assertive as she wanted from a partner.
+举个例子，我（原作者本人）在向妻子出柜后意识到，我以前所有的约会尝试都像女同性恋一样：首要任务一直是与她们成为好朋友。约会永远不会被贴上约会的标签，因为约会仅仅是坐在某个地方聊天并一起闲逛。因此，我们的几段关系仅仅因我太害怕了，不敢迈出第一步以免破坏了友谊而结束。我会花半天时间去想她们，想和她们在一起，不是出于性欲，而是出于个人迷恋。我的第一位女朋友在第一次约会时直接告诉我，我与她曾经约会过的任何男人都不一样，因为我喜欢聊天，而不是只想得到身体。两个月后，她和我分手了，因为我不像她希望的那样有自信的伴侣。
 
-These dynamics get even more complex for non-binary people, some of whom can at best describe their dating style as Queer. Some struggle to identify what role they play in a relationship. Others take a specific role that is typically seen as a binary gendered role. Some non-binary people wish to be seen as a boyfriend/girlfriend, even if they are not a boy/girl. Some want to play a role seen by society as neutral or consisting of aspects from both binary roles.
+这些变化对于非二元者变的更加复杂，其中一些人最多可以把ta们的约会风格描述为同性恋。有些人努力确定ta们在一段关系中扮演什么角色。另一些人则扮演了一个通常被视为二元性别角色的特定角色。一些非二元者希望被看作是男朋友/女朋友，即使ta们不是男孩/女孩。有些人希望扮演一个被社会视为中性或由两种二元角色的各个方面组成的角色。
