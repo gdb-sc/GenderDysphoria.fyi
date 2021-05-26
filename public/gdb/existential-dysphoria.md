@@ -1,8 +1,8 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "How Gender Dysphoria Manifests: Existential Dysphoria"
-linkTitle: "Existential Dysphoria"
-description: "I don't regret the things I have done, I regret the things I didn't do when I had the chance."
+title: "性别焦虑是如何表现的：存在性烦躁"
+linkTitle: "存在性烦躁"
+description: "我并非后悔我已经做了的事，我只后悔当我有机会时没做的事情。"
 classes:
   - gdb
 preBody: '_disclaimer'
@@ -13,14 +13,14 @@ siblings:
   nextCaption: Managed Dysphoria
 ---
 
-# Existential Dysphoria
+# 存在性烦躁
 
-When you grow up as the wrong assigned gender, you are going to miss out on a lot of things that should have been available to you if only people had known. Sleepovers, camping trips, girl/boy scouts, shopping trips, cheerleading or sports. Events that are co-ed may have very different feelings attached to them based on how you engage with them, like going to prom, religious ceremonies (such as having a bat mitzvah instead of a bar mitzvah), and even just the act of courtship. This dysphoria may also be biological in origin, such as a sorrow over having not given birth to or breastfed your children.
+当你作为错误的指定性别而成长时，你会错过很多如果人们知道你真实性别的话你本应得到的事情。过夜、露营、童子军、购物之旅、拉拉队或运动。混合性别的活动可能会根据你的参与方式而有非常不同的感受，如参加舞会、宗教仪式，甚至只是求爱行为。这种烦躁也可能有生物学的缘由，比如对没有生孩子或没有用母乳喂养孩子而感到悲伤。
 
-These missed opportunities can manifest as feelings of loss and hurt. Furthermore, the memories of things you *did* have access to but wouldn't have otherwise, or events that were performed in the wrong gender, can also be a sour point, as these may have awkward attachments. Imagine having to be a groom at your wedding when you know you should have been a bride; growing up dreaming about your perfect wedding, and then playing the wrong role in it.
+这些错过的机会可能会表现为损失和伤痛的感情。此外，对你*有机会*接触但本不应有的记忆，或以错误的性别进行的活动，也可以化为伤感。想象一下，当你知道你本应是新娘，却不得不在你的婚礼上扮演新郎；在成长过程中梦想着你的完美婚礼，然后在其中扮演错误的角色。
 
-Sometimes existential dysphoria can manifest existentially, hitting you with all the grief of the youth lost. All the dating, the teenage antics, the parties, even just having been able to be sexual with the correct parts while your body was young and you had no responsibilities. It is time that can never be gained back.
+有些时候，存在性烦躁会以真实存在的方式表现，用所有失去的青春的悲伤来打击你。所有的约会、青少年的滑稽动作、聚会，甚至只是在你身体还年轻时你所进行的不能对之负责的性关系——都成为了无法挽回的时间损失。
 
-Many trans people attempt to recapture some of these lost events, hosting or attending queer proms, organizing sleepovers, performing vow renewals with their spouses, and engaging in common puberty rites of passage like having a mother figure help them shop for their first bra, or having a father figure teach them to shave. However, ultimately, existential dysphoria is something that can never be relieved. You can make new experiences to replace the ones you lost, but you can never turn back the clock.
+许多跨性别者试图重拾这些在小时未能进行的事情，通过主办或参加酷儿舞会、组织过夜活动，并参与常见的青春期仪式：如让扮演母亲的人帮助ta们选购第一副文胸，或让扮演父亲的人教他们刮胡子。然而，归根结底，存在性烦躁是永远无法缓解的事情。你可以创造新的经验来取代你失去的经验，但你永远无法倒流时间。
 
-This is one of many reasons why affirming trans youth is so important. Boys want to do common boy things, girls want to do common girl things, and non-binary children want to do whatever feels correct to them, and when they miss out they will not forget.
+这是众多肯定青少年跨性别者的重要原因之一。男孩想要做常见男孩的事情、女孩想要做常见女孩的事情，而非二元儿童想要做任何对ta们来说感觉正确的事情。这样，当ta们错过的时候，ta们就不会忘记。
