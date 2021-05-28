@@ -14,24 +14,24 @@ tweets:
   - https://twitter.com/CognitiveSoc/status/1228717614630940672
 ---
 
-# 什么是性别？
+# What is Gender?
 
 {!{
 <div class="gutter">
   <blockquote>
-    <strong>性别</strong> - <em>名词</em><br>
-    与女性气质和男性气质有关并加以区分的一系列特质。根据具体语境，这些特质可能包涵生理性别、基于性别的社会结构（即性别角色）或性别认同（对自我性别的感知）。
+    <strong>Gen·der</strong> - <em>Noun</em><br>
+    The range of characteristics pertaining to, and differentiating between, femininity and masculinity. Depending on the context, these characteristics may include biological sex, sex-based social structures (i.e., gender roles), or gender identity (the personal sense of one's own gender).
   </blockquote>
 </div>
 }!}
 
-如果你去追溯到“性别”这个词的拉丁词源，“性别”简单说就是“种类”。12世纪的诺曼法语中**gendre**的意思是“男性或女性的特质”。
+If you trace the etymology of the word to its Latin roots, gender simply means "type". The Norman French term **gendre** was in use in the 12th century to describe "the quality of being male or female."
 
-许多人认为心理学家约翰·马尼（John Money）发明了这个词，他在1955年提出用“性别”来区分心理上的性和身体上的性。然而，马尼不是第一人。文化人类学家[玛格丽特·米德](https://en.wikipedia.org/wiki/Margaret_Mead)在1949年出版的《两性之间：变迁世界中的性研究》中用这个词将生理性别与性别化的行为、社会角色做区分。美国心理学杂志(The American Journal of Psychology, [vol. 63, no. 2, 1950, pp. 312](https://www.jstor.org/stable/1418948))是这样评价这本书的：
+Many people attribute the term to psychologist John Money, who proposed using "gender" in 1955 to differentiate mental sex from physical sex. However, Money was not the first to do so. Cultural Anthropologist [Margaret Mead](https://en.wikipedia.org/wiki/Margaret_Mead) used the term in 1949 in her book "Male and Female" to distinguish gendered behaviors and roles from biological sex. The American Journal of Psychology ([vol. 63, no. 2, 1950, pp. 312](https://www.jstor.org/stable/1418948)) described the book thusly:
 
-> 此外，这本书超越了它原本的目的，因为它告诉了读者什么是“性”，什么是“性别”，什么是男性化的角色，什么是女性化的角色，什么是男女的生殖功能。 
+> A book, moreover, which gives beyond its premise; for it informs the reader upon **'gender' as well as upon 'sex,'** upon masculine and feminine roles as well as upon male and female and their reproductive functions.
 >
-> 玛格丽特·米德从研究几个社区里的男女再到更具概括性的比较，最后分析我们时代、我们之间的性模式。
+> Margaret Mead moves from the specific delineation to the more general comparison of male and female in several communities, finally coming to an analysis of sex-patterns in our own midst and for our own time.
 
 {!{
 <div class="gutter">
@@ -41,19 +41,19 @@ tweets:
 </div>
 }!}
 
-人类的性 (形容词，不是动词) 分为三类：
+Human Sex (the adjective, not the verb) is broken down into three categories:
 
-- **[基因类型](https://en.wikipedia.org/wiki/Genotype)**：由生物遗传确定的染色体类型（XX、XY及[其它变体](https://twitter.com/sciencevet2/status/1035250518870900737?lang=en)）  
-- **[外显类型](https://en.wikipedia.org/wiki/Phenotype)**：可观察到的第一性征和第二性征（生殖器、脂肪和肌肉分布、骨胳结构等）
-- **[性别](https://en.wikipedia.org/wiki/Gender)**：不可见的性特征、一个人内在的性心理模式以及表达性别的方式。
+- **[Genotype](https://en.wikipedia.org/wiki/Genotype)**: The genetically defined chromosomal kareotype of an organism (XX, XY, [and all variants there of](https://twitter.com/sciencevet2/status/1035250518870900737?lang=en))
+- **[Phenotype](https://en.wikipedia.org/wiki/Phenotype)**: The observable primary and secondary sexual characteristics (genitals, fat and muscle distribution, bone structure, etc)
+- **[Gender](https://en.wikipedia.org/wiki/Gender)**: The **un**observable sexual characteristics, the internal mental model of a person's own sex and the way that they express it.
 
-这三类中的任何一类都受到观念的桎梏。你小学的健康课上可能讲过，基因类型是二元的，要么是女性（XX），要么是男性（XY），但实际上人体还有十几种其他的排列形式。
+Any of these three aspects can fall into a position on a range of values. Your elementary school health class probably taught you that Genotype is binary, either Female (XX) or Male (XY), when the reality is that there are a dozen other permutations that can occur within human beings.
 
-{!{ {{import '~/img' images.bimodal-Chinese className="card borderless center span34 print-right print-span3"}} }!}
+{!{ {{import '~/img' images.bimodal className="card borderless center span34 print-right print-span3"}} }!}
 
-许多人认为外显类型也是二元的。然而几百年以来，生物学已经认识到，一个群体的性别特征是双峰型分布。大多数人与两极分类相差不到百分之一，但这也意味着，一些人会仅仅因为生命本质的不同，而处于典型的两极分类之外。很多有两性特征的人处在中间。
+Likewise, many people believe that Phenotype is also binary, but biology has recognized for hundreds of years that when you plot out all sexual characteristics across a population, you actually end up with a bimodal distribution where the majority of the population falls within a percentile of two groups. This means that some people will, simply by nature of how life works, fall outside of the typical two piles. Many people fall in the middle, with characteristics of both sexes.
 
-然而，性别却是...神秘的。人们尝试用很多种方式解释性别光谱，但因为它本身是一个非常抽象的概念，没有一种说法能全面地解释它。
+Gender, however, is a lot more... esoteric. There are a lot of different ways that people have attempted to illustrate the gender spectrum, but none have quite thoroughly captured it, because the spectrum is itself a very abstract concept.
 
 {!{
 <div class="gutter flex flex-center print-span34 print-row print-inline print-break-before">
@@ -73,37 +73,37 @@ tweets:
 </div>
 }!}
 
-总之，有些人很男性化，有些人很女性化，有些人觉得自己没有性别，有些人觉得两者都有，有些人处于中间，有些人处于极端。有些人以不可知的形式在整个光谱中飘荡，就像风一样。性别不由他人规定，只有每个人自己才能确定。
+The short of it is, some people are very male, some people are very female, some people feel no gender at all, some people feel both, some are smack in the middle, some land along the edges. Some people oscillate all over the spectrum in unpredictable ways, changing like the wind. Only an individual can identify their own gender, no one else can dictate it for them.
 
-性别一部分是社会建构的，一部分是习得的行为，一部分是在生命早期形成的生物特性。
+Gender is part social construct, part learned behaviors, and part biological processes which form very early in a person's life.
 
-目前的证据表明，一个人的性别似乎是在妊娠期间，大脑皮层形成时确定的（见性别烦躁的成因部分）。这种心理模式会在潜意识层面确定一个人倾向于性别光谱中的哪部分。它影响我们的行为、世界观、感受到吸引的方式（不是性取向和激素作用）以及人际关系。
+Present evidence seems to suggest that a person's gender is established during gestation while the cerebral cortex of the brain is forming (more about that in the Causes of Gender Dysphoria section). This mental model then informs, at a subconscious level, what aspects of the gender spectrum a person will lean towards. It affects behavior, perceptions of the world, the way we experience attraction (separate from sexual orientation and hormonal influences) and how we bond with other people.
 
-性别也会影响大脑对所处环境（你的身体）的预期。当环境不符合这些预期时，大脑就会以抑郁、人格解体障碍、现实解体障碍和分离型障碍的形式发出警告。这是大脑在潜意识层面告诉我们有什么不对劲。
+Gender also affects the expectations that the brain has for the environment it resides in (your body), and when that environment does not meet those expectations, the brain sends up warning alarms in the form of depression, depersonalization, derealization, and dissociation. These are the brain's subconscious ways of informing us that something is very wrong.
 
 {!{
 <div class="gutter"><blockquote>
-  <strong>习性</strong> - <em>名词</em><br>
-  社会固化的习惯、技能和性格。是一个人感知世界并做出反应的方式。
+  <strong>Hab·i·tus</strong> - <em>Noun</em><br>
+  Socially ingrained habits, skills, and dispositions. The way a person perceives and reacts to the world.
 </blockquote></div>
 }!}
 
-在社会层面，性别与我们的[习性](https://en.wikipedia.org/wiki/Habitus_(sociology))有关：外观、举止和行为、沟通方式、反应方式、对生活的预期，以及我们一生中所扮演的角色。作家苏珊·史崔克（Susan Stryker）在她的《跨性别史》（[Transgender History](https://1lib.net/book/3624772/0139ae)）一书中这样描述习性：
+On the social side, gender involves our [habitus](https://en.wikipedia.org/wiki/Habitus_(sociology)): our presentation, our mannerisms and behaviors, how we communicate, how we react, what our expectations are from life, and the roles that we fulfill as we walk through life. The author Susan Stryker described habitus it in her book [Transgender History](https://smile.amazon.com/Transgender-History-second-Todays-Revolution/dp/158005689X):
 
-> 许多习性与向第二天性的表达有关——走路扭胯、辅以手势说话、去健身房增肌、留长发、穿显乳沟的开领衣服、剃腋毛、留胡子茬，或者在句末语调上扬或下降。即使这些行为和外表往往内化到我们认为它们是天生的，但鉴于这些都是我们通过观察和实践习得的，称其为“第二天性”可能更容易理解。
+> A lot of habitus involves manipulating our secondary sex characteristics to communicate to others our own sense of who we feel we are---whether we sway our hips, talk with our hands, bulk up at the gym, grow out our hair, wearclothing with a neckline that emphasizes our cleavage, shave our armpits, allow stubble to be visible on our faces, or speak with a rising or falling inflection at the end of sentences. Often these ways of moving and styling have become so internalize that we think of them as natural even though---given that they are all things we've learned through observation and practice---they can be better understood as culturally acquired "second nature."
 
-事实上，这些都是文化因素，是随着时间的推移在我们中发展出来的。即使本质是“虚构的”，它们仍然是极度性别化的，一个人会无意识地将这些性别化的习性与内在自我连结在一起。当被拒绝参与性别化的社会活动时，我们会对社会中所处的位置感到不适。
+Indeed, these are all cultural factors; things which have developed within the population over time. Regardless of being essentially "made up", they are still strongly gendered and a person tends to connect to the gendered habitus of their internal self, without even realizing they are doing it. When we are denied access to those social aspects, this results in discomfort with one's social position in life.
 
-约翰·马尼（John Money）试图通过实验证明性别完全是社会建构的，孩子都可以在成长中相信自己就是“被塑造”的人。但他的实验失败了（见生化烦躁部分）。性别不会改变，所有人40岁时的性别和4岁时一样的。改变的是个体成长中对性别的观念。
+John Money's experiments attempted to confirm his belief that gender is entirely a social construct, and that any child can be raised to believe themselves to be whatever they were taught to be. His experiment was a massive failure (see the Biochemical Dysphoria section). Gender does not change, every human is the same gender at 40 that they were at 4. What changes is our own personal understanding of our gender as we mature as individuals.
 
-这些负面症状（抑郁、人格解体障碍、现实解体障碍）就是性别烦躁的症状。
+These negative symptoms (depression, derealization, social discomfort) are the symptoms of Gender Dysphoria.
 
-性别**不是**性取向。虽然我们使用与性别相关的词语来描述性取向（同性恋/异性恋/双性恋等），但性别本身不影响性欲，性欲也不影响性别。
+What **Gender is *not*** is sexual orientation. We describe orientation using terms relative to one's gender (homosexual/heterosexual/bisexual, etc), but gender itself does not affect sexuality and sexuality has no role in gender.
 
-## 非二元性别是什么？
+## What does it mean to be Non-Binary?
 
-非二元性别简单说就是与男性或女性的标准都不符合。非二元性别可能不符合任一性别身份（[无性别](https://gender.wikia.org/wiki/Agender)），对两种性别身份都符合（[双性别](https://gender.wikia.org/wiki/Bigender)），混合两者（扶她/他），在不同性别身份间切换（[流动性别](https://gender.wikia.org/wiki/Genderfluid)），部分符合（[半性别](https://gender.wikia.org/wiki/Demigender)），或者是符合整个性别光谱的定义（[泛性别](https://gender.wikia.org/wiki/Pangender)）。
+Non-Binary can basically be simplified as a lack of exclusive affinity to Male or Female. This may be a lack of affinity to either identity ([agender](https://gender.wikia.org/wiki/Agender)), a total affinity to both ([bi-gender](https://gender.wikia.org/wiki/Bigender)/), a balanced affinity to both (androgyne), an affinity that changes from day to day ([genderfluid](https://gender.wikia.org/wiki/Genderfluid)), a partial affinity ([demigender](https://gender.wikia.org/wiki/Demigender)), or even an affinity to the entire gender spectrum at once ([pangender](https://gender.wikia.org/wiki/Pangender)).
 
-非二元性别可能符合某种性别的某些方面，但不符合其他方面。例如，一名[半性别女孩](https://gender.wikia.org/wiki/Demigirl)可能出生时被指派为女性，而Ta只感到部分符合女性身份和女性气质。或者一名正在接受激素治疗以缓解性别烦躁的指派男性，Ta有女性化外表却觉得不是很符合女性的身份。
+It could be an affinity to some aspects of a gender but not others. For example, a [demigirl](https://gender.wikia.org/wiki/Demigirl) could be someone assigned female at birth who only feels a partial connection to womanhood and femininity, or may be a male-assigned individual who is taking hormone therapy to relieve physical dysphoria, and has a female phenotype, but does not experience a strong connection to the social aspects of womanhood.
 
-这个指南某些地方会用以二元性别（男性/女性）区分的词汇而不是非二元的词汇，但这纯粹是为了方便。请明白，性别体验和表达的世界远比这种粗暴的划分要广阔得多。
+In generalist terms this book will be describing gender in a sense of binary identities (male/female) vs non-binary identities, but this is purely for the sake of writing simplicity. Please know that the depth of gender experience and expression is far, far more complicated than this simple breakdown.
