@@ -19,9 +19,9 @@ tweets:
   - '947523244948680705'
 ---
 
-# 身体烦躁
+# Physical Gender Dysphoria
 
-大家都听说过“投错胎”的说法吧。身体烦躁说的就是由外在体征引起的不适感。但我们首先需要澄清体征是什么？
+Everyone has heard of the "born in the wrong body" narrative. Physical Dysphoria is discomfort over the shape of one's body due to the sexual characteristics it presents. So what body features are we talking about here?
 
 {!{
 <style>
@@ -44,109 +44,110 @@ tweets:
 
 </style>
 <div class="fact-grid ">
-  <h4>主要性征</h4>
+  <h4>Primary Sex Characteristics</h4>
   <div>
 }!}
 
-在妊娠期发育的核心生殖特征
+The core reproductive features which develop during pregnancy
 
-- 性腺
-  - 睾丸
-  - 卵巢
-- 外生殖器
-  - 阴茎
-  - 阴蒂
-  - 阴囊
-  - 阴唇
-  - 阴户
-- 内部生殖器
-  - 前列腺/气味腺
-  - 子宫
+- Gonads
+  - Testicles
+  - Ovaries
+- External Genitalia
+  - Penis
+  - Clitoris
+  - Scrotum
+  - Labia
+  - Vulva
+- Internal Reproductive Organs
+  - Prostate / Skene's Gland
+  - Uterus
 
 
-{!{ </div>  <h4>第二性征</h4>
+{!{ </div>  <h4>Secondary Sexual Characteristics</h4>
 <div class="two-col"> }!}
 
-青春期及以后由激素塑造的所有两性性征。一般来说，青春期前的男女几乎没有这些性征上的差别。
+All sexually dimorphic features which develop during and after puberty as a result of hormone exposure. In general, these features are all nearly identical for both male and female prepubescent children.
 
-- 脂肪分布
-  - 腰、臀、臀型
-  - 大腿、胳膊、后背
-  - 脸颊和下颌线
-- 肌肉量
-  - 脖子、肩膀和上半身
-  - 手臂和腿
-  - 腹部
-- 骨骼结构
-  - 身高范围
-  - 手脚大小
-  - 肩宽
-  - 胸腔宽度
-  - 四肢的厚度和密度
-  - 额头、眉毛、脸颊和下颌骨
-  - 骨盆宽度
-- 肤质和肤色
-- 音高和共鸣
-- 乳房发育
-- 面毛
-- 体毛（除了阴毛和腋毛）
+- Fat Distribution
+  - Waist, Hips, Butt Shape
+  - Thighs, Arms, Back
+  - Cheeks and Jaw Line
+- Muscle Mass
+  - Neck, Shoulders and Upper Body
+  - Arms and Legs
+  - Abdominal
+- Skeletal Build
+  - Range of Height
+  - Size of Feet and Hands
+  - Width of Shoulders
+  - Rib Cage Breadth
+  - Thickness and Density of Limbs
+  - Forehead, Brow, Cheek and Jaw bones
+  - Pelvic Width
+- Skin Texture and Tone
+- Voice Pitch and Resonance
+- Breast Development
+- Facial Hair
+- Body Hair (excluding genitals and arm pits)
 
 
 {!{ </div></div> }!}
 
-{!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">以下供参考</h4> }!}
-  
-接受激素治疗的跨性别者生殖器不会明显区别于顺性别者。
+{!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">For Your Information</h4> }!}
 
-- 雌激素使阴茎软化，勃起变得不明显，皮肤变薄并开始像阴道壁一样出汗。阴囊软化变色，[会阴缝](https://en.wikipedia.org/wiki/Perineal_raphe)更明显。由于随机勃起的停止，勃起组织会在不使用的情况下萎缩，导致整个阴茎逐渐萎缩。振动更容易导致性唤起。
-- 雄激素使阴道变得干燥易撕裂（会造成润滑问题）。由于随机勃起的开始，阴蒂包皮变厚，阴蒂头的长度增加。阴唇也变得更厚，毛发通常会变多。HRT常使阴蒂变得非常敏感。
+The genitals of a transgender person on hormone therapy do not behave remotely like their cisgender counterparts.
+
+- The Estrogenic Penis softens, erections become less pronounced, the skin thins and begins to perspire like a vaginal wall. The scrotum softens and changes color, with the perineal raphe becoming more distinct. Due to the cessation of random erections, the erectile tissue will atrophy if not regularly put to use, causing the entire penis to shrink over time. Vibration becomes more effective for arousal.
+
+- The Androgenic Vagina becomes dryer & prone to tearing (lubrication can be an issue). The skin of the clitoris thickens, and the clitoral glans grows in length and girth due to the onset of random erections. Labia also become thicker, and often hairier. The onset of HRT often results in extreme sensitivity of the clitoris.
 
 {!{ </div></div></div> }!}
 
-主要性征只能通过手术干预。但有些第二性征也属于不可逆性征，即乳腺组织的发育和声带的变宽。雌激素不会让声音更女性化，睾酮不会让乳房缩小（除了脂肪流失）。只有在25岁前的身体发育期，骨骼结构才会变化（如睾酮导致的增大和雌激素导致的臀部变宽）。
+Primary characteristics can only be altered through surgical intervention. Some secondary sexual characteristics are also one-way trips and require medical intervention to undo, namely the growth of breast tissue and the deepening of the vocal chords. Estrogen does not make the voice more feminine, Testosterone does not make breasts shrink (aside from the loss of fat). Changes to skeletal structure (such as enlarging from testosterone and the widening of hips from estrogen) can only occur prior to the age of 25, while the body is still growing.
 
-有些次要性征可以通过手术改变（隆胸、形体塑造、面部男性化／ 女性化），有些则完全不能改变。
+Some secondary traits can be surgically enhanced (Breast Augmentation, body contouring, facial masculinization / feminization), and some cannot be changed at all.
 
-身体烦躁有几种不同的表现形式。有时幻肢现象会让你感受到不存在的阴茎或阴道，不存在的子宫疼痛，或者乳房的缺失感。
+Physical dysphoria manifests in several different ways. Sometimes this is felt in a sort of phantom limb phenomenon, where the person can feel sensations from a penis or vagina that is not there, an ache in a uterus that does not exist, or a sense of absence on the chest from breasts that have not grown in.
 
-人可以在持续意识到一些不存在的东西时，感受到这种反向幻觉。大脑接收到意外感受，并会优先处理它，比如乳房的重量，或者睾丸或子宫的存在。
+It can be felt as a sort of *reverse* phantom effect, where the person is persistently aware of something that should *not* be there. The brain is receiving sensory input that it does not expect, such as the weight of breasts, or the presence of testicles or a uterus, and this input takes priority because it isn't expected.
 
-观察或触摸外生殖器可能使人恐惧或厌恶，从而使情绪爆发或渴望切除恶心的器官。AFAB（assigned female at birth，指派性别为女性）的跨性别者在月经期间可能会有倒错感，或者有一种与激素周期脱节的感觉。
+It may be felt as horror or revulsion when looking at or touching the external genitals, triggering emotional outbursts or a strong desire to remove the offending organ. AFAB (assigned female at birth) trans people may experience feelings of wrongness during menstruation, or a sense of alien disconnect from their hormone cycle.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1220143004821938176'
 ] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
-这可以让人想去除某些性征，比如强迫性地剃掉体毛或面毛。但也可以表现为相反的强迫行为：一丝不苟地修饰、控制这些性征，比如保持完美的胡子，坚持美甲，或者花几个小时在健身房锻炼身体。
+It can manifest as a compulsion to be rid of certain body traits, such as obsessively shaving body or facial hair. This can also manifest in the opposite compulsion, leading to meticulous grooming of those traits in order to try to control them, like maintaining a perfect beard, persistently keeping ones nails manicured and polished, or spending hours in the gym attempting to hone ones shape.
 
-厌恶体征可能让人嫉妒那些因病（如睾丸癌或乳腺癌）而被迫去除这些体征的人。有严重生殖器烦躁的AMAB（assigned male at birth，指派性别为男性）经常想发生某种失去阴茎的奇怪事故。
+Undesired physical features may prompt a person to experience envy of people who have been forced to remove those features due to illnesses, such as testicular or breast cancer. AMABs with severe genital dysphoria tend to have a wish for some kind of freak accident that would cause the loss of their phallus.
 
-有时这可能只是一种错觉，甚至它无关性别与性。我在大半生命中都讨厌自己太胖。但直到我开始转变，我才意识到我一点也不讨厌脂肪，而是讨厌男性化的脂肪。我觉得HRT后的女性曲线很棒。
+Sometimes it may just simply be a feeling of being incorrect, which you may not even attribute to gender or sex. For most of my life I believed that the reason I hate my body was because I was fat. It wasn't until I started transition that I realized I don't hate my fat at all, I hated having *male* fat. The feminine curves that HRT gave me make me feel so much more in tune with my body.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1184580976581775366'
   '1184837108919230464'
 ] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
-一个人的身体烦躁感可能且将随着时间改变，或许好转，或许恶化。例如，许多跨性别女性做转变时，没有觉得和生殖器有脱节感。但随着其他更严重烦躁感的消失，她们就不怎么适应它了。有些人可能坚持做面部女性化手术，但转变2年后才觉得外貌还不错。
+The dysphoria one feels about their body can and will change over time, for better and worse. For example, many trans women enter into transition feeling no disconnect with their genitals, but later find that as larger sources of dysphoria melt away, that they become less comfortable with their original configuration. Alternatively, some may assume that they will absolutely need facial feminization surgery, but then 2 years in to transition, realize they're actually okay with how they look.
 
-开始的时候才明白也是可以的。
+It's okay for you to realize you need more or less than when you started.
 
-如果你不讨厌身体，只是希望更女性化或更男性化也是可以的。
+It's okay if you don't hate anything about your body, and just wish you looked more feminine or masculine.
 
-如果你只讨厌身体的某些方面，而不想改变所有性征也是可以的。
+It's okay if you only hate some aspects of your body, and don't wish to change all of its sexual characteristics.
 
-如果你根本不需要医疗转变也是可以的。身体感受不是做转变的一切。
+It's okay if you don't need medical transition *at all*. Body feelings are not the be-all-end-all of transition.
 
-**身体烦躁不是成为跨性别者的必要条件。AFAB们不必厌恶胸部，AMAB们不必厌恶阴茎。每个跨性别者的体验都不同，但全都是真实有效的。**
+**Total body physical dysphoria is not a requirement to be transgender. AFABs do not have to hate their chest, AMABs do not have to hate their penis. Every trans person's experience is different. All are valid.**
 
-### 内化的身体形象问题
+### Internalized Body Image Issues
 
-世界上充斥着塑造男女身体的潜在信息。我们被广告和媒体轰炸，从而制造了美与丑的常规标准：不要太胖，不要太瘦，不要太高，不要太矮，不要有太宽的下巴，不要有太大的鼻子，要化妆但不要化太浓的妆，出门要戴胸罩，但不要让胸罩露出来。社会对男女外貌的期望永不消失。
+The world is full of subconscious messages about how men and women's bodies should be shaped. We are bombarded with advertising and media creating a normalized view of what is and is not beautiful. Don't be too fat, don't be too skinny, don't be too tall, don't be too short, don't have too broad of a chin, don't have too large of a nose, wear makeup but don't wear too much makeup, don't leave the house without a bra, but don't let the bra show. On and on and on, the constant barrage of expectations of gendered appearance.
 
-每个人都会吸收这些信息，而跨性别者会内化与性别认同有关的因素。跨性别女孩在成长过程中将女性标准映射到自己身上，跨性别男孩将男性标准映射到自己身上，而非二元性别往往将两性的羞耻感内化于心。因为没有*达到*某个性别的标准而感到羞耻。
+Everyone absorbs these messages, and trans people internalize the factors which matter to the gender they align with. Trans girls grow up mapping feminine standards onto themselves, trans boys map masculine standards on to themselves, and enbies often internalize shame around androgyny. This is *on top* of the shame they are loaded with for not living up to their assigned gender's standards.
 
-这样会造成什么呢？凯瑟琳（Kathryn）说得好：
+What is the end result of this? Kathryn said it best:
 
 {!{ {{import '~/tweet' ids=[
   '947522372315369472'

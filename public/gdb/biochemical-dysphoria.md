@@ -25,11 +25,11 @@ siblings:
   nextCaption: Social Dysphoria
 ---
 
-# 生化烦躁
+# Biochemical Dysphoria
 
-主要性征在怀孕的第8周开始发育。通常在第11周就可以通过B超确定胎儿的生殖器了。然而，大脑在[第14周到第24周](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989000/#Sec5title)之间才会形成。目前对神经发育的主流看法是，根据胎儿血液中的睾酮浓度（由Y染色体上的SRY基因或其他因素影响），大脑在这10周之内向男性化或女性化方向发展。这个过程中大脑会处在渴望性激素的模式中。
+The primary sexual features of the body begin development during the 8th week of human gestation. Typically by week 11 it is possible to determine the genitals of a fetus via ultrasound. The brain, however, forms [between weeks 14 and 24](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989000/#Sec5title). Current prevailing understanding of neurological development suggests that it is during these 10 weeks when the brain will either masculinize or feminize based upon the presence of testosterone in the fetus bloodstream (initiated by the SRY gene on the Y chromosome, or introduced from other sources). This process locks the brain into a pattern of either desiring estrogens or androgens.
 
-如果大脑中有一种性激素（如睾酮），但身体却产生另一种（如雌二醇），脑内会发生生化功能紊乱。这会导致脑雾、心智能力下降，以及焦虑不安的一般状态。我们通常用激素治疗这种情况导致的人格解体-现实解体障碍（DPDR）。
+If your brain is wired for one gonadal hormones (such as testosterone) and your body produces the other hormone (such as estradiol), this can result in a biochemical malfunction within your brain chemistry. This produces a sort of brain fog, a reduction in mental capacity, and a general state of anxiety and unease. This is the source of the first two symptoms that often alleviate with medical hormonal therapy, Depersonalization and Derealization (DPDR).
 
 {!{
 <div class="gutter">
@@ -60,26 +60,26 @@ siblings:
 </div>
 }!}
 
-人格解体障碍**是与自己身体的脱节，是对自己的疏离感。你觉得你在观察着身体里的陌生人。你可能不关心自己的身体，不关心体重或健康状况，因为你没有控制这幅肉体的权利。
+**Depersonalization** is a disconnect from your own body, an inability to believe that the person you see in the mirror is actually yourself. You feel like you are watching someone else in your body. You may find yourself not caring about what happens to your body, lack of concern with weight changes or improving your fitness because you have no ownership of this fleshy vehicle that transports you around your life.
 
-泽尼亚·琼斯（Zinnia Jones）是[这样描述人格解体障碍](https://web.archive.org/web/20190406141617/https://genderanalysis.net/2017/06/depersonalization-in-gender-dysphoria-widespread-and-widely-unrecognized/)的：
+Zinnia Jones [gives these descriptions for Depersonalization](https://web.archive.org/web/20190406141617/https://genderanalysis.net/2017/06/depersonalization-in-gender-dysphoria-widespread-and-widely-unrecognized/):
 
-- 与自己的思想、感情或身体的分离感：“我知道我有情感，但我感受不到” 
-- 感知分裂成两部分，一部分参与世界的运转，另一部分静静地观察：“有一个人在活动，而另一个人只是看着” 
-- 感觉好像自己“不真实”或自我缺席：“我没有自我” 
-- 感到世界是遥远的、梦幻的、朦胧的、无机质的、黑白色的、人造的，就像一幅虚假的画
-- 沉浸于自我，有一种强制性的自我审视或极度反思 
-- 与自己进行持续而连续的对话
-- 感觉有副面纱或玻璃墙将你与世界隔开 
-- 情感或身体麻木，如有一种脑袋被棉花填满的感觉 
-- 缺乏主体感——感觉平淡、机械、无生命或着像一只“僵尸” 
-- 无法想象事物 
-- 能够清晰地思考，但感觉对世界缺乏本质上的感受与思考
-- 与生活的脱节感，阻碍你的创意和融入世界
+- A sense of detachment or estrangement from your own thoughts, feelings, or body: “I know I have feelings but I don’t feel them”
+- Feeling split into two parts, with one going through the motions of participating in the world and one observing quietly: “There is this body that walks around and somebody else just watches”
+- Feeling as if you have an “unreal” or absent self: “I have no self”
+- Experiencing the world as distant, dreamlike, foggy, lifeless, colorless, artificial, like a picture with no depth, or less than real
+- Being absorbed in yourself and experiencing a compulsive self-scrutiny or extreme rumination
+- Having an ongoing and coherent dialog with yourself
+- Feeling like a veil or glass wall separates you from the world
+- Emotional or physical numbness, such as a feeling of having a head filled with cotton
+- Lacking a sense of agency – feeling flat, robotic, dead, or like a “zombie”
+- Inability to imagine things
+- Being able to think clearly, but feeling as if some essential quality is lacking from your thoughts or experience of the world
+- A sense of disconnectedness from life, impeding you from creative and open involvement with the world
 
-你可能很少在意自己的外表，只满足衣着和个人卫生方面的基本需求。或者过度关注外表以试图感受喜悦感或对身体的自豪感，但只会更加空虚。
+You may put little care into your physical appearance, reaching for only the basic utilitarian needs in clothing and personal hygiene. Alternatively, you may hyperfocus on your appearance, attempting to try to spark some kind of joy, any kind of feeling of pride in your own body, only to be met with more hollowness.
 
-你可能不关心你身体的状态，甚至不害怕死亡，因为你对生命没有什么依恋。
+You may be unconcerned with the state of your body, perhaps not even fearing death, because you have so little attachment to your life.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1215716438972993536'
@@ -88,46 +88,39 @@ siblings:
   '1215740224325783553'
 ] tweets=meta.tweets className="oneblock" }}</div> }!}
 
-**现实解体障碍**是一种对周围世界的超脱，是一种“万物皆虚空”的感受。
+**Derealization** is a detachment from the world around you, a mental sense that everything you perceive is false.
 
-- 即便你一直在那里，周边的环境却似乎很陌生，就像有人把你的房子换成了舞台道具。
+- Your surroundings seem alien or unfamiliar, even if you've always been there, like someone has swapped out your house for a stage replica.
+- Moving through the world feels like you're walking on a treadmill, with the buildings moving around you instead of you through them.
+- Feeling emotionally disconnected from people you care about, as if you were separated by a glass wall, or like they are just actors pretending to be the people they claim to be.
+- Surroundings that appear distorted, blurry, colorless, two-dimensional or artificial, or a heightened awareness and clarity of your surroundings. Leaves on trees feel like they have extra sharp edges, for example.
+- Distortions in perception of time, such as recent events feeling like distant past.
+- Distortions of distance and the size and shape of objects
+- Feeling like a passive observer in the events of your life
 
-- 觉得在现实中活动就像是在跑步机上行走，建筑物在移动，而不是自己越过它们。
+If you found yourself strongly relating to The Matrix or The Truman Show, you might be experiencing derealization. This can also manifest as a feeling of otherworldliness, like you don't belong in this society. You're just walking around waiting for your super powers to appear, or for an owl to fly up with your letter to Hogwarts. As a teen I was obsessed with an episode of The Outer Limits where a boy discovers a spaceship under his house and learns that he and his parents aren't actually human.
 
-- 感觉与你在意的人情感脱节，好像你们被一堵玻璃墙隔开，或者那些人只是假扮他们的演员。
+DPDR sometimes comes with an emotional stunting. You are able to laugh and find humor, but rarely ever genuine joy. Moments of sadness or grief cause you to just go numb, dissociated by the event that caused it. This can also go in the opposite direction, where the person is under so much anxiety that their emotional response is extremely disproportionate to the catalyst, resulting in severe crying or violent outbursts from seemingly small events.
 
-- 周围呈现扭曲的、模糊的、褪色的、二维的或人造的环境，或对周围环境高度敏感。例如，觉得树上的叶子有锋利边缘。
+It's important to note that DPDR is not exclusive to Gender Dysphoria. This condition is co-morbid with several other mental health issues, including chronic depression, obsessive compulsive disorder, and borderline personality disorder. DPDR should not be taken as a sign of Gender Dysphoria purely on its own, it's just a big alarm signal that something is very wrong. It's also usually pretty easy to spot externally, once you know how to watch for it. People with DPDR tend to have a mile long stare as they move about in the world; eyes so gloomy and dead that they look like a shell. One of the most common comments on transition timelines is how the eyes gain so much spark.
 
-- 对时间感的扭曲，如感觉最近的事件发生在遥远的过去
+### The Ebb and Flow
 
-- 距离感扭曲以及物体的大小和形状感知的扭曲
+The intensity of physical and biochemical dysphoria is highly influenced by other factors in the body. Because it is a function of endocrine balance, it is also manipulated by those balances. This means that it can rise and fall from day to day. For example:
 
-- 感觉自己是生命的被动观察者
+- If your blood sugar is out of whack, or you have a thyroid condition, it could cause your dysphoria to spike.
+- If you are having dopamine withdrawal because of ceasing stimulants, that can make it worse.
+- If you start on an SSRI Antidepressant and start running with more serotonin, that can make it less intense.
+- Transfeminine AMABs (people assigned male at birth) with testicles experience surges in testosterone in relation to attraction and desire, which can make them more dysphoric.
+- Transmasculine AFABs (people assigned female at birth) with unsuppressed ovaries experience rises and falls in estrogen and progesterone over the course of their menstrual cycle, making their dysphoria intensify and lessen based on what day of the cycle they are on.
 
+There are dozens of systems in the body that all work in tandem, and they all fluctuate from day to day, manipulating general mental state. This general dysphoria can amplify the affect of all other dysphoria. One day you can shrug off misgendering like it's nothing, and then the next it hurts like a stab in the heart every time. One day you see yourself in the mirror, the next you're staring at the old you.
 
-如果你和《黑客帝国》或《楚门的世界》共情，那你可能有现实解体障碍。这也可以表现为超然感，就好比你不属于这个社会。你可能等着超能力出现，或者等着送霍格沃茨信件的猫头鹰飞来。十几岁的时候，我喜欢上了《迷离档案》中的一集，它讲的是一个男孩在房子下面发现了一艘宇宙飞船，并得知他和他的父母不是人类。
+Some people experience this in a genderfluid way, with some days leaning male, same days leaning female, and other days not feeling any gender, or both. Others just feel it like a seasonal river; sometimes it swells because of rains up stream, sometimes it slows to a trickle because of drought.
 
-人格解体-现实解体障碍有时伴随着情感发育迟缓。你能笑也能找到乐子，但很少有真正的快乐。悲伤的时刻只觉得麻木，造成悲伤的起因和自己无关。这也可能朝相反方向发展，过度焦虑导致情绪反应对外界刺激不敏感，最后由看似很小的事件引起强烈情感爆发。
+All of this is valid, and just because you feel very dysphoric one day and not dysphoric the next does not mean that you aren't really trans.
 
-需要注意的是，人格解体-现实解体障碍并不专属于性别烦躁。这种情况与包括慢性抑郁症、强迫症和边缘性人格障碍在内的几种心理问题并发。人格解体-现实解体障碍本身不应该被视为性别烦躁的标志，它只是警告你有什么不对劲。在知道如何判定后，也很容易从外部发现。患有人格解体-现实解体障碍的人倾向于在日常生活中发呆；他们的眼神阴郁、死气沉沉，看上去就像是壳子里的人。在做转变时，最常见的评价就是眼睛变得有神采了。
-
-### 波动
-
-生理和生化烦躁的强度很大程度上受体内其他因素的影响。鉴于它是一种内分泌平衡机制，它每天都可能波动变化。例如：
-
-- 血糖失调或甲状腺疾病会导致排尿困难。
-- 为了减少外界刺激而实行多巴胺戒断，可能会导致更糟糕的结果。
-- 服用影响5-羟色胺的SSRI类抗抑郁药会减轻烦躁感。
-- 跨性别女性AMAB（出生指派性别为男性）睾酮激增造成的吸引、欲望会使她们更加烦躁不安。
-- 跨性别男性AFAB（出生指派性别为女性）在其月经周期过程中雌二醇和孕酮的波动，会使烦躁感相应加剧或减轻。
-
-身体中无数的系统都在协同工作，它们都每天都会波动并控制着总体精神状态。这种一般性的烦躁会放大其他烦躁的影响。你可能某天觉得认错性别没什么大不了的，但接着又觉得像在胸口捅了一刀那么疼。某天看着镜子里的自我，接着凝视以前的你。
-
-有些人通过性别流动有所体会，有些时候倾向于男性，有些时候倾向于女性，而别的时候则没有性别感，或者两性的感觉都有。其他人只是觉得它像一条季节性河流；有时因为下雨而丰水，有时因为干旱而成为涓涓细流。
-
-这些都是真实有效的，某天感到非常烦躁，但接下来却不这么觉得，并不意味着你不是跨性别者。
-
-### 它是双向的
+### This Happens Both Ways
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1222738910821978113'
@@ -138,12 +131,12 @@ siblings:
   '1222743749920464896'
 ] tweets=meta.tweets className="oneblock" }}</div> }!}
 
-你可能会听到反对者说，激素治疗总能改善精神状态。我向母亲出柜时她就是这么说的。“雌激素使人幸福。”这句话完全是错的。顺性别者接受相反激素治疗时，总会导致烦躁不安。这就是为什么很少给男性开螺内酯，抗雄激素因子会导致精神不稳定。5%到10%的顺性别女性患有多囊卵巢综合征，卵巢分泌睾酮而非雌激素。问到心理健康状况时，她们都会愤怒地说这很糟。
+Sometimes you will hear naysayers suggesting that taking hormone therapy always improves mental health. I heard this myself when I came out to my mother. "Estrogen makes everyone happier." This is flat out false. When cis people are put on cross hormone therapy it always results in dysphoria. This is one reason why Spironolactone is rarely ever prescribed to men, because the anti-androgen factor causes mental instability. Five to ten percent of cis women suffer from Polycystic Ovarian Syndrome (PCOS), a condition which causes the ovaries to produce testosterone instead of estrogen. Ask any one of them how their mental health has been, and they will give you an ear full.
 
-一个非常有力的例子是大卫·雷默（[David Reimer](https://en.wikipedia.org/wiki/David_Reimer)）的悲剧。在七个月大的时候，大卫和他的双胞胎兄弟因为严重包茎接受了包皮环切术（包皮的皮肤病）。大卫的阴茎因为事故被毁了。因此实施了阴道成形术，把他当女孩养，青春期还接受雌激素治疗。13岁时，他患有自杀倾向的抑郁症，再多的指导和鼓励也不能让一个男孩享受做女孩的乐趣。当他的父母告诉他发生了什么事时，他转回男性性别表达，进行睾酮治疗，并在十几岁的时候通过多次手术过渡回男性。
+One very potent demonstration of this is the tragic case of [David Reimer](https://en.wikipedia.org/wiki/David_Reimer). At seven months of age David and his twin brother were given circumcisions to treat a bad case of phimosis (a skin condition on the foreskin). David's went horribly wrong, and the penis was destroyed. The decision was made to perform vaginoplasty and raise him as a girl, including estrogen therapy at pubescence. By the age of 13 he was deep into suicidal depression and suffering greatly, as no amount of coaching and encouraging can make a boy enjoy being a girl. When his parents informed him of what had happened, he returned to a male presentation, switched to testosterone therapy, and over the course of his teen years had multiple operations in order to transition back to male.
 
-当人们会明白以错误性别生活时的感受。
+People know when they're living the wrong gender.
 
-心理学家约翰·马尼（John Money）管理了大卫事件，并对大卫成长过程中所做的决定负有主要责任。马尼为了出名，对大卫的案子进行了大规模的错误报道，他的报告声称取得了圆满成功。这一结果影响到今天，因为马尼的报告被用作不对间性婴儿进行生殖器矫正手术的例子。但五十年后，仍然有医生认为可以改变孩子的生殖器，然后就可以把他们培养成某个性别。
+Psychologist John Money oversaw David's case and was largely responsible for the decisions that were made in David's upbringing. Money, seeking to make a name for himself, massively misreported on David's case, calling it a complete success in his reports. The result of this echoes to this day, as Money's reports were used as an example of why performing genital corrective surgeries on intersex infants was an appropriate course of action. Fifty years later there are still doctors who believe that you can just change a child's genitals and raise them as that gender, and it will stick.
 
-这就是[间性人](https://en.wikipedia.org/wiki/Intersex)的悲剧。大约每60个新生儿中就有一个处于间性状态（尽管并非所有都与生殖器有关）。通常，对间性儿童使用的“矫正”程序会导致功能和感知丧失。多数情况，医生会倾向于将其指派为女性，因为阴户成型术比阴茎成型术更简单。
+This is the tragedy of the [intersex](https://en.wikipedia.org/wiki/Intersex) community. Roughly one in every 60 births results in some kind of intersex condition (though not all of these are related to genitalia). Often times the "corrective" procedures used on intersex children results in a loss of function and/or sensation. Far too frequently, doctors would opt towards forced female assignment because it was easier to construct a vulva than a penis.

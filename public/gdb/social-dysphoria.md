@@ -22,7 +22,7 @@ tweets:
   - '1137185510793678848'
 ---
 
-# 社交烦躁
+# Social Dysphoria
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1215718003310039040'
@@ -33,47 +33,47 @@ tweets:
   '1215731319973523456'
 ] tweets=meta.tweets className="oneblock" }} </div> }!}
 
-所有的社交性别烦躁都与一个核心概念有关：社会认为我是什么性别？社交烦躁关乎外界如何看待你，如何称呼你，以及你应当如何称呼他们。社交烦躁在性别觉醒前后表现不同。
+All social gender dysphoria orbits around one central concept: What Gender do people believe me to be? Social Dysphoria is about how the outside world perceives you, how others address you, and how you are expected to address them. This applies differently prior to the trans person becoming self-aware of their own gender, versus how Social Dysphoria is experienced after a trans awakening (cracking one's shell).
 
-当你还在黑暗中的时候，你只是觉得与其他人的相处方式不太正常，与你指派性别相同的人觉得你们的相处方式不自然。别人的行为习惯让人感到惊奇，而与你真正性别相同的人相处更容易。你与更接近自我的人相连。
+While still in the dark, the only awareness is that something seems off about the way you interact with your interactions with other people. People of your assigned gender seem to interact with each other in ways that do not feel natural to you. Their behaviors and mannerisms feel strange and surprising, where interactions with individuals of your true gender feel easier. You relate to people closer to your own truth.
 
-例如，一个AMAB跨性别者可能觉得在男性群体中非常不舒服。他们可能觉得与男性同龄人格格不入。男性化的社交很不自然，模仿男性朋友会很尴尬。他们可能会更多地享受与女性的友谊，但对阻止建立精神友谊的性别规范和异性恋规范感到失望。女性想建立友谊关系就会有这种情况。当女性出于原则而回避时，他们可能深受伤害。
+For example, an AMAB trans person may find themselves very uncomfortable in groups of men. They may feel out of place and struggle to fit in among their male peers. Masculine social interactions don't come naturally to them, and trying to emulate their male friends feels awkward. They may feel themselves drawn more to friendships with women, but become frustrated at the social and heterosexual dynamics that come into play between men and women, preventing them from forming platonic relationships. This is if women are willing to form friendships at all. They may find themselves deeply hurt when women shy away from them on principle.
 
-当意识到性别不一致时，这种错误的感觉就会加剧；当认识到自我时，这种感觉会呈现出新的形态。对于二元性别的跨性别者来说，这可能与被当作真实性别的强烈需求有关。当被以不分性别的方式称呼，被不同的人当作不同性别，或人们因为无法分辨性别而感到困惑时，一些非二元性别者会感到性别亢奋。
+This feeling of wrongness intensifies as the person becomes more and more aware of their own incongruence, and upon realizing who they really are it takes on a new shape. For binary trans people this often may be about the intense need to be seen as your true gender, be it male or female. Some non-binary people experience this more as euphoria at being seen as neither male or female and thus only being referred to in ungendered ways, or from being read as different genders by different people in the same setting. Some experience intense euphoria when people are incapable of reading their gender and become confused.
 
-错误代词和错认性别的情况发生时，社交烦躁会发作；用“她”、“他”等与性别不一致的代词称呼是非常令人沮丧的。当然，包括顺性别者在内的人不尽然如此，但如果一名顺性别者因被叫错性别而感到侮辱，那么一名跨性别者也会受伤。就像黑板上的钉子，或者用钢丝球擦皮肤。错误的代词意味着正和你说话的人不认可你的性别。
+Social dysphoria is where pronouns and misgendering come into play; being addressed with a gendered pronoun such as she, he, him, or her which is not the pronoun that aligns with our gender is extremely discomforting. Granted, this is true for *all* people, including cisgender people, but where a cis person will be insulted by being misgendered, a trans person will feel hurt. It's like nails on a chalkboard, or steel wool across skin. Hearing the wrong pronoun is a reminder that the person you are talking to does not recognize you for the gender that you are.
 
-如果一个人用中性代词而故意避开相应的代词，二元性别的跨性别者也会感到不安。他人不知道该用什么代词称呼跨性别者时应当询问他们的代词。但矛盾的是，即使在这种情况下，因为某些人希望被当作顺性别者，询问代词的行为本身也可能导致性别烦躁。这就是第22条军规（译注：指两难境地）。
+Gender neutral pronouns can also be unsettling for binary trans people if used in a way that make it clear the person is avoiding the pronoun that matches them. This often is an indication that a person has been read as being transgender, and the person addressing them doesn't know what pronouns they use. Asking their pronouns can resolve this situation immediately, but the paradox is that even in that scenario, having their pronouns asked may itself induce dysphoria around having been recognized as being trans. It is sort of a catch-22.
 
-恐跨人士拒绝使用正确代词，但用错误代词会惹麻烦时，他们会恶意地使用“Ta”这种中性代词。这种情况下语气和意图很重要。
+Singular they can also be used maliciously when a transphobic individual refuses to use the correct pronoun, but knows they will get in trouble for using the wrong pronouns. Tone and intent matter a lot.
 
-名字也是一样。不了解的话用出生姓名没什么问题，但故意这么说就是强烈的厌烦了。
+The same also applies to names. Being called by one's given name (deadname) instead of their chosen name can feel invalidating when done ignorantly, and downright dismissive when done intentionally.
 
-当按指派性别生活时，被认成真实性别可能会兴奋或尴尬。比如：
+It may also manifest as joy or embarrassment at being labeled as your true gender while still living as your assigned gender. Examples:
 
-- 为了侮辱一个指派性别为男性的人而称其为女孩，这只会让他们脸红，而不是生气。
-- 指派性别为女性的人被称作先生可能会感觉更好。
+- An AMAB person being labeled a girl, intending insult, but it causing them to blush rather than get angry.
+- An AFAB person being called Sir, and feeling better for it.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1219968711681040384'
 ] tweets=meta.tweets className="" }} </div> }!}
 
-社交烦躁引起的不适会迫使跨性别者以夸张的行为宣告自我。跨性别女性可能会而为了显得更端庄而化妆、穿女性化的衣服、用更细的声音说话。跨性别男性会选择男性化的穿衣风格，站得更挺拔，压抑情感的表达，大声且粗声说话。
+The discomfort caused by social dysphoria can pressure a trans person to act and present in an exaggerated manner in order to try to convince the rest of the world that they really are who they say they are. Transfeminine people may concentrate on makeup and feminine clothes, and become quieter in order to seem more demure, speaking in a higher voice. Transmasculine people will lean on masculine clothing styles, stand taller, suppress displays of emotion, start speaking louder, and make their voices intentionally deeper.
 
-### 身体烦躁与社交烦躁
+### Physical vs Social Dysphoria
 
-对某些跨性别者厌恶的体征，其他人可能只表现为社交烦躁。例如，因为外表被认错性别或被认成跨性别才会不舒服，而在以真实性别生活的环境中感到舒适。
+Some physical traits which may cause discomfort all the time for some trans people may only manifest as a social dysphoria for others. For example, some people may only be self conscious about their physical appearance when it causes them to be misgendered or clocked (read as being trans), and feel completely comfortable when interacting in environments where they are always seen and treated as their true gender.
 
-我在嗓音上没有直接的身体烦躁，我其实很喜欢用男中音唱歌，在家会让嗓音放松下来。然而在公共场合，声音对女性身份至关重要，所以我花了很多精力练声。我会下意识地在接电话或离开家的那一刻用女声。
+I, myself, have no direct physical dysphoria around my voice, I actually really enjoy singing in my natal baritone, and when I am home with just my family I let my voice relax. When out in public, however, being able to speak in a feminine voice plays a critical role in my being seen as a woman by strangers, so I put a lot of effort into training it into a feminine sound. My feminine voice turns on the instant I answer the phone or leave the house, it isn't even a conscious thing.
 
-### 我们不孤单！
+### "One of us!"
 
-一个非常奇怪且令人惊讶的现象是，未出柜的跨性别者会潜意识地找同类。我好几次听说过一个有趣的模式：一群朋友中的一个人意识到自己是跨性别者并开始转变，其他成员也意识到自己是跨性别者并出柜。
+A very curious and surprisingly phenomenon is that closeted trans people have a tendency to find each other without ever knowing they've done it. There's a funny pattern that I have heard duplicated over and over where one person in a friend group realizes they are transgender, starts to transition, and that inspires other members of the group to also realize they are trans and come out as well.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1137185510793678848'
 ] tweets=meta.tweets className="" }} </div> }!}
 
-跨性别者下意识地受到相互友谊的吸引，一方面是需要想法和行为相同且不批评的同伴，另一方面是社会排斥导致的亲情。当然，这不是跨性别者的专利，其他的非二元性别也会这样，但它的连锁反应是相当强大的。这非常类似于一群朋友因为一个结婚生子而都结婚生子的现象。
+Trans people subconsciously tend to gravitate towards each other's friendships, both out of a need for peers who think and act the same as us without judgments, and due to a kinship of social ostracization. This is not exclusive to trans people, of course, and occurs with all types of queer people, but the way it has a rippling effect is quite powerful. It's very similar to the way an entire friend group will get married and have kids all in response to one member of the group initiating.
 
-跨性别者在转变后也经常继续混圈子，因为我们比顺性别者更了解彼此。当一群跨性别者聚在一起时，屋子里会充满友情和同情。我们有过如此多的共同经历，以至于一见面就结合在一起了（除了性格冲突）。
+Trans people often continue to self-select their groups post-transition as well, as we simply understand each other better than cis people can. There is an energy that occurs when a group of trans people get together in a location, the room becomes charged with camaraderie and commiseration. We all have so much in common in our histories, so many shared experiences, that (short of personality conflicts) we instantly bond together.

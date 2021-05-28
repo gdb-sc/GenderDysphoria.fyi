@@ -22,80 +22,78 @@ siblings:
 }}
 }!}
 
-### 目录：
+### Table of Contents:
 
 {!{ <div class="two-column-list"> }!}
 
-1. [简介](#introduction)
+1. [Introduction](#introduction)
 
-2. [什么是性别？](/gdb/what-is-gender)
+2. [What is Gender?](/gdb/what-is-gender)
 
-3. [性别烦躁简史](/gdb/history)
+3. [The History of Gender Dysphoria](/gdb/history)
 
-4. [性别亢奋](/gdb/euphoria)
+4. [Gender Euphoria](/gdb/euphoria)
 
-5. [身体烦躁](/gdb/physical-dysphoria)
+5. [Physical Dysphoria](/gdb/physical-dysphoria)
 
-6. [生化烦躁](/gdb/biochemical-dysphoria)
+6. [Biochemical Dysphoria](/gdb/biochemical-dysphoria)
 
-7. [社交烦躁](/gdb/social-dysphoria)
+7. [Social Dysphoria](/gdb/social-dysphoria)
 
-8. [社会烦躁](/gdb/societal-dysphoria)
+8. [Societal Dysphoria](/gdb/societal-dysphoria)
 
-9. [性烦躁](/gdb/sexual-dysphoria)
+9. [Sexual Dysphoria](/gdb/sexual-dysphoria)
 
-10. [外表烦躁](/gdb/presentational-dysphoria)
+10. [Presentational Dysphoria](/gdb/presentational-dysphoria)
 
-11. [存在烦躁](/gdb/existential-dysphoria)
+11. [Existential Dysphoria](/gdb/existential-dysphoria)
 
-12. [掌控烦躁](/gdb/managed-dysphoria)
+12. [Managed Dysphoria](/gdb/managed-dysphoria)
 
-13. [冒名顶替综合征](/gdb/impostor-syndrome)
+13. [Impostor Syndrome](/gdb/impostor-syndrome)
 
-14. [临床诊断](/gdb/diagnoses)
+14. [Clinical Diagnoses](/gdb/diagnoses)
 
-15. [治疗性别烦躁](/gdb/treatment)
+15. [Treating Gender Dysphoria](/gdb/treatment)
 
-16. [性别烦躁的成因](/gdb/causes)
+16. [Causes of Gender Dysphoria](/gdb/causes)
 
-17. [染色体](/gdb/chromosomes)
+17. [Chromosomes](/gdb/chromosomes)
 
-18. [激素的作用](/gdb/hormones)
+18. [How Hormones Work](/gdb/hormones)
 
-19. [雄性激素造成的第二青春期 101](/gdb/second-puberty-masc)
+19. [Androgenic Second Puberty 101](/gdb/second-puberty-masc)
 
-20. [雌性激素造成的第二青春期 101](/gdb/second-puberty-fem)
+20. [Estrogenic Second Puberty 101](/gdb/second-puberty-fem)
 
-21. [总结](/gdb/conclusion)
+21. [Conclusion](/gdb/conclusion)
 
 {!{ </div> }!}
 
 <hr class="print-break-after print-hidden">
 
-## 简介
+## Introduction
 
 {!{
 <div class="gutter"><blockquote>
-  <strong>跨性别</strong> - <em>形容词</em><br>
-  指一个人的自我认同及性别与出生指派性别不一致。
+  <strong>Trans·gen·der</strong> - <em>adjective</em><br>
+  Denoting or relating to a person whose sense of personal identity and gender does not correspond with their sex assigned at birth.
 </blockquote></div>
 }!}
 
-自人类文明之始，就[有人](https://en.wikipedia.org/wiki/Transgender_history)内在性别的感受与其身体的生理特征不一致。早在4500年前，苏美尔帝国就有名叫Gala的中性祭祀；从未被欧洲殖民者踏足的时代直到今天，北美的原始社会文化一直认可[第三种性别](https://en.wikipedia.org/wiki/Third_gender)的存在；罗马皇帝埃拉加巴卢斯（Elagabalus，公元218年）坚持让自己被称作“女士”，而不是“领主”，甚至悬赏寻求能做生殖器再造手术的人。
+For as long as human civilization has existed, [there have been people](https://en.wikipedia.org/wiki/Transgender_history) whose experience of their internal gender does not align with the physical features of their body. The Gala, a middle gender priest class of the Sumerian empire, existed over 4,500 years ago. The Indigenous cultures of North America recognized [a third gender](https://en.wikipedia.org/wiki/Third_gender) far before European colonialism, and still do to this day. Roman emperor Elagabalus (218 AD) insisted on being referred to as Lady rather than Lord, and even put forward a ransom for anyone who could conduct genital reconstruction surgery.
 
-*译注：“女士”原意指贵族女性，而非现代的泛用称呼，“领主”一般指男性领主。*
+In spite of this, however, the modern understanding of the transgender experience has only existed for approximately 130 years. Even the word "transgender" only dates back to 1965, when John Oliven proposed it as a more accurate alternative to David Cauldwell's term "transsexual" (coined in 1949), which itself replaced Magnus Hirschfield's term "transvestite" (1910).
 
-尽管如此，对跨性别体验的现代化理解仅仅存在了大约130年。甚至直到1965年约翰·奥利文（John Oliven）为了寻求更准确的表述才用“跨性别”替代大卫·考尔德威尔在1949年提出的词“变性”，而后者曾经取代了马格努斯·赫施菲尔德（Magnus Hirschfield）在1910年提出的词“异装癖”。
+To be transgender is to have a gender identity which does not match the gender you were presumed to have based on the genitalia you were born with. This can mean a person born with a penis is actually a girl, that a person born with a vulva is actually a boy, or that a person with either genital configuration may not wholly fit either side of that spectrum and is non-binary.
 
-作为跨性别者，性别认同与基于生殖器的出生性别不一致。这意味着一个有阴茎的人可能是个女孩，一个有阴户的人可能是个男孩，或者一个有一种任意生殖器的人可能是非二元性别，而不完全符合男或女的性别划分。
+A trans person can come to recognize this at *any point* in their life. Some children identify it at as soon as they are able to grasp the concept of the differences between the sexes, others don't start to feel anything until the onset of puberty, and still others do not realize that anything is wrong at all until they are fully adults. Many people are simply never exposed to the idea that their gender could mismatch their birth sex, or what that feels like, and thus simply accepted their fate.
 
-一名跨性别者可以在他们生命中的任何时候意识到这一点。一些孩子在刚能理解两性差异时就能意识到这一点，一些人直到青春期才会，还有一些人直到他们成年才会觉得到有什么不对劲。许多人从来没有接触到或感受到“性别可能与出生性别不一致”的概念，因此只是接受了他们的命运。
+Even more common is a perception that even though they have feelings about being unhappy with the gender they were assigned at birth, they believe that this is not the same as what transgender people experience. Some may feel that a wish to be transgender and have transition available is some kind of disrespect towards "real" trans people who knew they were actually boys or girls "born in the wrong body." These narratives of the transgender experience that have been spread by popular media create a very false impression of just what it means to be transgender and what growing up transgender feels like.
 
-更常见的一种想法是，虽然他们不满于自己出生时被指派的性别，但这和跨性别是不同的。有些人可能觉得，对那些明白自己是“投错胎”的“真正”跨性别者来说，自己成为跨性别者并做转变的渴望是一种不尊重。这些被媒体传播的跨性别经历塑造了一种错误观念——跨性别者一定是什么样的，以及跨性别者的成长经历一定是什么样的。
+This experience of discontinuity between the internal and external self is what we describe as Gender Dysphoria. Every trans person, regardless of their position within or outside of the gender binary, experiences some form of Gender Dysphoria. This is something of a political topic within trans communities, as different groups have their own ideas of what Gender Dysphoria is, how it manifests itself, and what qualifies a person as being trans. By and large, however, this debate is feckless and fruitless, as the definition at the top of this page encompasses the beginning and the ending of how these terms intermingle.
 
-这种内在与外在的自我之间不一致的感受，就是我们所说的性别烦躁。每一名跨性别者，不论Ta处于二元性别之外的何种位置，都会经历某种形式的性别烦躁。不同的群体在什么是性别烦躁，它如何表现出来，以及如何定义跨性别者上有分歧，这些问题在跨性别社群内部被政治化了。然而总的来说，这些争论是徒劳没结果的，因为这个网页开头的定义已经写明了什么是“跨性别”。
-
-这个网站就是为了记录性别烦躁是如何表现的，并提供性别转变的一些思考，以便为那些正在质疑探索中的人、那些在跨性别道路上的人和单纯想成为盟友的人提供帮助。
+The purpose of this site is to document the many ways that Gender Dysphoria can manifest, as well as other aspects of gender transition, in order to provide a guide for those who are questioning, those who are starting their transgender journey, those already on their path, and those who simply wish to be better allies.
 
 {!{
 <div class="gutter flex flex-end print-inline print-span2 print-center">

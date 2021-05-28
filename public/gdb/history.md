@@ -13,38 +13,38 @@ siblings:
   nextCaption: Gender Euphoria
 ---
 
-# 性别烦躁简史
+# A Brief History of Gender Dysphoria
 
-1948年，一位女子联系了著名的性学家阿尔弗雷德·金赛博士（Alfred Kinsey，就是那个出版金赛量表的[*金赛*](https://en.wikipedia.org/wiki/Alfred_Kinsey)），她的男孩坚称自己是一个女孩。这位母亲希望帮助她成为她自己，而不是压制这种想法。金赛找到了德国内分泌学家哈里·本杰明（[Harry Benjamin](https://en.wikipedia.org/wiki/Harry_Benjamin)）博士，想看看他能不能帮助那个孩子。本杰明博士随后为这个孩子定制了一套雌激素治疗方案，并和她们家一起寻求手术治疗。
+In 1948, noted sexologist Dr. Alfred Kinsey (yes, [*that* Kinsey](https://en.wikipedia.org/wiki/Alfred_Kinsey)) was contacted by a woman whose male child adamantly insisted that they were in fact a girl, and that something had gone very wrong. The mother, rather than trying to suppress her daughter, wished to help her become who she knew herself to be. Kinsey reached out to a German endocrinologist named [Dr. Harry Benjamin](https://en.wikipedia.org/wiki/Harry_Benjamin) to see if he could help the child. Dr. Benjamin then developed a protocol of estrogen therapy for the teen, and worked with the family to find surgical help.
 
-本杰明随后进一步完善了他的方案，并在一生中治疗了几千名类似的患者。他不要报酬，救治病人的满足感就是报酬，并治疗过程中逐渐深入地理解这了种情况。于1973年，他为这种不协调的感受创造了一个词：性别烦躁。但直到2013年，美国精神病学协会才在美国使用这个词。
+Benjamin then went on to refine his protocol and treated thousands of patients with similar feelings over the course of his career. He refused to take payment for his work, instead taking satisfaction from the relief he granted these patients, and using their treatment to further his understanding of the condition. He coined a term for this feeling of incongruence in 1973: Gender Dysphoria. Unfortunately, this term would not be used in the United States until 2013, with the American Psychiatric Association opting for the term Gender Identity Disorder instead.
 
 {!{
 <div class="gutter print-inline">
-  {{import '~/img' images.hbscale-Chinese
+  {{import '~/img' images.hbscale
     className="card print-span34 print-center"
     caption="Harry Benjamin Diagnostic Scale"
   }}
 </div>
 }!}
 
-如果你是一名跨性别者，那你可能会听过哈里·本杰明的坏话。1979年，（经允许）他的名字被用于成立哈里·本杰明国际性别烦躁协会（HBIGDA），该协会发布了跨性别者照护标准（SoC）。SoC以“哈里·本杰明法则”而为人所知，它臭名昭著地限制了确诊性别烦躁。该标准根据痛苦程度和性功能障碍，将患者分为六个等级。如果你没有被归为“真正的易性症”（类型Ⅴ及以上），通常会被拒绝治疗。
+If you are a trans person reading this, you may have heard the name Harry Benjamin before, but probably not in a favorable context. In 1979 his name was used (with permission) in the forming of the Harry Benjamin International Gender Dysphoria Association (HBIGDA), which released a Standards of Care (SoC) for transgender people. This SoC came to be known as the Harry Benjamin Rules, and were infamously limiting in regards to how Gender Dysphoria could be diagnosed. Patients were placed within a six tier scale based upon their level of misery and sexual dysfunction. If you did not land at Tier 5 or higher, classified as a "True Transsexual", you were usually rejected for treatment.
 
-但问题是，成为类型Ⅴ和类型Ⅵ必须对与自己生理性别相同的人产生性吸引。想做转变必须成为异性恋，而不是同性恋或双性恋。你还必须经历对身体和生殖器的严重痛苦，并且在治疗前就按真实性别生活。许多跨性别者通过社会指导和表演来达到标准，但对包括我自己在内的许多人来说，如果不符合全部标准，那就你的程度不够进行转变。
+The problem was, Tier 5 and 6 required that you had to be exclusively attracted to your own birth sex. Transition *had* to be making you straight, not gay, and bisexuals were not allowed. You also had to be experiencing severe distress with your body and genitals, and already be living as your true gender without treatment. Many trans people got around these limitations through community coaching and performative presentations, but for many people (myself included) it was believed that if you did not fit all the criteria, then you were not trans enough to transition.
 
-2011年，为了应对理解和接受跨性别问题上日增的压力，HBIGDA重组并更名为世界跨性别者健康专业协会（WPATH）。在跨性别者真人指导下（这是第一次），WPATH发布了全新的照护标准（SoC第七版，十年来的第一版），该标准舍弃了本杰明量表，而着眼于每个人的具体症状，并将性别与性完全分开。2013年，美国精神病学协会在《精神障碍诊断和统计手册》第五版中，依据WPATH的照护标准变更了诊断标准，将性别认同障碍改为性别烦躁。这一变化为美国所有的跨性别者提供了做转变的医疗支持。
+In 2011 the HBIGDA reorganized itself to respond to mounting pressures in trans understanding and acceptance, taking on the new name World Professional Association for Transgender Health (WPATH). Under guidance by actual transgender people (a first for the organization), WPATH then proceeded to release an entirely new Standards of Care (SoC, version 7, the first in ten years) which abandoned the Benjamin Scale, focusing on specific individual symptoms and disconnecting gender from sexuality entirely. Two years later, in 2013, the American Psychiatric Association changed their diagnostic criteria to match the WPATH SoC in their Diagnostic and Statistical Manual of Mental Disorders (DSM) version 5, replacing Gender Identity Disorder with Gender Dysphoria. With this change, medical transition became available to all trans people in the United States.
 
-这就是过去十年世界跨性别者数量激增的原因。更容易获得的支持带来更大的数量，更大的数量带来更高的可见度，更高的可见度带来更强的意识，更强的意识带来更多得到治疗的人。[2014年的一项研究](https://williamsinstitute.law.ucla.edu/wp-content/uploads/TransAgeReport.pdf)表明，美国有0.6 ％ 的成年人和0.7 ％ 的青少年是跨性别者；[2016年的一项研究](https://www.cdc.gov/mmwr/volumes/68/wr/mm6803a3.htm)，1.8%的高中生是跨性别者；[2017年同性恋者反诋毁联盟的一项调查](https://www.glaad.org/files/aa/2017_GLAAD_Accelerating_Acceptance.pdf)显示，18到34岁的受访者中，12%都不把自己当作顺性别者。
+This is why trans presence across the world has suddenly exploded in the last decade. With easier access comes larger numbers, with larger numbers comes more visibility, with more visibility comes more awareness, and with more awareness comes more people accessing treatment. [A study conducted in 2014](https://williamsinstitute.law.ucla.edu/wp-content/uploads/TransAgeReport.pdf) showed 0.6% of adults and 0.7% of youth in the United States identified as transgender, [a study conducted in 2016](https://www.cdc.gov/mmwr/volumes/68/wr/mm6803a3.htm) showed 1.8% of high school age students identified as transgender, and [a survey conducted by GLAAD in 2017](https://www.glaad.org/files/aa/2017_GLAAD_Accelerating_Acceptance.pdf) showed a whopping 12% of respondents 18 to 34 did not identify as cisgender.
 
-跨性别者正从阴沟中爬出来，我们无处不在。
+Transgender people are coming out of the woodwork; we are everywhere.
 
-## 那什么是性别烦躁呢？
+## So What Is Gender Dysphoria?
 
 {!{
 <div class="gutter">
   <blockquote>
-    <strong>烦躁不安</strong> - <em>名词</em><br>
-    对生活感到不安或总体不满的状态。与亢奋相对。
+    <strong>Dys·pho·ri·a</strong> - <em>Noun</em><br>
+    A state of unease or generalized dissatisfaction with life. The opposite of euphoria.
   </blockquote>
 </div>
 <div class="gutter print-span4">
@@ -52,32 +52,32 @@ siblings:
 </div>
 }!}
 
-顺性别者和跨性别者中有一个常见的误解，即性别烦躁只是对自己的身体感到不适。然而，它甚至都不是诊断性别烦躁的主要依据。性别烦躁跨越生活中的方方面面，包括你如何与他人相处、他人如何与你相处、穿着打扮、行为举止、社会适应、对周边环境的感知、你与你身体的关系。因此，WPATH SoC 7和DSM-5的支持者认为不一定跨性别者才有性别烦躁。我们总是要像念咒一样重复说这点，因为大家要明白，没有明显感到身体不安的人也可以是跨性别者。
+There is a common misconception among both cisgender and transgender people that Gender Dysphoria refers exclusively to a physical discomfort with ones own body. However, this belief that body discomfort is central to Gender Dysphoria is in fact a misconception, and is not even a majority component of a Gender Dysphoria diagnosis. Gender Dysphoria crosses a large number of all aspects of life, including how you interact with others, how others interact with you, how you dress, how you behave, how you fit into society, how you perceive the world around you, and yes, how you relate to your own body. Consequently, proponents of the WPATH SoC 7 and the DSM-5 have taken to a habit of saying that you do not have to have dysphoria to be transgender. This statement is often repeated like a mantra, as it informs people who do not feel significant body discomfort that they may also be transgender.
 
-原则上性别烦躁是一种对自我内在错误的感受。这种错误没有逻辑支撑，也没有什么理论可以解释它，你无法描述为什么会这么觉得，但它就是这样的。生命中有些东西不对劲，但即便只是想认清什么东西不对劲，这也不好办。
+In principle, Gender Dysphoria is a feeling of wrongness intrinsic to the self. There is no logical backing to this wrongness, there is nothing which explains it, you can not describe why you feel this way, it is just there. Things in your existence are incorrect, and even knowing which things *are* incorrect can be hard to properly identify.
 
-它就像是小孩子戴着大人的手套。你可以把手伸进手套里，把手指伸进指套里，但手指不能灵活地动。你或许可以拿起东西，但不能像成年人一样操弄它。事情就是不太对劲。
+The way I used to describe it is like wearing an adult's glove when you are a child. You can put your hand into the glove, and your fingers feed into the digits of the glove, but your dexterity with the glove is severely hindered. You might be able to pick something up, but you can not manipulate it like an adult could. Things just aren't quite right.
 
-伊维·温特斯（Evey Winters） 在她[关于性别烦躁的帖子](https://eveywinters.com/2019/10/14/on-dysphoria-before-enduring-and-after/)中这样说。
+Evey Winters described it this way [in her Dysphoria post](https://eveywinters.com/2019/10/14/on-dysphoria-before-enduring-and-after/).
 
-> 你有没有在公共场合或正式场合的时候突然脚底发痒？因为你不能马上脱掉鞋子挠一挠，所以只好忍着那种死去活来的感觉，这种奇痒越来越强，甚至让你想杀死旁边正和你说话的人。
+> Have you ever been sitting somewhere in a public or a formal place and all of a sudden the bottom of your foot itches? It’s not like you can remove your shoes right there and scratch it, so you endure the feeling of dying inside while this itch grows and grows until you are ready to murder the next person that speaks to you.
 >
-> 我小时候经常在早晨上学前看电视。每隔一段时间，我都会边看我最喜欢的频道，边我吃我的枫糖燕麦粥。但因为这是西弗吉尼亚州90年代初农村的有线电视，我看《恐龙战队》时，音频是另一个电视台的（通常是天气频道）。画面很稳定，音频也清晰。但它们就是不匹配。性别烦躁就像是这种伴随孩子整天的沮丧感。
+> Or when I was younger I used to watch cable TV in the mornings before school. Because it was cable TV in rural WV in the early 90’s, every so often I’d turn on my favorite channel to watch my shows while I ate my maple oatmeal and I’d be seeing Power Rangers — but the audio would be from another station (usually the weather channel). The video was fine. The audio was fine. But the mismatch between them? That’s the kind of frustration that sits with you all day as a child.
 >
-> 就是当你点一杯清爽的健怡可乐，服务员却问：“可以换成百事可乐吗？”的感觉。
+> It’s the feeling you get when you ask for a crisp refreshing Diet Coke and the server says, “Is Pepsi ok?”
 >
-> 就是知道有什么不对劲，但是却无能为力。
+> It is knowing that something is wrong and not being able to do a damn thing about it.
 
-简而言之，性别烦躁的核心就是大脑对不合适事情做出的情绪反应。这种不协调深入大脑的子系统中，以至于没有明显的标志表明问题是什么。我们识别它的唯一方法就是观察它引发的情绪。根据所处环境与内在自我感受的一致与否，我们的意识会有积极的（亢奋）或消极的（烦躁）反应。做转变需要认清这些信号。
+Gender Dysphoria is, at its core, simply emotional reactions to the brain knowing that something does not fit. This incongruence is so deep inside the brain's subsystems that there is no obvious message of what the problem is. The only way we have to identify it is via the emotions that it triggers. Our consciousness receives either positive (euphoria) or negative (dysphoria) feedback according to how well our current environment aligns with our internal sense of self. Part of transition is learning to recognize those signals.
 
-顺性别者也会有这些信号，但由于这些信号通常与环境相一致，他们会认为这些信号是理所当然的。然而，在几种值得注意的[情况](https://www.teenvogue.com/story/maisie-williams-arya-stark-game-of-thrones-affected-her-body-image)下，顺性别者也会感到性别烦躁。将顺性别孩子当作[异性](https://www.nytimes.com/2004/05/12/us/david-reimer-38-subject-of-the-john-joan-case.html)来抚养的尝试总会以失败告终（警告：自杀），孩子总会宣告自己是不一样的。
+Cisgender people receive them as well, but since the signals usually align with their environment, they take them for granted. There have been a few notable occasions, however, when a cisgender person has been [put into a situation](https://www.teenvogue.com/story/maisie-williams-arya-stark-game-of-thrones-affected-her-body-image) where they experience gender dysphoria. Attempts to raise cisgender children [as the opposite sex](https://www.nytimes.com/2004/05/12/us/david-reimer-38-subject-of-the-john-joan-case.html) (Content warning: suicide) have always met with failure when the child inevitably declares themselves differently.
 
-这些亢奋与烦躁，兴奋与厌恶，都以不同的方式表现出来，有些明显，有些在细微之处。性别烦躁也会随着时间改变，从觉醒前到觉醒后再到做转变，每个阶段都会有新的形态。本指南的目的是描述不同的表现形式，让其他人能够认识它们。
+These impulses of euphoria and dysphoria, arousal and aversion, they all manifest in many different ways, some obvious, some much more subtle. Dysphoria changes over time as well, taking on new shapes as one moves from pre-awareness into understanding and through transition. The goal of this book is to break down these manifestations into their distinct categories and describe them so that others may learn to recognize them.
 
-但我必须要先强调一些非常重要的事情，重要到我要用粗体字写：
+However, first I must stress something very important, so important that I am putting it into big bold letters:
 
-**每一名跨性别者会经历不同来源、不同程度的性别烦躁。**
+**EVERY SINGLE TRANS PERSON EXPERIENCES A DIFFERENT SET OF DYSPHORIA SOURCES AND INTENSITIES**
 
-没有单一的跨性别体验，没有一套标准的感受和不安，没有一种*真正的跨性别叙事*。每一名跨性别者都会以独有的方式经历独属于自己的性别烦躁，困扰一个人的事可能不会困扰另一个人。
+There is no one single trans experience, there is no standard set of feelings and discomforts, there *is no one true trans narrative*. Every trans person experiences dysphoria in their own way to their own degree, and what bothers one person may not bother another.
 
-好啦，让我们把这个免责声明扔到一边，进入正题吧。
+Ok, that disclaimer out of the way, let's get to the meat and potatoes.
