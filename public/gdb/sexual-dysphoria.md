@@ -16,29 +16,29 @@ tweets:
 
 ---
 
-# Sexual Dysphoria
+# 性烦躁
 
-Closely related to Societal Dysphoria is dysphoria centered around sexuality, sexual relationships, and the act of having sex. [Heteronormative](https://en.wikipedia.org/wiki/Heteronormativity) gender roles come loaded with the expectation that [AMABs will top and AFABs will bottom](https://en.wikipedia.org/wiki/Top,_bottom_and_versatile). These dynamics get reinforced by our popular media, by toxic masculinity, and especially by our pornography, even in *transgender* pornography (the bulk of trans/cis pornography involves the trans woman topping). Deviations from these roles often result in shame, both from partners and from peers.
+与社会烦躁密切相关的是围绕性、性关系和性行为的烦躁。[异性恋规范](https://en.wikipedia.org/wiki/Heteronormativity)期望[指派男性在上，而指派女性在下](https://en.wikipedia.org/wiki/Top,_bottom_and_versatile)。大众媒体、有毒的男子气概和色情作品加强了这种动力，甚至在跨性别色情作品中也是如此（大部分跨性别vs顺性别的色情作品都涉及跨性别女性）。这种角色错位常会导致来自伴侣和同龄人的羞耻感。
 
-Of course, this is not an absolute, by any means, and many heterosexual cis couples do find ways out of these molds, finding a new dynamic in their relationship, or engaging in kinks to satisfy desires. Some couples find they aren't sexually compatible at all and seek other partners. However, there are many many external pressures discouraging this kind of self-awareness and discovery, and breaking away from those demands can be extremely difficult, even traumatic. This is particularly true when there is a background of conservatism or religious virtuism.
+这当然不是绝对的，毕竟很多异性恋顺性别伴侣逃离了这些模式，在这段关系中找到了新动力，或者为了满足欲望而纠缠在一起。一些伴侣在性方面根本不兼容，于是寻求其他伴侣。然而，许多外部压力阻碍了这种自我觉醒，打破这些规范可能是极其困难的，甚至是痛苦的。当涉及到保守主义或宗教美德主义时尤其如此。
 
-Cisgender gay relationships shirk this by virtue of necessity, opening the doors for individuals to explore what role leaves them more fulfilled. Some gay couples have an established dominant/submissive dynamic, and they enter into the relationship with that already understood. Others resolve it by switching up which partner is dominant. Yet, gay relationships can still get caught up in these kinds of expectations in regards to [butch/femme](https://en.wikipedia.org/wiki/Butch_and_femme), [bear](https://en.wikipedia.org/wiki/Bear_(gay_culture)), and [twink](https://en.wikipedia.org/wiki/Twink_(gay_slang)) dynamics.
+顺性别同性恋出于善意回避了这一点，而探索自身角色会使自身满足。一些同性恋伴侣在建立关系时就明确了一种既定的攻受关系。其他人则通过攻受互换消解这一问题。然而，同性恋关系仍然会陷入对男性化和女性化角色的期望（女同[攻/受](https://en.wikipedia.org/wiki/Butch_and_femme)，男同[攻](https://en.wikipedia.org/wiki/Bear_(gay_culture))/[受](https://en.wikipedia.org/wiki/Twink_(gay_slang))）。
 
-What does all this mean? Trans people who enter into perceptually heterosexual relationships pre-transition sometimes find themselves losing interest in sexual intercourse, as penetrative acts do not produce the fulfillment that they would expect. In extreme cases it can feel completely wrong and trigger panic. The sensations may feel pleasurable, but the experience is out of place, and the act itself feels forced.
+这都意味着什么？对于做转变前迈进所谓“异性恋”的跨性别者，有时会发现自己对性交失去了兴趣，因为插入式性行为不能给予他们期望的满足感。在极端情况会有完全倒错感，还会引发恐惧。性行为可能生理上令人愉悦，但这种体验是不合适的，行为本身也是被迫的。
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
     '1137399651458519040'
 ] tweets=meta.tweets className="" }}</div> }!}
 
-This can lead to one feeling less enthusiastic or even disinterested in sex, as half of what makes up sex drive is the mental context of the situation. Many trans people never even experience sex until adulthood, functionally operating as sex-averse due to how severely their dysphoria has shutdown all sex drive. They may still perform for the sake of their partners, but not get as much enjoyment as they could, and even end up disconnecting from reality around them in order to accomplish the task.
+这可能会导致性欲消退，因为性冲动的一半由心理因素构成。许多跨性别者直到成年才有性经验，因为严重的性别烦躁而失去性冲动，导致了表现为厌恶的性功能障碍。他们可能仍然会为伴侣表演，却得不到那么多的享受，甚至为了完成任务而脱离现实。
 
-This dysphoria may be so significant that they find themselves taking a sexual identity that they don't actually connect with. It is not unheard of for a trans person to realize after coming out that they never actually felt a connection to the sexual orientation that they had identified with previously, but were rather using it as a way to feel less dysphoric in their sex lives.
+通过这种标志性的性别烦躁，他们获得了一种脱离自我的性身份。一些跨性别者在出柜后才意识到，他们从来没有真正认同以前的性取向，而是通过它减少性生活中的痛苦。
 
-Some trans women, for example, identified as gay men pre-transition out of a desire to have a partner that treats them like women during sex, but find themselves to actually be lesbians once that demand is lifted. Others may attempt to live as gay men, but find that the role doesn't fulfill them because they know their partners see them as men.
+例如，一些跨性别女性在做转变前被认定为男同性恋，因为希望有一个在做爱时像对待女性一样对待她们的伴侣，但一旦这一要求被解除，她们发现自己实际上是女同性恋。其他人可能试图以男同性恋的身份生活，但发现这个角色不能满足他们，因为在伴侣眼中仍是男性身份。
 
-# The Coercive Male Gaze
+# 强迫性的的男性凝视
 
-æææ<div class="cw"><p><strong>Author's Note</strong>: This specific type of sexual dysphoria is difficult to explain in generalist terms, so I am going to take a departure here and write about this from my own personal experience. The following is presented from my perspective as a binary trans woman. As such, this may not be completely relatable to all trans people. My apologies.</p></div>æææ
+æææ<div class="cw"><p><strong>作者注</strong>：这种特殊的性烦躁难以用概括性术语来说明，所以我将根据个人经历写。以下内容是以我二元性别跨性别女性的角度呈现的。因此，这可能不完全适用于所有跨性别者。非常抱歉。</p></div>æææ
 
 {!{
 <div class="gutter flex">
@@ -46,26 +46,26 @@ Some trans women, for example, identified as gay men pre-transition out of a des
 </div>
 }!}
 
-There is a saying that is very well known in sapphic circles: "Do I want to be her, or be with her?"
+有一句话在女同性恋圈子里很有名：“我是想成为她，还是和她在一起？”
 
-It can be hard to tell the difference between sexual attraction and envy, especially when you're a closeted trans teenager. Our entire society is built upon heterosexuality; it is simply the cultural default, to the point that even prepubescent children are barraged with messages about male to female attraction. Consequently, interest in aspects of the lives of the "opposite" sex is almost always immediately perceived as being sexual attraction.
+很难分辨出性吸引和嫉妒之间的区别，尤其作为未出柜的跨性别青少年。我们的整个社会都是在异性恋基础上的；这是文化上的默认选项，以至于即使是青春期前的孩子头脑中也充斥着男女的性吸引。因此，对“异性”生活的兴趣总是被视为性吸引。
 
-What is the result of this? Usually... shame. Trans children often internalize their view of their peers based on their true gender, and one does not objectify their equals. Thus the child is motivated to hide those interests out of a desire to not be seen engaging in that kind of sexual objectification. This is even further compounded if the child has been raised in a setting with very strict moral codes, such as in a conservative religious upbringing.
+这样做的后果是什么？通常是...羞耻感。跨性别儿童经常根据真实性别内化对同龄人的看法，并且不会物化和他们相似的人。因此，孩子会出于不想被看到对性物化的渴望而隐藏这些兴趣。如果儿童在严苛道德规范的环境中长大，例如保守的宗教环境，情况可能会更复杂。
 
-Growing up as a closeted trans teen in an evangelical Christian household, I knew that if I was ever caught looking at women in what was seen as a sexual manner, I would be punished. I knew if I was ever found handling women's apparel, there would be a lot of very awkward questions which I was not prepared to answer. This posed a very serious problem for me, as someone with a strong fascination with women's apparel, particularly lingerie.
+作为一个在福音派基督教家庭中的未出柜跨性别青少年，如果我被发现以性的眼光看女性，我就会受到惩罚。我知道如果我被发现穿女装，会有很多没准备好回答的尴尬问题。这对我来说是一个非常严重的问题，因为我对女装，特别是内衣有着强烈的迷恋。
 
-There is [a Simpsons clip where Moe Szyslak is put on a lie detector test](https://www.youtube.com/watch?v=iQGwrK_yDEg), and by the end of the test he has confessed that he will be spending the night ogling the women in the intimates section of the Sears catalog. The entire crux of the scene, and the source of the comedy, is the shame that is cast on Moe for engaging in this desperate act of objectification. I grew up knowing that this is how I would be perceived for my interest in women's clothing.
+在[《辛普森一家》的一个片段](https://www.youtube.com/watch?v=iQGwrK_yDEg)中，Moe Szyslak接受了测谎仪测试。测试结束时，他承认将整晚盯着西尔斯目录中亲密关系部分的女人看。Moe渴望的物化行为的羞耻感是整个场景的关键，也是笑点。我从小就知道人们会如何看待我喜欢穿女装。
 
-Out of shame and fear, I did everything I could to hide this passion, because I simply could not bear for someone to view me like the teenage boys who masturbate to any material they get their hands on. What made this fear even worse was that I *also believed* that my interest was sexual.
+出于羞耻和恐惧，我尽可能地掩饰这种渴望，因为我实在不能忍受别人把我当作十几岁的男孩，那种看着所有材料都能自慰的男孩。更糟糕的是，我*还相信*我的兴趣与性有关。
 
-When you see the world through a duck shaped lens, everything looks vaguely like a duck. The only framework I had been given to understand my interest in women was through sexual desire, and thus every feminine interest I had became warped into a sexual desire. My wish to be a bride morphed into a bridal kink, my desire to have a child warped into an interest in pregnancy porn, and my own need to be a girl was redirected into a transformation fetish.
+不能总戴着有色眼镜看世界。我理解我对女性的兴趣的唯一理论是性欲，因此我所有的女性化兴趣都变成了一种性欲。我想成为新娘的愿望变成了新娘情结，我想生孩子的愿望变成了对怀孕的色情想法，我想成为一个女孩的愿望变成了异装恋物癖。
 
-But on top of all of this, I was *terrified* to be seen expressing legitimate sexual interest in other women. I had male friends who were notorious rubberneckers and slack-jawed gawkers; one of my former employers had an awful habit of leering at attractive women when we were out to lunch, which made me very uncomfortable to be seen with him.
+但最重要的是，我害怕被看到对喜欢其他女性。我有名声不好的男性朋友，他们看热闹不嫌事大，还爱盯着别人看。我以前的老板有个坏习惯，就是在一起出去吃午饭的时候向漂亮的女人抛媚眼，我和他在一起很不舒服。
 
-I could not stand to be associated with that male gaze. Even around the most beautiful women, I would avoid even looking at them, because I did not want to be seen as the kind of person that stares at women. I did not want to be seen as a predator.
+我不能忍受自己的身份和那种男性凝视联系起来。即使在最漂亮的女人身边，我也会回避她们，因为我不想被当成那种盯着女性看的人。我不想被当作色狼。
 
-This is the coercive male gaze: [compulsory heterosexuality](https://en.wikipedia.org/wiki/Compulsory_heterosexuality) placed upon closeted trans women due to heteronormative ideologies. A cognitive dissonance that causes intense guilt and shame surrounding appreciation of ones peers and gendered interests.
+这就是强迫性的的男性凝视：[异性恋逻辑](https://en.wikipedia.org/wiki/Compulsory_heterosexuality)下默认未出柜的跨性别女性是异性恋。这种认知失调会引起对同龄人欣赏和性欲的强烈内疚和羞耻。
 
-Once you remove this male framework – once one is able to perceive themselves as female and accept these interests and observations are valid – that shame and guilt completely evaporates. Even when the interest is sapphic in nature and genuinely includes sexual desire, it is no longer tainted with this layer of objectification. I am able to appreciate the femininity and the beauty of my female peers without judgments, I can compliment them without fearing being perceived as a creep, or having my intentions misinterpreted.
+一旦你从这个男性框架跳出来——把自己看作女性，并接受这些兴趣和观察——羞耻和内疚就完全消失了。即使本质上是女同性恋的兴趣，且真正包含了性欲，它也不再被这种物化所玷污。我能够不加评判地欣赏我女性同龄人的女性气质和美丽，我可以赞美她们，而不必担心被认为是讨好她们的人，也不必担心我的意图被误解。
 
-It was a dysphoria I could not possibly have put into words until after it had finally been relieved. I was even more relieved as I began to integrate into queer women's spaces and came to realize that _women are exactly as thirsty as men are_, we're just (usually) much more respectful about it. It was a release of guilt that I didn't even know I was carrying.
+这是种解脱后才能用语言表达的烦躁感。当我开始融入女酷儿圈子时，更是松了一口气：女性和男性一样饥渴，我们只是（通常）更尊重这种欣赏和性欲。我从这种先前没意识到的负罪感中解脱出来。
