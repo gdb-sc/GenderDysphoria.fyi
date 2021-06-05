@@ -1,14 +1,14 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Managed Dysphoria: Gender in Disguise"
-linkTitle: "Managed Dysphoria"
-description: "I don't regret the things I have done, I regret the things I didn't do when I had the chance."
+title: "受控的烦躁：伪装下的性别"
+linkTitle: "受控的烦躁"
+description: "我并不后悔所做之事，我只后悔当我有机会时没有做的事情。"
 preBody: '_disclaimer'
 siblings:
   prev: /gdb/existential-dysphoria
-  prevCaption: Existential Dysphoria
+  prevCaption: 存在性烦躁
   next: /gdb/impostor-syndrome
-  nextCaption: Impostor Syndrome
+  nextCaption: 冒名顶替综合征
 classes:
   - gdb
 tweets:
@@ -16,70 +16,70 @@ tweets:
   - '1215749725456125952'
 ---
 
-# Managed Dysphoria
+# 受控的烦躁
 
-Growing up in the closet, even when you don't know you're in the closet, becomes an existence built on top of coping mechanisms intended to alleviate dysphoria. The following are ways a closeted trans person may find to alleviate the dysphoria they experience in their day to day lives:
+在未出柜的状态下长大，即使你不知道自己有跨性别倾向，也会建立一种类似于应对机制的生活方式从而减轻性别焦虑。以下是未出柜的跨性别者可能能够找到的缓解他们在日常生活中所经历的烦躁的方法：
 
-- When a video game gives you the option of choosing your gender, you tend to choose differently than your assigned gender. This may be accompanied with excuses to defend that choice. "It defaulted to male and I didn't care." "I don't want to stare at a guy's butt for hours."
+- 当电子游戏让你选择你的性别时，你往往会选择与你原生性别不同的选项。这可能伴随着为该选择辩护的借口：“它默认是男性而我并不在意。”“我不想盯着一个男人的屁股看几个小时。”
 
-- A preference for literature and film with characters of your true gender, or with characters who break gender norms (Mulan, Little Women).
+- 偏爱文学与电影中有你真实性别、或者打破性别规范的人物（花木兰、小妇人）。
 
-- Pornographic outlets which satisfy strong desires or feel more relatable, such as a draw towards gay/lesbian porn, bridal kink, or transformation sequences.
+- 倾向于选择满足更有代入感或更能满足强烈欲望的情色渠道，如同性恋情色片、婚纱捆绑，或性转剧情。
 
-- Crossdressing or performing drag.
+- 穿搭属于另一性别的服装。
 
-- Finding excuses to cut hair short, or to grow it out.
+- 寻找借口剪短头发，或将头发留长。
 
-- Shaving of body hair, or a refusal to shave hair you're expected to.
+- 刮体毛，或在被期望除毛时拒绝刮毛发。
 
-- Wearing loose and baggy clothing that hides the shape of your body.
+- 穿宽松的大码服装以掩盖体型。
 
-- Avoiding social gatherings whenever possible, seeking isolation.
+- 尽可能的避免社交，寻求与他人隔离。
 
-- Becoming intimately educated about some gender-associated topic, such as men's or women's clothing design.
+- 密切了解一些与对应性别相关的话题，如男性或女性的服装设计。
 
-- Obsessively working out (AFABs).
+- 对于生理女性者而言，痴迷于健身。
 
-- Helping cis partners to shop in order to live vicariously through their presentation.
+- 与顺性别朋友一起购物，以便通过他们的外观来间接展示自身性别表达。
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1215746083487461379'
   '1215749725456125952'
 ] tweets=meta.tweets className="collapse" }}</div> }!}
 
-Because so much abuse is handed down onto gender non-conforming children, many trans people grow up learning to hide their natural personalities out of sheer necessity. Many trans people speak about having a phase of life where they attempted to "buy-in" on their assigned gender, performing masculinity or femininity to extremes in order to try to "fix" themselves. This leads to repression tendencies which may even superficially appear toxic, but are simply the results of trying to hide every scrap of their true selves.
+由于具有性别不一致表现的儿童受到了诸多不平待遇，许多跨性别者在成长过程中学会了隐藏自己的自然个性，这完全是出于需要。许多跨性别者谈到，他们在生活的某个阶段试图“接受”他们被分配的性别，将男性化或女性化发挥到极致，以试图“修复”自己。这导致了压抑的倾向，甚至在表面上看起来是有害的，但是这只是试图隐藏他们真实自我的每一处的结果。
 
-- Growing and meticulously grooming facial hair (the so-called "denial beard").
+- 种植和精心梳理面部毛发（所谓的“否认的胡须”）
 
-- Taking up makeup artistry in order to perfect a high femme look.
+- 学习化妆艺术，以完善女性化的外观。
 
-- Presenting extremely masculine or hyper feminine.
+- 展现出极度的男性化或极度的女性化。
 
-- Avoiding any conversation about fashion for any gender. Dissociating whenever fashion conversations or activities occur.
+- 避免与任何性别的人谈论时尚。当发生有关时尚的谈话或活动时选择离开。
 
-- Obsessively working out (AMABs).
+- 对于生理男性者而言，痴迷于健身。
 
-- Assuming a strongly stereotyped gender role in a relationship (e.g. the dutifully modest housewife).
+- 在一段关系中承担一个强烈地受刻板印象的角色（如尽职尽责的谦虚家庭主妇）。
 
-- Marrying and having kids in anticipation that it will "fix" what's wrong with you.
+- 结婚生子，期待这能“解决”你的问题。
 
-- Buying in to ultra-conservative attitudes towards gender and sexuality.
+- 接受对性别和性取向的极端保守态度。（“恐同即深柜”，译者注）
 
-- Expressing Homophobia and Transphobia in self defense to ward off suspicion.
+- 出于自我防卫的目的，表达对同性恋与跨性别者的恐惧与反对，以防止被怀疑。
 
-- Aggressively passive engagement in anything connected to one's true gender.
+- 防止参加任何与自己真实性别有关的活动。
 
 
-Finally, another very common coping mechanism is to find means of escape or mental engagement in order to forget your own feelings.
+最后，另一个非常常见的应对机制是寻找逃避或全身心投入的手段，以忘记自己的感受。
 
-- Intensely investing large amounts of time into hobbies.
+- 密集地投入大量时间到爱好中。
 
-- Long hours spent at work.
+- 长时间的工作。
 
-- Chain binging movies, TV shows or books.
+- 不停地看电影、电视或书籍。
 
-- Spending all idle time playing video games or on social media.
+- 把所有休闲时间都花在玩游戏或社交媒体上。
 
-- Obsessively cleaning one's living space.
+- 痴迷于打扫自己的生活空间。
 
-- Sleeping. Lots and lots of sleeping.
+- 睡觉。很多很多的睡眠。
