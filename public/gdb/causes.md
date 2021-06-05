@@ -1,8 +1,8 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "What is the Cause of Gender Incongruence"
+title: "性别不一致的起源"
 linkTitle: "Causes of Gender Dysphoria"
-description: "It's the hormones, baby."
+description: "这和激素有一点关系, 宝贝."
 preBody: '_disclaimer'
 classes:
   - gdb
@@ -16,24 +16,24 @@ tweets:
   - https://twitter.com/LisaTMullin/status/1224044949160611840
 siblings:
   prev: /gdb/treatment
-  prevCaption: Treating Gender Dysphoria
+  prevCaption: 抚平性别烦躁
   next: /gdb/chromosomes
-  nextCaption: But... but... the chromosomes!
+  nextCaption: 但是...但是还有染色体哪!
 ---
 
-# What is the Cause of Gender Incongruence?
+# 性别不一致的成因是什么?
 
-To put it bluntly: We don't know, not firmly. Science and modern psychology has proven that it is **not** caused by nurture; no one *becomes* transgender, gender identity is congenital, solidifying before we even exit the womb. It also appears to sometimes be hereditary; transgender parents have a higher likelihood of having transgender children, and many times they realize this in reverse. The child comes out to the parent, and that helps the parent realize they can come out as well.
+坦诚地说: 我们并不明确知道. 现代生物学和心理学已经证明这不是后天产生的; 没有人会 *变成* 跨性别者, 性别认同是先天的, 甚至在我们离开子宫前就固定下来. 它在某些时候也像是遗传的; 跨性别父母更可能有跨性别子女, 并且很多时候双方会反过来认识到这一点. 孩子向父母出柜, 这促使父母认识到他们也可以出柜.
 
-Here is the science that is believed to influence gender identity. This does not mean that it *defines* gender identity, nor does it fully encapsulate one's gender, as so many aspects of gender are cultural and social. None of this is prescriptive of a person's identity, none of it is cast in stone.
-
-If you've seen Jurassic Park then you may remember this scene:
+据信下文的学说阐释了性别认同的影响因素. 这不意味着这些因素 *定义* 了性别认同或概括了一个人的性别, 因为性别的许多方面与社会和文化因素密不可分. 这些全然不是对一个人性别认同的板上钉钉的规定.
+ 
+如果你观看过侏罗纪公园, 你可能还记得这个场景:
 
 {!{
   {{import '~/img' images.jurassicpark
     className="card borderless center span34"
-    alt="All vertebrate embryos are inherently female anyway. They just require an extra hormone given at the right developmental stage to make them male."
-    caption="This isn't science fiction, although it is very simplified."
+    alt="反正所有脊椎动物的胚胎本质上都是女性。它们只是需要在适当发育阶段给予额外的激素，使其成为雄性."
+    caption="这是现实而非科幻, 尽管有些过度简化."
   }}
 }!}
 
@@ -42,25 +42,24 @@ If you've seen Jurassic Park then you may remember this scene:
   {{import '~/img' images.fetalgenitals
     className="card"
     caption="<a href=\"https://schoolbag.info/biology/concepts/188.html\">Source</a>"
-    alt="Fetal development of internal sexual anatomy"
+    alt="胎儿性器官发育的解剖图示"
   }}
 </div>
 }!}
 
-The gonads in human fetuses initially develop in a bi-potential state, meaning they can become either ovaries or testes. The SRY gene on the Y chromosome releases a protein called [Testis Determining Factor](https://en.wikipedia.org/wiki/Testis-determining_factor) (TDF). This protein then starts a chain reaction with SOX9 production (another protein), which causes the gonadal cells to form into the Sertoli and Leydig cells that make up the testes. If TDF is never produced or is interfered with then the gonad cells form into the Theca cells and Follicles which comprise the ovaries.
+人类胎儿的性腺最初以双能状态发育, 也即它们既能发育为卵巢, 也能发育为睾丸. Y 染色体上的 SRY 基因表达产生名为 [睾丸决定因子](https://en.wikipedia.org/wiki/Testis-determining_factor) (TDF) 的蛋白质, 随后启动一连锁反应, 包括 SOX9 蛋白质的合成, 这使性腺细胞分化为组成睾丸的 Sertoli 细胞和 Leydig 细胞. 若 TDF 合成受阻, 性腺细胞便分化为组成卵巢的 Theca 细胞和卵泡.
 
 
-Once formed, the testes then begin producing a testosterone surge which typically starts in the 8th week of gestation and continues until the 24th week. This surge, [combined with another hormone from the placenta](https://www.sciencedaily.com/releases/2019/02/190214153053.htm), is responsible for the development of the penis and scrotum. Genitalia formation starts around week 9 and becomes identifiable by the 11th week. If the surge does not occur, or the body does not respond to it (such as in the case of Androgen Insensitivity Syndrome) then the genitalia form into the vulva, vagina and uterus instead.
+睾丸一旦形成便开始分泌睾酮, 使之水平激增. 高水平期通常始于妊娠8周, 持续到第24周. 激增的睾酮[以及来自胎盘的另一激素](https://www.sciencedaily.com/releases/2019/02/190214153053.htm), 促使了阴茎和阴囊的发育. 外生殖器的形成在第9周前后开始, 并在第11周时变得可辨认. 如果这一突增未发生或身体无应答 (如患雄激素不敏综合征), 那么生殖器将发育为外阴、阴道和子宫.
 
-If there is an interference in this process then you can end up with the wrong bits, and this is the result of many intersex conditions. Often times this is a partial development, where the external genitalia only partially form, but functional gonads still exist. Sometimes the child comes out with fully functional male or female genitalia, but mismatched gonads. Sometimes the TDF protein fails to release and the fetus grows completely functional female reproductive organs, despite the presence of a Y chromosome.
+这一过程中的干扰可能最终导致些许生理错位, 这正是许多间性别者所经历的. 通常这导致生殖器官的部分发育: 外生殖器仅部分形成, 但有功能的性腺仍然存在. 有时胎儿具有功能完整的男性或女性生殖器, 但性腺不匹配. 有时 TDF 蛋白未能释放，尽管存在Y染色体，但胎儿长出了功能完整的女性生殖器官.
 
-This is known as Swyer Syndrome, and an unknown number of women may have this condition. In 2015 [an XY woman with Swyer Syndrome who was born without ovaries](https://www.independent.co.uk/news/science/mostly-male-woman-gives-birth-to-twins-in-medical-miracle-10033528.html) successfully carried and gave birth to a child via IVF. Usually Swyer Syndrome results in completely non-functional ovaries, but [in 2008 a woman was found with Swyer Syndrome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2190741/) who had gone through puberty, menstruated normally, and had two unassisted pregnancies. Her condition went undiscovered until her daughter was found to also have it.
+这被称为 Swyer 综合征, 患有此病的女性数目仍是未知的. 在 2015 年 [an XY woman with Swyer Syndrome who was born without一位因 Swyer 综合征而先天性卵巢缺失的女性 (性染色体组为 XY)](https://www.independent.co.uk/news/science/mostly-male-woman-gives-birth-to-twins-in-medical-miracle-10033528.html) 藉体外受精技术 (IVF) 成功生育一个孩子. 通常 Swyer 综合征会使卵巢完全失去功能, 但[在 2008 年,  一位经历了青春期, 月经正常, 有过两次的女性被确诊  Swyer 综合征](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2190741/). Ta 的病情直到自己的女儿被确诊后才被发现.
 
-The fact is, the vast majority of the population has never been tested for genetic karyotype, so we don’t know how common these cases actually are. Where does this come into affect for gender identity? Well, the exact same process that causes the external genitals to differentiate also occurs for the brain.
-
+事实上, 由于数量庞大的人口从未进行过核型测试, 我们无从得知这些情况的普遍程度. 这如何影响了性别认同? ——这些导致外生殖器分化的过程也同样发生在大脑之中.
 {!{
 <div class="gutter">
-  <strong style="display: block;text-align: center;">And it gets even weirder!</strong>
+  <strong style="display: block;text-align: center;">事情可能会更加离谱!</strong>
   {{import '~/tweet' ids=[
     '1224039568971710464'
     '1224040716365524993'
@@ -86,10 +85,10 @@ An excess of testosterone in the mother’s body during the second trimester can
 
 A fairly large study of transgender individuals released in 2018 [found several key genes](https://academic.oup.com/jcem/article/104/2/390/5104458) which were statistically more likely to be longer among trans women (longer, as in having more repeated fragments). Individually these genes may not have an impact strong enough to cause a malfunction of masculinization, but collectively they absolutely could reduce the ability for the fetal brain to masculinize. These genes are all passed from parent to child, giving credence to a tendency for trans parents to have trans children.
 
-#### Gender is Biological
+#### 性别认同的生理性
 
-Sadly, western society has actively prevented a deeper understanding of gender. Ancient civilizations understood it well, but colonialism wiped them off the map. 100 years ago, [scientists in Germany were actively studying](https://en.wikipedia.org/wiki/Institut_f%C3%BCr_Sexualwissenschaft) transgender medicine and made extraordinary advancements, until the Nazis burned it all in 1933. Conservative and fascist pressures in the modern day have hindered advancements in transgender healthcare whenever possible.
+可悲的是, 西方社会积极阻止性别认识的深化. 古代文明对性别有深入的理解, 但殖民统治将他们从地图上全然抹去. [百年前的德国科学家曾对跨性别医学有过积极研究](https://en.wikipedia.org/wiki/Institut_f%C3%BCr_Sexualwissenschaft), 并取得了卓越的成果, 直到 1933 年为纳粹付之一炬. 当代保守主义和新纳粹仍在穷尽可能手段以阻止跨性别医疗的发展.
 
-Yet, progress continues, and every few years we learn a little bit more.
+进步仍在继续, 每过几年, 我们的认识便加深一些.
 
-What we know for certain is that it is not a psychological condition, it is not something caused by trauma or by any external influence, nothing can make a person transgender. It happens in the womb, and is not something that a person can choose to be, any more than they could choose their race or their eye color. It has nothing to do with sexual orientation, it has nothing to do with kinks or fetishes, and it has nothing to do with social influences from their parents or from their peers. [Transgender children are as firm in their identities as cisgender children are](https://www.forbes.com/sites/dawnstaceyennis/2020/12/29/study-transgender-children-recognize-their-authentic-gender-at-early-age-just-like-other-kids/#20bbb14526bf).
+我们已经确信的是 它并非心理疾病, 不由创伤或外部因素引起, 没有什么东西能把人*变成*跨性别者. 性别认同在子宫里确定下来, 同种族或瞳色一样, 并非一个人可以选择的. 它同性取向无关, 同各式性癖或恋物无关, 亦同父母或同龄人的影响无关. [跨性别儿童与顺性别儿童对自己的性别认同同等坚定](https://www.forbes.com/sites/dawnstaceyennis/2020/12/29/study-transgender-children-recognize-their-authentic-gender-at-early-age-just-like-other-kids/#20bbb14526bf).
