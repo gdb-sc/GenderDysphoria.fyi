@@ -19,23 +19,23 @@ tweets:
   - https://twitter.com/DameKraft/status/1191555135756853249
 ---
 
-# Presentational Dysphoria
+# 外表烦躁
 
-Clothes. Hair. Makeup. Jewelry. Glasses. Piercings and other body modifications. Even personal hygiene can be a factor of presentation, such as the shaving of body hair, or how you take care of your skin. All of these things are gendered in society, clothing and hair especially.
+服饰、头发、妆容、首饰、眼睛、耳环和其他修饰，甚至个人卫生都可以是外表的一部分，比如刮体毛、护肤。这些东西在社会中都是按性别划分的，尤其是衣服和头发。
 
-While the sexual revolution of the 1960s and the business fashion craze of the 80s did wonders for blurring the gap between masculine and feminine presentation (largely by normalizing masc fashion as androgynous), there are still enormous pressures to conform to traditional gender norms. Gender Non-Conforming dress is so instantly marked as queer that any time a woman wears a tailored suit she is marked as a lesbian, and a dad who [puts on an Elsa costume because his son wants to have a Frozen party](https://twitter.com/cbsnews/status/1088441623846023168?lang=en) is labeled as subversive and abusing his child.
+虽然美国20世纪60年代的性解放和80年代的商业时尚热潮已经在模糊两性气质差异上做出了不朽贡献（主要通过将男性气质化为两性气质），但仍然存在着遵守传统性别规范的巨大压力。穿与性别不一致的服装就会被视为同性恋，一位女性穿着定制西装都会被视为女同性恋，一个[因为儿子想开冰雪奇缘派对而穿上艾莎服装](https://twitter.com/cbsnews/status/1088441623846023168)的爸爸，也会被视为反叛和虐童。
 
-Long hair on men has been seen as [an act of rocker rebellion](https://www.youtube.com/watch?v=PbAoXw_DqvM) for decades, and men with long hair get discriminated against as being layabouts and bums. Short hair on women is often read as queer or butch (unless they're old, then it's expected), and women are often pressured to keep their hair long. Pierced ears on men became somewhat more normalized in the 90s, but are still seen as an act of rebellion, and some employers won't allow men to wear earrings. Makeup on men is so stigmatized by toxic masculinity that even men who *like* makeup feel pressured to avoid it.
+几十年来，男人留长发一直被视为[摇滚乐的反叛](https://www.youtube.com/watch?v=PbAoXw_DqvM)，留长发的男人被歧视为懒汉和流浪汉。短发女性通常被认为是同性恋或女汉子（除非是老年人，因为这符合社会期望），女性常被迫留长发。在90年代，男性穿耳洞更常态化，但仍然被视为一种反叛行为，并且一些老板不允许男性戴耳环。男性化妆被有毒的男性气质所污名化，即使是喜欢化妆的男性也会因为压力而避免化妆。
 
-Like it or not, presentation is gendered, and it is extremely common for trans people to want to present themselves in the fashion of their true gender, and a desire to be free of the shackles of gendered presentation is common among all trans people, regardless of where they sit on the gender spectrum. For AMAB individuals they may manifest as a wish to incorporate more feminine elements, for AFABs it may manifest as a want for more masculine appearance. This may come as a full push towards the opposite of their assigned gender, or a desire to seek a middle-ground in pursuit of androgyny. It may even simply be a wish to *not* present as your assigned gender.
+不论如何，外表是按性别划分的。不论在性别光谱中处于什么位置，跨性别者希望以真实性别的样子展现自己很正常，对摆脱性别表达束缚的渴望也很普遍。生理男性可能希望有更女性化的特质，而生理女性可能希望拥有更男性化的外表。这可以是与生理性别完全相逆的努力，也可以是在追求中型气质的渴望。它甚至可能只是与生理性别表现*不*一致的愿望。*
 
-**Not all transfems present feminine, not all transmascs present masculine, not all non-binary people seek androgyny. Butch AMAB trans people are valid, femme AFAB trans people are valid. Presentation is not gender, gender is not presentation.**
+**不是所有的跨性别女性都表现得女性化，不是所有的跨性别男性都表现得男性化，不是所有的非二元性别者都追求中气质。酷酷的生理男性跨性别者是真实的，可爱的生理女性跨性别者也是真实的。外表不是性别，性别不是外表。**
 
-Presentational Dysphoria typically appears early on in the form of a fascination with the styling of another gender, and a wish to be able to present as people of that gender do. That desire may be fulfilled somewhat by seeking out styling that is unisex, but typically that wish is self-gatekept by statements of "I'm not confident enough to attempt that." AMABs often run into issue here where this desire often gets trapped behind heteronormative expectations, causing an interest in feminine presentation to be misinterpreted as sexual desire.
+外表烦躁通常出现在早期，表现为对另一性别的造型着迷，并希望能够像该性别的人一样。这种渴望可以通过中性风格来满足，但常常通过“我没有足够的信心去尝试”这样的话自我检验。生理男性经常遇到这种问题，这种渴望往往受困于社会规范，导致对女性化外表的兴趣被误解为性欲。
 
-Post-transition Presentational Dysphoria is usually simply a case of high discomfort when attempt to present as one's assigned gender. It may not even be about how one looks, but just the way the clothing makes you feel. For the first year and a half of my own transition I could not bear to wear unisex t-shirts because they just made me feel more masculine. Even now I have to cut the collars out of them, because the close neck makes me feel dysphoric.
+转变后的外表烦躁通常是以指派性别外表生活时的高度不适。它甚至可能无关外表，而只是衣服给你的感受。在我做转变的一年半里，我不能忍受穿中性t恤，因为它们让我觉得更男性化。即使现在我也得把领子剪下来，因为紧紧的脖子使我烦躁不安。
 
-### Presentation's Affect on Physical Dysphoria.
+### 外表对身体烦躁的影响
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1215716435068100611'
@@ -44,25 +44,25 @@ Post-transition Presentational Dysphoria is usually simply a case of high discom
   '1215716438020849664'
 ] tweets=meta.tweets className="oneblock" }}</div> }!}
 
-Clothing can also play a major role in the level of physical dysphoria a person experiences. Men's clothing is always cut very boxy, straight up and down on the vertical and very square in the horizontal. Women's clothing is cut for more curves, accentuating waistlines and hip shape. Men's pants feature a lower crotch to make room for external genitals, and no fitting for curves, where women's bottoms are the opposite. Women's clothing is often form fitting, where men's clothing is rarely form fitting at all. Men's clothing is often made of sturdier and thicker materials, meant to be worn as a single layer. Women's clothing is often made of thinner and stretchier materials, expected to be layered together.
+服装在身体烦躁中也有很大的作用。男装总是剪裁地四四方方。女装有更多的曲线，突出腰线和臀型。男裤胯部较低，留给外生殖器空间，也没有曲线，而女裤则相反。女装通常是合身的，而男装很少合身。男装通常由更结实、更厚的材料制成，所以只能穿一件。女装通常由更薄更有弹性的材料制成，可以穿多件。
 
-Because these structures are meant to fit the masculine or feminine forms, they tend to amplify the sensation of wrongness. A classic effect is the way that the difference between men's and women's jeans can have a radical affect on a trans person's comfort level. Unfortunately this works both ways, as even affirming clothing can reveal how your shape is a mismatch.
+因为这些设计迎合性别规范，它们往往会增强倒错感。男女牛仔裤的差异往往会对跨性别者的舒适感产生重大影响。不幸的是，这是双向的，因为与穿性别相符的服装会暴露体型。
 
-I, myself am very feminine in my preferred presentation, and I had a longing to wear dresses from when I was just five years old. I abhorred wearing suits, hating the way they fit on my body, since they always tugged in ways that felt very incorrect for what my body needed. I refused to wear any denim for most of my life because men's jeans always felt so incorrect (women's jeans and leggings, however, feel amazing). Then as I entered into transition and began to present more female, my dysphoria struck again in the ways my body did not conform to what women's clothing was expecting (too much in the crotch, too wide and bulky in the shoulders, too large in the waist, not large enough in the chest). It wasn't until the second year that I had experienced enough change in my shape to where women's clothing was properly affirming of my shape.
+我选择了非常女性化的外表，我从五岁起就渴望穿裙子。我讨厌穿西装，讨厌那种不合身的拉扯感。我绝大多数时候都不愿意穿牛仔裤，因为男士牛仔裤总导致倒错感（然而，女士的牛仔裤和紧身裤却很美好）。当我进入转变时期并逐渐表现得更女性化时，身体与女性标准的不一致再次导致了性别烦躁（胯宽，肩宽，腰宽，胸小）。我到第二年才有了足够的体型变化，女装才与我的体型相符。
 
-What does this look like? Well, it looks a lot like other common body image issues. A tendency to avoid anything form fitting, leaning towards softer fabrics and baggier clothes. A classic gender dysphoria trope is the kid who wears nothing but sweatpants and hoodies. Clothes will be oversized in order to keep them from hugging the body. AFABs may prefer to wear compressing sports bras in order to minimize their chests, and avoid anything with a tight waistline.
+这很像其他常见的身材焦虑：避免穿合身的衣服，选择更柔软的面料和更宽松的版型。性别烦躁的典例是只穿运动裤和卫衣的孩子。为了不让衣服紧贴身体，版型会过大。生理女性可能更喜欢穿压缩式运动胸罩来尽量缩小胸部，并避免收腰的东西。
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1191555135756853249'
 ] tweets=meta.tweets className="" }}</div> }!}
 
-Internally it most often manifests as intense jealousy of the people you wish you could be. Jealousy over an influencer's body shape, a strong desire for the outfit of a person on the street, and most especially envy of other trans people. This feeling often persists well into transition, because this sensation of wanting to be other people of your gender is actually completely natural, even for cis people.
+内心中常常表现为对你希望成为的人的强烈嫉妒。对影响自我的体型拥有者的嫉妒，对一个人在街上穿着的强烈渴望，尤其是对其他跨性别者的嫉妒。这种感觉常常会持续到转变期，因为即使对于顺性别者而言，成为他人的渴望也是完全正常的。
 
 
-### Presentation's Affect on Social Dysphoria.
+### 外表对社交烦躁的影响
 
-Presentation can be important for avoiding misgendering, especially early in transition. A lot of trans people feel a need to perform their gender in order to be accepted for who they are, leaning in to feminine or masculine presentation more than they actually would like in order to make up for their body and ensure that people gender them correctly. Those pursuing medical transition may find this need becomes less important as their bodies change and they become able to be gendered correctly without all of the performance.
+外表对于避免错认性别很重要，尤其是在转变的早期。许多跨性别者觉得需要表演性别，作为真实的自我被接纳。比实际需求更贴近女性化或男性化的外表，以弥补身体的不完美，并确保被正确区分性别。那些追求医学转变的人可能会发现，随着身体的变化，他们能够在表演部分性别气质的情况下被正确地区分性别，这种需求变得不那么重要。
 
-Performative Presentation was practically required prior to the reformation of WPATH in 2011; anyone who showed up to a doctors appointment without extreme feminine or masculine presentation risked be labeled a fake and losing their treatment under the Harry Benjamin Scale. Trans women actually would lose their estrogen simply for wearing jeans and a blouse instead of a dress, or for not putting on enough makeup. This is one of the reasons why [transmedicalist](https://en.wikipedia.org/wiki/Transmedicalism) ideology is so dangerous: it would see us returning to this system, labeling anyone who doesn't meet stereotypical views of femininity and masculinity as not actually transgender.
+在2011年WPATH改革前，表演外表是必要的；没有极度女性化或男性化的人都会冒被医生认为是骗子的风险，并失去哈里·本杰明量表标准下的治疗。跨性别女性会因为没穿裙子，而是牛仔裤和衬衫或者妆不够好而失去雌激素处方。这就是[有性别烦躁才是跨性别者的观念](https://en.wikipedia.org/wiki/Transmedicalism)很危险的原因之一：它迫使我们回归现有体系，将那些不符合性别气质刻板印象的人开除跨籍。
 
-Presentation is especially important among prepubescent children, as they lack any significant secondary sexual characteristics. Clothing and hair are the only ways we have to show the gender of a child, so much so that if a baby simply wears a pink shirt, strangers assume it is a girl. Even unisex clothing for kids is strongly gendered by way of colors and graphics. For trans children it can be extremely distressing to be either forced to cut their hair, or required to grow it out. Denying dresses to a trans girl or transfeminine non-binary child, or forcing them onto a trans boy or transmasculine non-binary child, can be debilitating to their morale.
+外表对于青春期前的儿童中尤其重要，因为没有显著的第二性征，衣服和头发是展现孩子性别的唯一方式。如果一个婴儿穿了粉色衬衫，陌生人就会认为Ta是女孩。即使中性的儿童服装也明显地以颜色和图案区分性别。对于跨性别儿童来说，要么被迫剪掉头发，要么留长，而这可能是极其痛苦的。拒绝给跨性别女孩或偏女性气质的非二元儿童穿裙子，或者强迫跨性别男孩或偏男性气质的非二元儿童穿裙子，都会使其心情低落。
