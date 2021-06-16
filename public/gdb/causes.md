@@ -23,9 +23,9 @@ siblings:
 
 # 性别不一致的成因
 
-坦白说：我们不清楚。现代生物学和心理学证实**不是**后天因素导致的； 没有人会*变成*跨性别者，性别认同是先天的，甚至在胎儿时期就明确了。它也像是遗传的；跨性别父母更有可能生出跨性别子女，并且很多时候双方会相互觉醒：孩子向父母出柜，父母意识到他们也可以出柜。
+坦白说：我们不清楚。现代生物学和心理学证实**不是**后天因素导致的； 没有人会*变成*跨性别者，性别认同是先天的，甚至在胎儿时期就明确了。它似乎是遗传的；跨性别父母更有可能生出跨性别子女，并且很多时候双方会相互觉醒：孩子向父母出柜，父母意识到他们也可以出柜。
 
-下文的学说阐释了影响性别认同的因素。这不是说这些因素*决定*了性别认同或概括了一个人的性别，因为性别与社会和文化因素密不可分。这也不是对性别认同的规定.
+下文的学说阐释了影响性别认同的因素。这不是说这些因素*决定*了性别认同或概括了一个人的性别，因为性别与社会、文化因素密不可分。这也不是对性别认同的规定.
 
 如果看过《侏罗纪公园》，你可能对这个场景有印象：
 
@@ -46,17 +46,16 @@ siblings:
   }}
 </div>
 }!}
+人类胎儿的性腺最初处于未分化状态，即既能发育为卵巢，也能发育为睾丸。Y 染色体上的 SRY 基因产生名为[睾丸决定因子](https://en.wikipedia.org/wiki/Testis-determining_factor)（TDF）的蛋白质，该蛋白促使SOX9（另一种蛋白质）的合成，由此开启了连锁反应。SOX9促使性腺细胞分化为支持细胞和睾丸间质细胞，由此组成睾丸；若TDF合成受阻，性腺细胞便分化为卵泡膜细胞和卵泡，由此组成卵巢。
 
-人类胎儿的性腺最初以未分化状态发育，即既能发育为卵巢，也能发育为睾丸。Y 染色体上的 SRY 基因产生名为 [睾丸决定因子](https://en.wikipedia.org/wiki/Testis-determining_factor)（TDF）的蛋白质，该蛋白触发合成SOX9（另一种蛋白质），由此开始连锁反应。SOX9促使性腺细胞分化为支持细胞和睾丸间质细胞，由此组成睾丸；若TDF合成受阻，性腺细胞便分化为卵泡膜细胞和卵泡，由此组成卵巢。
+睾丸一形成便开始分泌睾酮，通常于妊娠8周至24周水平激增。高水平的睾酮以及[胎盘中的另一激素](https://www.sciencedaily.com/releases/2019/02/190214153053.htm)促使阴茎和阴囊发育。外生殖器大约在第9周开始形成，第11周时可以辨认。如果睾酮水平没有激增或身体没有反应 (如雄激素不敏感综合征)，那么生殖器将发育为外阴、阴道和子宫。
 
+这一过程中的干扰可能会导致生理错位，而许多间性人正是如此。生殖器官通常部分发育：外生殖器部分形成，但功能性性腺仍然存在。有时儿童具有功能完整的男性或女性生殖器，但性腺不完整。有时Y染色体未产生TDF蛋白的胎儿长出了完整的女性生殖器官。
 
-睾丸一旦形成便开始分泌睾酮, 使之水平激增. 高水平期通常始于妊娠8周, 持续到第24周. 激增的睾酮[以及来自胎盘的另一激素](https://www.sciencedaily.com/releases/2019/02/190214153053.htm), 促使了阴茎和阴囊的发育. 外生殖器的形成在第9周前后开始, 并在第11周时变得可辨认. 如果这一突增未发生或身体无应答 (如患雄激素不敏综合征), 那么生殖器将发育为外阴、阴道和子宫.
+这是斯威耶综合症，女性患者数量仍是未知数。[一位性染色体为XY的无卵巢斯威耶综合症女性](https://www.independent.co.uk/news/science/mostly-male-woman-gives-birth-to-twins-in-medical-miracle-10033528.html)在 2015 年藉由体外受精技术成功生育了一个孩子。通常斯威耶综合症会使卵巢丧失全部功能，但[在 2008 年，一位](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2190741/)有青春期，月经正常，有过两次自然受孕的女性在她的女儿被确诊后发现她也是。
 
-这一过程中的干扰可能最终导致些许生理错位, 这正是许多间性别者所经历的. 通常这导致生殖器官的部分发育: 外生殖器仅部分形成, 但有功能的性腺仍然存在. 有时胎儿具有功能完整的男性或女性生殖器, 但性腺不匹配. 有时 TDF 蛋白未能释放，尽管存在Y染色体，但胎儿长出了功能完整的女性生殖器官.
+事实上，由于绝大多数人从未进行过染色体核型分析，我们无从得知这些情况有多普遍。这是如何影响性别认同的？而外生殖器分化的过程也同样发生在大脑之中。
 
-这被称为 Swyer 综合征, 患有此病的女性数目仍是未知的. 在 2015 年 [an XY woman with Swyer Syndrome who was born without一位因 Swyer 综合征而先天性卵巢缺失的女性 (性染色体组为 XY)](https://www.independent.co.uk/news/science/mostly-male-woman-gives-birth-to-twins-in-medical-miracle-10033528.html) 藉体外受精技术 (IVF) 成功生育一个孩子. 通常 Swyer 综合征会使卵巢完全失去功能, 但[在 2008 年,  一位经历了青春期, 月经正常, 有过两次的女性被确诊  Swyer 综合征](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2190741/). Ta 的病情直到自己的女儿被确诊后才被发现.
-
-事实上, 由于数量庞大的人口从未进行过核型测试, 我们无从得知这些情况的普遍程度. 这如何影响了性别认同? ——这些导致外生殖器分化的过程也同样发生在大脑之中.
 {!{
 <div class="gutter">
   <strong style="display: block;text-align: center;">事情可能会更加离谱!</strong>
@@ -71,24 +70,28 @@ siblings:
 </div>
 }!}
 
-#### Brain Split
+#### 脑分化
 
-The prenatal brain doesn't really start to develop until between week 12 and 24. The cerebral cortex, the thin outer layer of the brain that contains most of what we think of as consciousness, grows substantially during those periods of time. Prior to that, the structure present is more like a scaffolding, the basic parts of the nervous system necessary for bodily function. The primary sulci (the wrinkles in the cerebral cortex that allow for more surface area) [start to form at week 14](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989000/#Sec5title), well after the genitals have developed.
+胎儿的大脑在第12周到第24周之间才真正开始发育。大脑皮层容纳了所谓的大部分意识，它在这段时期会大幅增长。在此之前的结构更像是框架，是维持身体功能所必需的基本神经系统。脑沟回在在生殖器发育很久之后的[第14周开始形成](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989000/#Sec5title)。
 
-It [has been confirmed multiple times](https://www.the-scientist.com/features/are-the-brains-of-transgender-people-different-from-those-of-cisgender-people-30027) via MRI studies that there are small but significant differences between cis male and cis female brains, differences which align with the gender identities of trans people in the study. Note, **this does not mean that anyone with those differences will have that gender**, because gender identity isn't that simple, but it provides evidence that there is a clear difference in masculine and feminine brains. [There is also evidence](https://www.pnas.org/content/112/50/15468) that brains can have mosaic combinations of these differences, which may be the case in non-binary people.
+It [反复验证](https://www.the-scientist.com/features/are-the-brains-of-transgender-people-different-from-those-of-cisgender-people-30027) via MRI studies that there are small but significant differences between cis male and cis female brains, differences which align with the gender identities of trans people in the study. Note, **this does not mean that anyone with those differences will have that gender**, because gender identity isn't that simple, but it provides evidence that there is a clear difference in masculine and feminine brains. [也有证据](https://www.pnas.org/content/112/50/15468) that brains can have mosaic combinations of these differences, which may be the case in non-binary people.
 
-A change in the testosterone levels in the fetus after the 11th week can directly impact the masculinization of the cerebral cortex, as well as changes in other parts of the brain structure. This has been examined [over and over again](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4350266/) in studies of female assigned children with CAH (congenital adrenal hyperplasia) and CAIS (complete androgen insensitivity syndrome).
+核磁共振成像研究[反复验证](https://www.the-scientist.com/features/are-the-brains-of-transgender-people-different-from-those-of-cisgender-people-30027)，顺性别男性和顺性别女性大脑之间存在微小但显著的差异，这种差异与研究中跨性别者的性别认同一致。注意，**这并不意味着有这种差异的人就会是那种性别**，因为性别认同没那么简单。但它证明了男女的大脑存在差异。[也有证据](https://www.pnas.org/content/112/50/15468)表明，大脑可以整合这些差异，或许非二元性别者的大脑就是如此。
 
-<blockquote class="cite"><p>We found a significant relationship between fetal testosterone and sexually differentiated play behavior in both girls and boys.</p>&mdash; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2778233/">Fetal Testosterone Predicts Sexually Differentiated Childhood Behavior in Girls and in Boys</a></blockquote>
+胎儿11周后的睾酮水平会直接影响大脑皮层的男性化进程，以及其他大脑结构的变化。在对CAH（先天性肾上腺增生症）和CAIS（完全性雄激素不敏感综合征）的女童患者的研究已经[反复验证](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4350266/)了这一点。
 
-An excess of testosterone in the mother’s body during the second trimester can (and does) cause masculinization of the brain in an externally female fetus, and an interference in testosterone production or uptake can (and does) cause feminization of the brain in an externally male fetus. This interference does not have to be external in origin, either. Any number of genetic traits can cause the brain to respond differently to testosterone.
+> 我们发现胎儿睾酮水平与分性别的游戏行为之间有显著联系。
+>
+> — [Fetal Testosterone Predicts Sexually Differentiated Childhood Behavior in Girls and in Boys](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2778233/)
 
-A fairly large study of transgender individuals released in 2018 [found several key genes](https://academic.oup.com/jcem/article/104/2/390/5104458) which were statistically more likely to be longer among trans women (longer, as in having more repeated fragments). Individually these genes may not have an impact strong enough to cause a malfunction of masculinization, but collectively they absolutely could reduce the ability for the fetal brain to masculinize. These genes are all passed from parent to child, giving credence to a tendency for trans parents to have trans children.
+在中期妊娠，母体内过量的睾酮可以（并且确实会）引起女胎的大脑男性化，而对睾酮产生或吸收的干扰可以（并且确实会）引起男胎的大脑女性化。这种干扰也不一定是外部的。不同的遗传因素会导致大脑对睾酮的不同反应。
 
-#### 性别认同的生理性
+2018年发布的大规模跨性别者研究发现，在跨性别者中，[几个关键基因](https://academic.oup.com/jcem/article/104/2/390/5104458)从数据上看可能会更长（如有更多的重复片段）。单个基因可能不足以导致男性化障碍，但多个共同作用下肯定会降低胎儿大脑男性化程度。这些基因都是由父母遗传给孩子的，证明了跨性别父母更有可能生育跨性别孩子。
 
-可悲的是, 西方社会积极阻止性别认识的深化. 古代文明对性别有深入的理解, 但殖民统治将他们从地图上全然抹去. [百年前的德国科学家曾对跨性别医学有过积极研究](https://en.wikipedia.org/wiki/Institut_f%C3%BCr_Sexualwissenschaft), 并取得了卓越的成果, 直到 1933 年为纳粹付之一炬. 当代保守主义和新纳粹仍在穷尽可能手段以阻止跨性别医疗的发展.
+#### 性别是天生的
 
-进步仍在继续, 每过几年, 我们的认识便加深一些.
+可悲的是，西方社会极力阻止进一步认识性别。古代文明对性别有深入的理解，但殖民主义使其消亡。百年前的[德国科学家曾积极地开展跨性别医学研究](https://en.wikipedia.org/wiki/Institut_für_Sexualwissenschaft)，并取得了卓越的成果，但1933 年纳粹使其付之一炬。当代保守主义和新纳粹仍穷尽手段阻止跨性别医学的发展。
 
-我们已经确信的是 它并非心理疾病, 不由创伤或外部因素引起, 没有什么东西能把人*变成*跨性别者. 性别认同在子宫里确定下来, 同种族或瞳色一样, 并非一个人可以选择的. 它同性取向无关, 同各式性癖或恋物无关, 亦同父母或同龄人的影响无关. [跨性别儿童与顺性别儿童对自己的性别认同同等坚定](https://www.forbes.com/sites/dawnstaceyennis/2020/12/29/study-transgender-children-recognize-their-authentic-gender-at-early-age-just-like-other-kids/#20bbb14526bf).
+但我们仍在进步，每年都加深一些认识。
+
+我们确信，它绝非心理疾病，也不由创伤或外部因素引发。没有什么能把一个人变成跨性别者。性别在子宫里就定下了，是如同种族或瞳色的不可变因素。它与性取向无关，与性癖或恋物癖无关，也与父母或同龄人的影响无关。[跨性别孩子的性别认同与顺性别孩子一样坚定。](https://www.forbes.com/sites/dawnstaceyennis/2020/12/29/study-transgender-children-recognize-their-authentic-gender-at-early-age-just-like-other-kids/#20bbb14526bf)
