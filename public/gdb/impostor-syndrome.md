@@ -22,33 +22,33 @@ tweets:
   - '1153300374133981186'
 ---
 
-# Impostor Syndrome
+# 冒名顶替综合征
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1219963582063968258'
 ] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
-> [Impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) (also known as impostor phenomenon, impostorism, fraud syndrome or the impostor experience) is a psychological pattern in which an individual doubts their accomplishments and has a persistent internalized fear of being exposed as a "fraud".
+> 冒名顶替综合征](https://en.wikipedia.org/wiki/Impostor_syndrome) (又称自我能力否定症、冒充者综合征) 是一种心理模式，怀疑自己的成就，并对被发现“欺骗”行为的持续恐惧。
 
-Society in general is very good about making trans people doubt themselves. We receive tons and tons of subliminal messages through out our lives saying that being trans isn't normal and that anyone who is has to be exceptionally special. Cis media's obsession with the "born in the wrong body" narrative has led to a lot of false information being internalized by trans youth. Many, *many* trans kids grow up thinking they aren't actually trans because they don't *know* that they are a different gender, they just wish they were. Many non-binary children grow up knowing something is wrong, but not believing they're trans because they don't feel like a binary trans person.
+总体上说，社会非常善于让跨性别者怀疑自我。我们在一生中接收到了无数的潜在信息，说成为跨性别者是不正常的，并且跨性别者必须是特别的。顺性别媒体对“投错胎”叙事的执念，导致跨性别青年内化了许多虚假信息。很多很多*跨性别*儿童抱着“自己不是跨性别者”的想法长大，因为他们希望自己本来就是另一种性别，而不是*明白*自己是跨性别者。很多非二元性别的孩子在成长过程中知道有些事情不对劲，但因为觉得自己不是二元性别的跨性别者，所以不相信自己就是跨性别者。
 
-On top of this, messages saying that trans people hate their bodies or hate their genitalia have polluted the awareness landscape, so that many people who either do not experience physical dysphoria (or simply think theirs isn't very strong) go around believing they aren't "trans enough".
+除此之外，“跨性别者讨厌自己的身体”或“厌恶自己的生殖器”这样的信息渲染了错误的认知，以至于许多没有身体烦躁（或者认为不够强烈）的人觉得自己不够“跨性别”。
 
-***[YES, YOU ARE TRANS ENOUGH](https://www.amazon.com/Yes-You-Are-Trans-Enough/dp/1785923153/)***
+***[是的，你足够跨性别了](https://1lib.net/book/11067026/1549c5)***
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1221970265862811650'
 ] tweets=meta.tweets className="" }}</div> }!}
 
-On top of this, the constant messaging from transphobic media that trans people are not actually their true genders and are simply trying to trick people into believing otherwise gets internalized like a virus. This creates a lot of self doubt about the authenticity of one's gender, especially in the face of so many gender stereotypes. Seeing oneself fail to meet those stereotypes can make it very easy to convince yourself that you do not live up to your own gender (note: cis men and women get this too, far too often).
+除此之外，恐跨媒体不断传递这样的信息：跨性别者实际上不属于他们的真实性别，只是试图欺骗人们相信这一点。这种信息就像传播病毒一样被内化了。尤其在面对这么多的性别刻板印象时，会产生很多对自己性别真实性的怀疑。与这些刻板印象的冲突，很容易让自己相信没有达到真实性别的标准（注：顺性别男女也经常这样想）。
 
-Furthermore, due to a history of transphobic abuse, many trans people suffer from damaged self-esteems, and often already have difficulty with self doubts. Gender Dysphoria also causes depression, which further contributes to and reinforces those doubts. This all leads into a massive cluster of self invalidation that can lead someone to struggle over and over again to accept their own gender identity.
+此外，由于恐跨的虐待史，许多跨性别者自尊心受损，并常伴有自我怀疑。性别烦躁也会导致抑郁，从而进一步助长并强化了这些怀疑。这都会导致严重的自我否定，致使一些人一次又一次地挣扎着接受自己的性别认同。
 
-But here's the thing... only trans people are worried about if they are actually transgender! A cisgender person does not have this obsession with their identity, they think about it, they process it, they move on. If you keep returning to these thoughts over and over again, this is your brain telling you that you took a wrong turn.
+不过，事实是这样的...只有跨性别者才会担心自己是不是真的跨性别者！顺性别者不会对自我认同有这种执念，他们会想一想，然后就不管了。如果你一遍又一遍地重复这些想法，这是大脑在告诉你走错路了。
 
-The world is *full* of influences put in place to fill us with doubt and keep us from breaking outside of the established social order. These are some of the systems and ideologies that seek to invalidate trans people and keep us from self-actualizing.
+人世间*充满*了各种因素，让我们怀疑自我，也阻止我们逃脱既定的社会秩序。这些制度和观念体系试图否定跨性别者的自我实现。
 
-### Autogynephilia
+### 自我女性恋论
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1153300365355307008'
@@ -59,54 +59,56 @@ The world is *full* of influences put in place to fill us with doubt and keep us
   '1153300374133981186'
 ] tweets=meta.tweets className="oneblock" }}</div> }!}
 
-This pattern was strongly reinforced during the late 1980s when the Autogynephelia (AGP) theory of Ray Blanchard gained a lot of traction as trans awareness was just starting to escalate. AGP is a pseudo-scientific explanation intended to "explain" the source of trans women's identities using [paraphilias](https://en.wikipedia.org/wiki/Paraphilia). Blanchard separated trans women according to if they were attracted to men or to women, while simultaneously invalidating their womanhood. His work completely ignored transgender men, and he dismisses non-binary identities outright.
+在20世纪80年代跨性别意识刚刚萌芽的时候，雷·布兰查德（Ray Blanchard）的自我女性恋论（Autogynephelia, AGP, AG）得到了极大的强化和支持。这是伪科学的论断，目的是用[性欲倒错](https://en.wikipedia.org/wiki/Paraphilia)来“解释”跨性别女性身份。布兰查德按照性倾向为男或女来区分跨性别女性，同时也否认她们的女性身份。他的理论完全忽略了跨性别男性，并且彻底否认了非二元认同。
 
-Autogynephelia attests that straight trans women are actually just gay men who seek a feminine appearance to draw desire from straight men, and that trans lesbians are actually straight men who have become so obsessed with their desire for women that they wish to become a woman in order to gain sexual gratification from themselves.
+自我女性恋论声称，跨性别异性恋女性实际上只是想以女性外表吸引直男的男同性恋，而跨性别女同性恋实际上是渴望从女性性欲中得到满足的直男。
 
-Blanchard's theory largely hinged on the way that presenting feminine often resulted in sexual arousal within newly transitioning women. You see, most of his study subjects were patients who were trying to seek hormone therapy for the first time, and as such were still very new to presenting female.
+布兰查德的理论在很大程度上取决于这个事实：刚做转变的女性常常因女性化外表产生性唤起。他的研究对象大多是首次寻求激素治疗的患者，因此女性化外表仍然是非常新奇的。
 
-Yes, it boggles the mind, but this was actually considered a valid theory of psychology for years. It even appeared in college textbooks. Blanchard's research studies did not meet scientific rigor, and his data was found to be extremely flawed (he manipulated his patients, and simply just threw out any data that didn't fit his hypothesis). A lot of his theories are based in misogynistic views of womanhood, and the man never actually involved any cisgender women in his study to function as a control group. You can read more about how flawed the theory is in Julia Serano's excellent essay [The Case Against Autogynephilia](https://www.juliaserano.com/av/Serano-CaseAgainstAutogynephilia.pdf).
+这令人费解，它在很长一段时间内被认为是有效的心理学理论，甚至大学课本里都写了。布兰查德的研究不是严谨的科学研究，他的数据有极大的缺陷（操控患者，并舍弃所有与假设不符的数据）。他的很多理论都是基于厌女思维，这个男人的研究中从来没有顺性别女性的对照组。你可以在Julia Serano精彩的论文[《驳AG论》](https://zhuanlan.zhihu.com/p/59510858)中理解这个理论有多荒谬。
 
-AGP had been thoroughly dismissed by modern psychology by the late 2000s, but the damage has been done. In the public's eye, trans women were all perverted fetishists. Media portrayals of trans women mirrored this attitude, further spreading negative imagery into the public consciousness.
+该理论在21世纪前十年的后期被现代心理学彻底否定，但其危害已经造成。在大众眼里，跨性别女性都是恋物癖变态。媒体对跨性别女性的描述反映了这种态度，进一步公众意识中传播负面形象。
 
-Transfeminine individuals then internalize these messages, and come to the conclusion that they are not actually transgender, just fetishists. It happened to me, it's happened to nearly every millennial trans woman I know who figured themselves out as a teen.
+跨性别女性将这些信息内化，并得出她们不是跨性别者而是恋物癖的结论。我经历过这种感受，几乎我认识的所有80后青春期觉醒的跨性别女性都经历过。
 
-You are not a fetishist, the feeling you get from thinking of yourself as a woman is gender euphoria.
+你不是恋物癖，想象自己时女性的感觉是性别亢奋。
 
-### Patriarchal Oppression
+### 父权制的压迫
 
-A common source of invalidation for AFABs is the conflation of gender with the systemic oppression of women, particularly among non-medically-transitioning non-binary people. The message of "oh you just don't want to be a woman because of how women are treated" is far too often heard, and it can deeply infest your subconscious to the point of self doubt.  But this doesn't make much sense, because if you're AFAB and not a woman, that makes you transgender.  And on average, society treats transgender folks worse than women. So transitioning to escape systemic oppression is a dumb concept (and I personally have never met a trans person who has done this).
+否定指派女性的常见原因是将性别与对妇女的系统性压迫混为一谈，特别是没有进行医学转变的非二元性别者。“你只是因为女性的境遇而不想成为女性”这样的信息会深深地影响潜意识，造成自我怀疑。 但这没有什么意义，因为如果你只是指派为女性而不是女性，那么你就是跨性别者。 总体而言，社会对待跨性别者的态度比对待女性的态度要差。因此，“通过转变逃避系统性压迫”是一个愚蠢的概念（我个人从来没有遇到过这样的跨性别者）。
 
-Radical Feminism's messaging of abandoning female gender roles can also make parsing your own feelings harder. "Am I actually non-binary, or am I just a feminist?" "Am I actually a man, or am I just a very butch lesbian?". For this, I encourage you to talk to cis woman feminists, especially lesbians. They'll complain about systems of oppression and the patriarchy, but the problems are all external, and they *want to be women*. Even very butch lesbians want to be women, just in a different way from mainstream femininity.
+激进女权主义“抛弃女性角色”的说法也会让你更难探索自我感受。“我是非二元性别，还只是女权主义者？”“我是个男性，还只是男性化的女同性恋？”因此，我鼓励你与顺性别女性女权主义者，特别是女同性恋者谈谈。她们会抱怨制度化的压迫和父权制，但这都是外在问题，她们*想成为女性*。即使是非常男性化的女同性恋也想成为女性，她们只是与典型女性气质不同。
 
-Then you have the problem of people believing that to be non-binary is to be androgynous, and to be androgynous is to be less feminine. Feminine enbies are valid! It is okay if you do not want to remove your breasts. It is okay if you enjoy your curves. It is okay if you do not mind being called "she" and "her". That does not make you any less transgender.
+这就会引起一个问题：人们认为非二元性别是中性风，而中性风就是不那么女性化。女性化的非二元性别者是真实的！你可以保留乳房，你可以喜欢身体曲线，你可以不介意别人称呼你“她”。但这并不能意味着你没那么跨性别。
 
-If you feel like you are not a binary woman, than you are not a binary woman. Cis women do not experience that detachment.
+如果你觉得自己不是二元性别的女性，那你就不是二元性别的女性。顺性别女性不会感到这种分离感。
 
-### Toxic Masculinity
+### 有毒的男性气质
 
-Male-assigned kids grow up positively drenched in messaging of what it is to "be a man". There are so few examples of positive masculinity in popular media, and AMAB Masculine Enbies are also so commonly erased in trans representation that being a genderqueer male can feel very lonely. AMAB Enbies are often either grouped in with gay cis men or treated like trans women.
+指派为男性的孩子在“做男子汉”的信息中长大。在主流媒体中，很少有积极的男性气质，男性化的指派男性非二元性别者也常常在跨性别群体中失声，以至于作为非二元性别男性很孤独。指派为男性的非二元性别者常常被当作顺性别同性恋男性，或者被当作跨性别女性。
 
-You can just be genderqueer! Your identity is valid!
+你可以成为非二元性别者！你的性别认同是真实的！
 
-### Transmedicalism
+### 跨性别医本主义
 
-This one hits *everybody*. Transmedicalism (aka Truetrans) is a transgender ideology derived from the Harry Benjamin scale (ranks 5 and 6). It seeks to reinforce the pre-WPATH rules, requiring intense physical dysphoria, demanding medical transition, and often invalidating all non-binary identities. At its core, transmedicalism is a supremacist concept, elevating binary trans people above the needs of any other gender identity, and a push back against the expansion of the transgender identity. They wish for more gatekeeping than we have today, rail against enbies using the transgender label, and would prefer to see fewer people receive treatment for their gender dysphoria.
+它影响*所有人*。跨性别医本主义（又名“真正的跨性别”）是一种源于哈里·本雅明量表（类型Ⅴ和Ⅵ）的跨性别观念。它试图加强WPATH之前制定的规则：跨性别者要有强烈的身体烦躁，想要医学转变，并常常否认非二元认同。跨性别医本主义的核心是至上主义，将二元性别的跨性别者置于其他性别认同的需求之上，并对扩大跨性别认同进行反击。他们希望设立更高的门槛，反对非二元性别者称自己为跨性别者，并希望更少的人治疗性别烦躁。
 
-To put it succinctly, many transmedicalists hate that the newer generation "has it so easy," despite the fact that many of their ranks are part of that generation. This ideology started among disgruntled trans elders, but has since spread to other binary individuals, particularly among young trans men.
+简单来说，很多跨性别医本主义者讨厌新人“很容易就成为跨性别”了，尽管他们中的很多人都是新人。这种观念始于心怀不满的年长跨性别者，但后来又蔓延到其他二元性别者中，特别是年轻的跨性别男性中。
 
-If a trans person's first exposure to transness is a transmedicalist, this can severely set back their own self-acceptance and push them even further into the closet. Transmeds are well known to actually tell people "No, you are not trans."
+如果跨性别者第一次接触的跨性别概念是跨性别医本主义，会严重影响自我接纳，甚至将他们推向深渊。跨性别医本主义者不会说“不，你不是跨性别者。”
 
-**Do not believe these lies.** They are bully tactics explicitly designed to gaslight and dismiss people's pain for self gratification.
+**不要被迷惑。**这是将自己的快乐建立在忽视他人痛苦之上的PUA策略。
 
-### Trans-Exclusionary Reactionary Feminism / Gender Critical Movement / Gender Essentialism
+### 反跨保守女性主义（TERF） / 性别本质主义
 
-[Gender Essentialism](https://en.wikipedia.org/wiki/Gender_essentialism) is the belief that there are an innate attributes to a person's existence that are derived based on what sex organs the person is born with. TERF and GC ideology was born out of the lesbian separatist movement of second wave feminism and fully denies the existence of transgender biology and non-binary identities. The movement has been largely overtaken by right-wing reactionaries, racists, and homophobes, and is now being bolstered by evangelical Christian organizations.
+[性别本质主义](https://en.wikipedia.org/wiki/Gender_essentialism)认为，人的存在有一种与生俱来的属性，而这种属性基于天生的性器官。反跨保守女性主义和性别本质主义思想脱胎于第二波女性主义中的性别分离主义，它完全否定了跨性别和非二元性别身份。这场运动基本被右翼反动分子、种族主义者和恐同者取代，并且现在得到了福音派基督教组织的支持。
 
-These people will stop at nothing to invalidate your existence. Do not give them the time of day.
+这些人会不惜一切代价否定你的存在。不要给他们机会。
 
-### Gender Abolitionism / Postgenderism
+### 性别废除主义/后性别主义
 
-[Postgenderism](https://en.wikipedia.org/wiki/Postgenderism) is a [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) philosophy originating in radical feminism which states that gender causes more harm than good, and seeks to eradicate it from our society. GAs believe that all gender is a construct and that anyone who feels strongly connected to a binary gender is either nefariously propagating gender stereotypes or ignorantly following systemic indoctrination.
+[后性别主义](https://en.wikipedia.org/wiki/Postgenderism)是一种源于激进女权主义中的[超人类主义](https://en.wikipedia.org/wiki/Transhumanism)思想，它认为性别的存在弊大于利，并试图在社会中彻底消除性别。性别废除主义认为，性别全部是建构的。所有觉得自己属于二元性别的人，要么是在鼓吹性别刻板印象，要么就是在无知地遵循系统化的洗脑教育。
 
-GAs do not believe in the existence of gender dysphoria, and will attempt to invalidate those who experience it. They're functionally the extreme leftist version of the Gender Critical movement.
+译注：超人类主义，即以技术手段，致力于研究并发展旨在改善人类自身的社会运动、思想运动。这种技术将增强人类感官、情感和认知能力，并从根本上促进人类健康并延长寿命。由于这种改善依靠生物或机体技术，它或多或少是永久性的，并与人体融合。（Britannica）
+
+性别废除主义不承认性别烦躁，并试图否定感受到它的人。他们实际上就是性别本质主义运动的极左派。
