@@ -12,112 +12,103 @@ classes:
   - gdb
 ---
 
-# How is Gender Dysphoria Treated?
+# 如何治疗性别烦躁?
 
-Treatment options vary significantly depending on the individual person's needs. Every single transition is unique, and there is no one way to transition. This section is a list of possible pathways.
+根据个体需求，治疗方案差异很大。每个人的转变都是独一无二的，没有一致的转变方式。本部分列出了可能的途径。
 
-### Social Transition
+### 社会转变
 
-In a phrase: Coming out of the closet. This is simply announcing to the world that you are transgender. You announce that you wish to use a new name and/or new pronouns – or not, you may just wish for people to know that you are trans and do not actually identify with your assigned binary gender. For some non-binary people this may not even be a full step away from their assignment, since gender is a spectrum and there is such as thing as a "non-binary man" and a "non-binary woman".
+一个词：出柜。简单说，就是在向全世界宣布你是跨性别者。你宣布你希望使用一个新的名字和新的代词——或者只是希望人们知道你是与出生被指派的二元性别不一致的跨性别者。对于一些非二元性别者来说，这还不够。因为性别是一个光谱，所以有“非二元男性”和“非二元女性”这种东西。
 
-A social transition is the act of stepping out of the closet, and it can relieve a lot of stress from suppression of ones self.
+社会转变是出柜行为，它可以减轻自我压抑。
 
-### Legal Transition
+### 法律转变
 
-This is the process of changing your legal documents to reflect your true gender. This may be through a legal name and gender change issued by a court, through a change of gender marker on an official ID, or through re-issuing of birth certificates and marriage licenses.
+即修改你的法律文件以反映真实性别。可以在法院更改姓名和性别，改变身份证上的性别，或重新签发出生证和结婚证。
 
-### Presentational Transition
+### 外表转变
 
-These are changes to how you style yourself, be it your clothes, your hair, or the use of makeup. Our society heavily genders all of these things, and switching presentation is both affirming to one's self and also sends cues to those around them about how they wish to be addressed.
+即改变自己的造型。不论是衣服，发型，还是化妆，社会极力按性别划分这些事情，改变外表既是对自我的肯定，也是告诉周围人希望自己被称呼为什么。
 
-### Medical Transition
+### 医学转变
 
-For adults this is hormone replacement therapy and surgery. For adolescents this often means puberty blockers until the teen is old enough to be certain of which gonadal hormone they want to have. For prepubescents, this is nothing. Let me repeat that again, since transphobes keep getting it wrong.
+成年人采用激素替代疗法和手术。青少年常常使用青春期阻滞剂，直到够做出选择激素的年龄。对于青春期前的人来说，什么都不用。因为恐跨人士总是弄错，所以我需要再重复一遍。
 
-***PREPUBESCENT CHILDREN DO NOT MEDICALLY TRANSITION***.
+***青春期前的儿童不会进行医学转变***
 
-While the American Academy of Pediatrics [strongly encourages the validation and acceptance of transgender youth](https://pediatrics.aappublications.org/content/pediatrics/early/2018/09/13/peds.2018-2162.full.pdf), and the enabling of all other forms of transition, they explicitly do not support doctors beginning either hormone therapy or puberty blockers until a child has reached [Tanner stage 2](https://en.wikipedia.org/wiki/Tanner_scale).
+虽然美国儿科学会[强烈鼓励对跨性别青年的肯定和接纳](https://pediatrics.aappublications.org/content/pediatrics/early/2018/09/13/peds.2018-2162.full.pdf)，并支持其他形式的转变，但明确不支持医生在性激素作用之前（[Tanner stage 2](https://www.healthline.com/health/parenting/stages-of-puberty#tanner-stage-2)）开始激素治疗或使用青春期阻滞剂。
 
-Furthermore, no surgeon in the United States will perform a gender altering surgery on a minor (excluding intersex "corrections", which is a whole other problem outside the scope of this article). Very few children have strong enough features to be read as either male or female without clues provided through presentation. Allowing a child to change their hair and clothes is all that is needed for the child to be seen as male or female.
+此外，不会有美国外科医生会给未成年人做性别变更手术（不包括间性人的“矫正”，这不在本文讨论范围）。儿童基本没有明显性征，使其在没有外饰的情况下被当作男或女。发型和衣服就足以让孩子被当作男孩或女孩了。
 
-### Hormonal Transition
+### 激素转变
 
-**Masculinizing Hormone Therapy** (female to male sexual characteristics) consists of the introduction of testosterone, usually via intramuscular injection or topical gel. The increase in total gonadal hormones typically causes a cessation of ovulation, which is the source of the majority of estrogen produced in the ovaries.
+**男性化激素治疗**（女性性征转为男性性征）常常通过肌肉注射或局部凝胶使用睾酮。性腺激素水平提高通常会导致排卵停止，而排卵使卵巢中产生大部分雌激素。
 
-**Femininizing Hormone Therapy** (male to female sexual characteristics) consists of the introduction of estrogen, typically estradiol, via oral pills, patches, or regular injections (intramuscular or subcutaneous). The use of slow dispensing implants is also becoming more and more common. It is also common practice to prescribe an anti-androgen to block testosterone production or absorption. In the United States this is usually Spironolactone, a blood pressure medication which has a testosterone blocking side-effect. Outside of the US the most common drug is Cyproterone Acetate, an androgen receptor blocker, which is not available in the US. Doctors may also prescribe Bicalutamide, which also blocks androgen receptors. However, some doctors may simply opt to use larger estradiol doses in order to cause the body to halt testosterone production.
+**女性化激素治疗**（男性性征转为女性性征）常常通过口服药片、贴剂或常规注射（肌肉或皮下）使用雌二醇。植入缓释材料的做法越来越普遍，用抗雄激素药阻断睾酮的产生或吸收也是常规手段。美国通常使用螺内酯——有睾酮阻断副作用的降血压药。在美国以外，最常用醋酸环丙孕酮，一种美国没有的雄激素受体拮抗剂。医生也可能会开比卡鲁胺，它也能阻断雄激素受体。然而，一些医生可能会简单地选择用大剂量雌二醇使身体停止产生睾酮。
 
-**In adolescents**, puberty blockers may involve the above androgen blockers, or if it is covered by insurance, the use of an antigonadtropin (drug which blocks the hormones that cause the production of estrogen and androgen) such as leuprolide acetate (a shot delivered every few months) or histrelin acetate (an annual implant).
+**对于青少年**，青春期阻断剂可能包括上述雄激素阻断剂。或者在医保范围内使用抗促性腺激素（阻断促使性激素产生激素的药物），如醋酸亮丙瑞林（每隔几个月注射一次）或醋酸组胺（每年植入一次）。
 
-### Surgical Transition
+### 手术转变
 
-Transgender surgeries are typically divided into three separate categories:
+跨性别的手术通常分为三类：
 
-**Bottom Surgery** (modifications to genitals).
+**下体手术**（生殖器改造）。
 
-- Femininizing:
+- 女性化：
+  - 睾丸切除术（切除睾丸）
+  - 阴囊切除术（切除阴囊组织，睾丸切除术后）
+  - 阴道成形术（创建阴道腔）
+  - 外阴成形术（创建外阴，有或没有深度）
 
-  - Orchiectomy (removal of the testicles)
-  - Scrotectomy (removal of scrotal tissue, following orchiectomy)
-  - Vaginoplasty (creation of a vaginal cavity)
-  - Vulvaplasty (creation of a vulva, with or without depth).
+{!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">供参考</h4> }!}
 
-{!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">For Your Information</h4> }!}
+下体手术的新领域是出生为男性的非二元性别者手术，这种手术尝试在*不*切除阴茎的情况下进行阴道成形术。这种特殊的手术极具实验性，在美国只做了不到十几次，但前景很乐观。
 
-A newly developing area of bottom surgery is in AMAB non-binary operations which attempt to perform vaginoplasty *without* the removal of the penis. This particular surgery is extremely experimental and has been performed less than a dozen times in the United States, but the outlook for the future is good.
-
-An additional option for non-binary bottom surgery is genital nullification surgery, which aims to completely remove the external genitalia, leaving only a urethral opening.
-
+另一种非二元性别的下体手术是生殖器切除手术，其目的是完全切除外生殖器，只留一个尿道口。
 {!{ </div></div></div> }!}
 
-- Masculinizing:
+- 男性化：
+  - 子宫切除术（切除子宫和宫颈）
+  - 卵巢切除术（切除一侧或双侧卵巢）
+  - 阴道切除术（切除阴道腔）
+  - 阴蒂阴茎化手术（使阴蒂增大成阴茎）
+  - 阴茎成形术（皮肤移植造阴茎）
+  - 尿道成形术（通过阴茎延长尿道）
+  - 阴囊成形术（使用大阴唇和假睾丸构建阴囊）
 
-  - Hysterectomy (removal of uterus and cervix)
-  - Oophorectomy (removal of one or both ovaries)
-  - Vaginectomy (removal of vaginal cavity)
-  - Metoidioplasty (a process which increases the size of the clitorus into a penis)
-  - Phalloplasty (construction of a penis from skin grafting)
-  - Urethroplasty (extension of the urethral canal through the phallus)
-  - Scrotoplasty (use of labia majora and false testicles to construct a scrotum).
+**上体手术**（胸部改造）
 
-**Top Surgery** (modifications to the chest)
+- 女性化：
+  - 通过脂肪填充或植入隆胸。
+- 男性化：
+  - 双侧乳房切除术（乳房组织切除）和胸部重建。
 
-- Feminizing:
-  
-  - Breast Augmentation via fat transfer or implants.
+**面部女性化/男性化手术**（头骨、软骨和面部皮肤改造）。
 
-- Masculinizing:
+一个人越年轻，就越不需要做这些手术，尤其对于20岁之前开始医学转变的人。
 
-  - Bilateral Mastectomy (breast tissue removal) with chest reconstruction.
+- 女性化：
+  - 前额重构
+  - 眼窝重构
+  - 眉部提拉
+  - 发际线矫正
+  - 眼袋整形术（眼袋提升）
+  - 隆鼻（鼻子的整形）
+  - 脸颊植入
+  - 唇部提拉
+  - 唇部填充
+  - 下颌重构
+  - 气管削除（喉结缩小术）
+  - 除皱术（面部提拉）
+- 男性化：
+  - 丰额头
+  - 丰颌
+  - 丰下巴
+  - 气管增大（喉结增大）
 
-**Facial Feminization / Masculinization Surgery** (modifications to the skull, cartilage, and skin on the face).
+其他跨性别女性的手术：
 
-  The younger a person is, the less they will need these surgeries, especially if they medically transition prior to the age of 20.
-
-- Feminizing:
-
-  - Forehead recontouring
-  - Eye socket recontouring
-  - Brow lift
-  - Hairline correction
-  - Blepharoplasty (lifting of eye bags)
-  - Rhinoplasty (reshaping of the nose)
-  - Cheek implants
-  - Lip lift
-  - Lip filling
-  - Jaw recontouring
-  - Tracheal shave (adam's apple reduction)
-  - Rhytidectomy (face lift)
-
-- Masculinizing:
-
-  - Forehead augmentation
-  - Jaw augmentation
-  - Chin augmentation
-  - Tracheal augmentation (adam's apple enlargement)
-
-Other Trans Feminine Surgeries:
-
-- Brazilian Butt Lift. Fat from the belly is transplanted into the butt in order to increase hip to waist ratio.
-- Voice Feminization Surgery. An incision is performed in the vocal chords in order to permanently raise the pitch.
-- Cinderella Surgery. Bones in the foot are shortened in order to reduce foot size. EXTREMELY RISKY
-- Shoulder Reduction. The collar bone is shortened to reduce the width of the shoulders. EXTREMELY RISKY
+- 丰臀术：腹部的脂肪被移植到臀部，以增加臀腰比。
+- 嗓音女性化手术：为了永久地提高音调，在声带中进行切口。
+- 灰姑娘手术：削脚骨以缩小脚的尺寸 ***风险极高***
+- 削肩术：缩短锁骨，以减少肩膀的宽度。***风险极高
