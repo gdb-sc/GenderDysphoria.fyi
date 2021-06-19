@@ -13,55 +13,55 @@ siblings:
   nextCaption: Treating Gender Dysphoria
 ---
 
-# How is Gender Dysphoria Diagnosed?
+# 如何诊断性别烦躁？
 
-This section is going to focus on the diagnostic criteria under the American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders, version five (DSM-5). The reason I'm focusing on this standard is because, well, nobody else has one. The UK's National Health Service basically mirrors the APA's DSM. Other countries have their own local standards, but they're all either very similar, or a lot more outdated.
+本部分将重点介绍美国精神病学协会《精神疾病诊断与统计手册》第五版（DSM-5）的诊断标准。我关注这个标准的原因是没有其他人关注。英国国家医疗服务体系（NHS）基本与美国精神病学协会的诊断标准相同。其他国家也有自己的标准，但要么差不多，要么过时了。
 
-The WPATH SoC describes ways that Gender Dysphoria manifests, but does not define clear diagnostic criteria, instead leaving it up to individual mental health professionals to make their own diagnoses. In general it advocates that if the patient is of sound mind and body and says that they have Gender Dysphoria, then they should be believed. The key piece here is "sound mind and body", it is left to the mental health professional to do the due diligence to ensure that there are no other conditions which may be causing the patient to believe this.
+WPATH的照护标准描述了性别烦躁的症状，但没有明确的诊断标准，而是由精神科专家自己进行诊断。它总体上主张，如果身心健康的患者说他们有性别烦躁，那么应当相信他们。这里的关键是“身心健康”，精神科专家需要确保没有其他导致性别烦躁的因素。
 
-Or to put it bluntly, WPATH says that if you think you're trans, you're trans. This has been the attitude that the majority of the community has adopted as well. As long as you believe your gender does not match what you were assigned at birth, you are transgender. However, insurance companies aren't so happy with self-diagnoses, so here are the criteria which are defined in DSM-5 for diagnosing someone with Gender Dysphoria.
+WPATH声称，如果你认为你是跨性别者，你就是跨性别者。这也是社群大多数人的态度。只要你认为出生性别与真是性别不符，你就是跨性别者。然而，保险公司对自我诊断不太满意，所以采用DSM-5定义的性别烦躁标准。
 
-{!{ <div class="gutter d-md-block d-sm-none"><div class="card"><div class="card-body"><h4 class="card-title">For Your Information</h4> }!}
+> **供参考**
+>
+> 青春期前儿童性别烦躁的诊断要求儿童必须在六个月内持续符合其中六个标准，并表现出临床意义上的痛苦或社会功能受损。
+>
+> 1. 有强烈的成为另一种性别的欲望或坚持他/她就是另一种性别（或与生理性别不同的某种替代的性别）。
+> 2. 男孩（生理性别）对变装的强烈偏好或模仿女性装扮；女孩（生理性别）对只穿典型的男性服装的偏好，以及对穿典型的女性服装的强烈抵抗。
+> 3. 对在假装游戏或幻想游戏中扮演相反性别角色的强烈偏好。
+> 4. 对被另一种性别通常使用或参与的玩具、游戏或活动的强烈偏好。
+> 5. 对另一种性别的玩伴的强烈偏好。
+> 6. 男孩（生理性别）强烈地排斥典型的男性化玩具、游戏和活动，以及强烈地回避打斗游戏；或女孩（生理性别）强烈地排斥典型的女性化玩具、游戏和活动。
+> 7. 对自己的性生理特征的强烈厌恶。
+> 8. 有希望第一和/或第二性特征与自己体验的性别相匹配的强烈欲望。
 
-Diagnosis of Gender Dysphoria in prepubescent children requires the child must have a documented six month history of meeting six of these criteria, as well as demonstrated distress or impairment in function.
+**注意**，这些是青少年和成人的诊断标准。儿童按照不同的[标准诊断](https://www.psychiatry.org/patients-families/gender-dysphoria/what-is-gender-dysphoria)。我也稍微改变了措辞，因为官方标准是按照二元性别划分的。
 
-1. A strong desire to be of the other gender or an insistence that one is the other gender
-2. A strong preference for wearing clothes typical of the opposite gender
-3. A strong preference for cross-gender roles in make-believe play or fantasy play
-4. A strong preference for the toys, games or activities stereotypically used or engaged in by the other gender
-5. A strong preference for playmates of the other gender
-6. A strong rejection of toys, games and activities typical of one’s assigned gender
-7. A strong dislike of one’s sexual anatomy
-8. A strong desire for the physical sex characteristics that match one’s experienced gender
+成年人被精神科医师诊断为性别烦躁，则必须满足这六个标准中的两个，且持续时间超过六个月。
 
-{!{ </div></div></div> }!}
+- **体验/表达的性别与第一和/或第二性特征之间显著地不一致**
 
-**Note** These are the criteria for adolescents and adults. Children have a different set of criteria, which [you can find here](https://www.psychiatry.org/patients-families/gender-dysphoria/what-is-gender-dysphoria). I have also changed the wording slightly, here, as the official criteria are binary-centric.
+  即一个人看待世界和与世界互动的方式与出生指派性别人群的常规方式不一致。有大量的特征符合这种描述，可以是人际互动方式、说话方式、爱好、着装、肢体语言和行为举止等性别相关的方面。
 
-For an adult to be diagnosed with Gender Dysphoria by a licensed mental health professional they must meet two of these six criteria, and have experienced those criteria for longer than six months.
+- **去除自己第一和/或第二性特征的强烈欲望**
 
-- **A marked incongruence between one’s experienced/expressed gender and primary and/or secondary sex characteristics**
+- **对拥有另一种性别的第一和/或第二性特征的强烈欲望**
 
-  The way the person sees the world and interacts with the world does not align with the way it is typically expected for someone of the gender they were assigned at birth. There are a very broad number of traits which fit into this description. It can be in the way they interact with others, how they talk, what hobbies they prefer, how they dress, their body language and mannerisms, what gender(s) they relate to more.
+  这两方面强相关。是前文所说的身体烦躁，即由出生性别导致的身体不适。
 
-- **A strong desire to be rid of one’s primary and/or secondary sex characteristics**
-- **A strong desire for the primary and/or secondary sex characteristics of another gender**
-  
-  These two are pretty well paired. This is physical dysphoria as previously defined. The person finds discomfort with aspects of their body which are a result of their sex at birth.
+- **成为另一种性别的强烈欲望**
 
-- **A strong desire to be of another gender**
-- **A strong desire to be treated as another gender**
+- **希望被视为另一种性别的强烈欲望**
 
-  These are the social and societal dysphoria. They are how a person wants to interact with the world, and wants the world to interact with them.
+  这就是社交和社会烦躁。是一个人想如何与世界互动的方式。
 
-- **A strong conviction that one has the typical feelings and reactions of another gender**
+- **深信自己拥有另一种性别的典型感觉和反应**
 
-  This is pretty self explanatory.
+  这是不言自明的。
 
-As I said, only two of these conditions need be met for a formal diagnosis. You may notice that only two of these comprise the physical body. It is perfectly valid for a trans person to be experiencing Gender Dysphoria without actually hating any part of their body, or wanting to change any part of their body. Physical Dysphoria is only one fraction of the many ways that lead to being trans.
+如上文所述，正式诊断只需要满足其中两个条件。你可能会注意到，只有两个与身体有关。对于一个跨性别者来说，经历性别烦躁却不厌恶也不想改变身体是完全真实的。身体烦躁只是成为跨性别者的众多方式之一。
 
-Now, here is the kicker. If you identify as transgender, meaning that your gender does not align with the binary sex you were assigned at birth, you already meet two of these criteria! You have a strong enough desire to be of another gender that you are identifying that you *are* another gender, and you have a strong conviction of what your gender feels like, and it isn't what you were given at birth.
+关键是，如果你认为自己是跨性别者，即出生性别与真实性别不一致，你就满足了两个标准！你有成为另一种性别的强烈愿望，你认同为另一个性别，你强烈确信自己的性别不是出生性别。
 
-So, it is literally impossible for a person to identify as trans and not experience gender dysphoria. By the WPATH requirements anyone can identify as trans. Ergo, the statement "you do not have to have dysphoria to be transgender" is a logical paradox.
+因此这么说，自我认同为跨性别而不经历性别焦虑是不可能的。根据WPATH的标准，任何人都可以认同为跨性别。因此，“成为跨性别者不必有性别烦躁”是逻辑悖论。
 
-Then why do we still say it? Because most people don't know what gender dysphoria actually is, and it is easier to repeat the mantra than to explain the nuances and subtleties of how Gender Dysphoria manifests. But hey, look, now you've got a nice article to link to that can help people understand that.
+那我们为什么还要这么说呢？因为大多数人不知道性别烦躁是什么，千篇一律的话语比解释性别烦躁的细微表现容易得多。但这篇文章可以帮人们理解这一点。
