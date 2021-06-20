@@ -66,7 +66,7 @@ siblings:
 
 20. [雌性激素造成的第二青春期 101](/gdb/second-puberty-fem)
 
-21. [总结](/gdb/conclusion)
+21. [结语](/gdb/conclusion)
 
 {!{ </div> }!}
 
