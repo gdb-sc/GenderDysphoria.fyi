@@ -13,108 +13,108 @@ classes:
   - gdb
 ---
 
-# How Hormones Work
+# 激素的作用
 
-As we described in the [Causes of Gender Dysphoria](/gdb/causes) section, every human's DNA contains the genetic instructions for both male and female bodies, and which set of instructions gets used is controlled by what hormones your gonads produce. That differentiation occurs entirely based on whether you happen to have an SRY gene which, in the 6-8th week of gestation, kicks off a chain reaction that produces testes instead of ovaries. From that point on, every sexual attribute of the human body (primary and secondary) is a result of the hormones that those gonads produce.
+正如“性别烦躁的成因”一节中所说，每个人的DNA都有男性和女性身体的遗传指令，而使用哪一组指令则由性腺产生的激素控制。这种分化完全取决于你是否有SRY基因，在怀孕6-8周，SRY基因会引发睾丸发育而不是卵巢发育。从那以后，人体的主要性征和次要性征都是性腺激素的作用。
 
-If they produce estrogens (primarily Estradiol) then the genitals form into a vulva, vagina and uterus. If they produce androgens (primarily Testosterone) then the genitals form into a penis and scrotum, shifting the [Skene's gland](https://en.wikipedia.org/wiki/Skene%27s_gland) downward and enlarging it into a prostate. Differentiation ends here until the onset of puberty, 9-10 years later, and we all know what puberty does.
+雌激素（主要是雌二醇）使形成外阴，阴道和子宫。雄性激素（主要是睾酮）使形成阴茎和阴囊，使[斯基恩氏腺](https://en.wikipedia.org/wiki/Skene%27s_gland)向下移动扩大成前列腺。分化至此结束，直到9-10年后青春期开始。而我们都知道青春期的作用。
 
-So how does this work? Why do the cells differentiate like this? Well, before we can explain that, first we have to explain the concept of a **Receptor**.
+那么这是如何实现的呢？为什么细胞会分化成这样？在解释这个问题之前，我们要先解释什么是**受体**。
 
 
-## Hormone Receptors
+## 激素受体
 
-In simplest terms, a receptor is like the keyed lock ignition on a car (do new car’s still have keyed ignitions?). Every cell in the body has a set of locks which activate different functions within that cell. They’re like switches which signal to the cell that it should activate a different part of its genetic sequence. Each receptor can only accept certain chemical compounds, much like how a lock can only accept certain keys, and different chemicals have different capabilities at turning the key. Some can completely start the car, while others only turn it to Accessory Mode.
+简单说，受体就像汽车的钥匙打火器（新车还用钥匙打火吗？）体内的每个细胞都有不同功能的锁。它们就像给细胞发出信号的开关，激活其基因序列的不同部分。每种受体只能接受特定的化合物，就像只能用特定的钥匙开锁一样，不同的化学物质拧钥匙的能力不同。有些可以完全启动汽车，而有些只能拧到电源模式。
 
-The ability for a chemical to fit into a receptor is called **Relational Binding Affinity**, and is measured as percentage of how likely a chemical will bind to a receptor compared to another. So, for example, if Hormone B binds only 10% of the time in relation to Hormone A, then it is said to have a 10% binding affinity. Similarly, the ability for a chemical to turn the key is called *Transactivational Ability*. Compounds which fit into a receptor but don’t do anything are called *Antagonists*, compounds which are able to turn the key are called **Agonists**. If it can only turn the key a tiny bit, it’s called a **Partial Agonist**.
+化学物质与受体结合的能力称为**相关结合亲和力**，以化学物质与受体结合可能性的百分比来衡量。因此，如果激素B仅在10%的情况下与激素A结合，那么它被认为具有10% 的结合亲和力。同样，化学物质的作用能力称为反式激活能力。与受体结合但不起任何作用的化合物被称为**拮抗剂**，起作用的化合物被称为激动剂。如果它只起一点作用，就叫**部分激动剂**。
 
-You can think of antagonists like bouncers at a club. They stand in the doorway and prevent anything else from getting through, but don’t enter the club themselves. Most antagonists are referred to as **blockers**. This is different from an **inhibitor**, which is a compound that slows down a chemical reaction, or an *activator*, which speeds up a reaction. In receptors, an inhibitor lowers the ability of the receptor, causing it to respond less effectively to things that bind to the receptor, and an activator increases the ability of the receptor, making it respond stronger, like a booster.
+你可以把拮抗剂想象成会所的保镖。他们站在门口防止其他人通过，但自己却不进去。大多数拮抗剂被称为**阻断剂**。它与**抑制剂**不同，抑制剂是一种减慢化学反应的化合物，或加速反应的活化剂。在受体中，抑制剂降低受体的能力，使其对与受体结合的东西反应不那么有效，活化剂像助推器一样增强受体的能力，使其反应更强。
 
-In some cases a hormone can function as an inhibitor or an activator for a different hormone by slowing down or increasing behavior in a cell. For example, progesterone increase cell activity, making cells respond more effectively to estrogens and androgens, and testosterone increases the transaction ability of dopamine receptors, so less dopamine is needed in the brain for the same effect.
+在某些情况下，激素可以通过减慢或增强细胞活动而作为另一种激素的抑制剂或活化剂。例如，孕酮增加细胞活性，使细胞对雌激素和雄激素作出更积极的反应；睾酮增强多巴胺受体的交互能力，使大脑用更少的多巴胺达到相同效果。
 
-## Whats in a Hormone
+## 激素有什么
 
-There are four main kinds of hormones:
+激素主要有四种：
 
-- [Amino Acids](https://en.wikipedia.org/wiki/Amino_acid) such as Melatonin which controls sleep, or Thyroxine which regulates the metabolism.
-- [Peptides](https://en.wikipedia.org/wiki/Peptide_hormone), like Oxytocin and Insulin, which are collections of Amino Acids.
-- [Eicosanoids](https://en.wikipedia.org/wiki/Eicosanoid) that are formed from lipids and fatty acids and predominantly affect the immune system
-- [Steroids](https://en.wikipedia.org/wiki/Steroid) are signaling molecules produced by various internal organs in order to pass messages to other organs within the body.
+- [氨基酸](https://en.wikipedia.org/wiki/Amino_acid)，如控制睡眠的褪黑素，或调节新陈代谢的甲状腺素。
+- [多肽](https://en.wikipedia.org/wiki/Peptide_hormone)，如催产素和胰岛素，它们是氨基酸的聚合体。
+- [类二十烷酸](https://en.wikipedia.org/wiki/Eicosanoid)，由脂质和脂肪酸生成，主要影响免疫系统。
+- [类固醇](https://en.wikipedia.org/wiki/Steroid)，是由体内器官产生的信号分子，以便将信息传递给体内的其他器官。
 
 {!{ <div class="gutter print-span3">{{import '~/img' images.steroidogenesis
   className="card"
   link="https://en.wikipedia.org/wiki/File:Steroidogenesis.svg"
   external=1
-  alt="Chart of steroid metabolism flow"
-  caption="All steroids are formed from cholesterols (top left) and are derived from other steroids. Progestins form into Androgens which form into Estrogens. This is a one-way exchange, and does not reverse, so don't believe it when someone tells you that too much estrogen will turn it into testosterone."
+  alt="类固醇代谢流程图"
+  caption="所有的类固醇都是由胆固醇（左上）形成的，并衍生自其他类固醇。孕激素形成雄激素，雄激素形成雌激素。这是一种不可逆的单向改变，所以不要相信过多的雌激素会变成睾酮。"
 }}</div> }!}
 
-For the purposes of transition, this last category is what we care about the most, as all of the sex hormones are steroids. They fall into seven main categories:
+以转变为目的，我们最关注最后一类，因为所有的性激素都是类固醇。它们分为七大类：
 
-- [Androgens](https://en.wikipedia.org/wiki/Androgen)
-- [Estrogens](https://en.wikipedia.org/wiki/Estrogen)
-- [Progestagins](https://en.wikipedia.org/wiki/Progestogen)
-- [Glucocorticoids](https://en.wikipedia.org/wiki/Glucocorticoid)
-- [Mineralcorticoids](https://en.wikipedia.org/wiki/Mineralocorticoid)
-- [Neurosteroids](https://en.wikipedia.org/wiki/Steroid)
-- [Aminosteroids](https://en.wikipedia.org/wiki/Aminosteroid)
+- [雄性激素](https://en.wikipedia.org/wiki/Androgen)
+- [雌性激素](https://en.wikipedia.org/wiki/Estrogen)
+- [孕激素](https://en.wikipedia.org/wiki/Progestogen)
+- [糖皮质激素](https://en.wikipedia.org/wiki/Glucocorticoid)
+- [盐皮质激素](https://en.wikipedia.org/wiki/Mineralocorticoid)
+- [神经类固醇](https://en.wikipedia.org/wiki/Steroid)
+- [氨基类固醇](https://en.wikipedia.org/wiki/Aminosteroid)
 
-The first three of these are what we care about most when it comes to Hormone Therapy. Note: All human beings, regardless of phenotype, have some of every one of these hormones in their bodies. The ratios are what affect body shape.
-
-
-### Androgens
-
-There are nearly a dozen different androgens, but the ones we care about the most are [Testosterone](https://en.wikipedia.org/wiki/Testosterone) and [Dihydrotestosterone](https://en.wikipedia.org/wiki/Dihydrotestosterone).
-
-Testosterone is the primary masculinizing hormone for the human body and is produced in the adrenal glands, the testes, and in the ovaries (where it is immediately converted into estrone and estradiol). It tells both muscle and bone cells to grow and in higher concentrations encourages larger muscle mass and thicker skeletal structure. This also means that Testosterone is critical for bone health, as it affects calcium distribution within the skeletal structure. Thus, severe depletion of testosterone can result in osteoperosis and fragile bones. Testosterone also plays a major role in sex drive and libido, encouraging mating behavior within the cerebral cortex.
-
-Dihydrotestosterone (DHT), which is converted from Testosterone in the prostate, skin and liver, plays a major role in the development of the male genitalia during puberty by inducing random erections, and the growth of facial and body hair. Paradoxically, DHT is also what causes male pattern baldness, as it chokes off blood circulation to the follicles on the top of the scalp (sorry, trans guys, it's a double edged sword). DHT binds to androgen receptors ten times more strongly than testosterone, which is why it is critical to eliminate it for feminizing transition.
+激素治疗最关注前三类。注：不论外表如何，所有人类体内都有这些激素。比例是影响体型的因素。
 
 
-### Estrogens
+### 雄性激素
 
-There are four estrogens: [Estradiol](https://en.wikipedia.org/wiki/Estradiol), [Estrone](https://en.wikipedia.org/wiki/Estrone), Estriol and Estetrol. The latter two are only produced during pregnancy and are important for fetal health, but have no bearing on transition.
+雄性激素有十几种，但我们最关注[睾酮](https://en.wikipedia.org/wiki/Testosterone)和[双氢睾酮](https://en.wikipedia.org/wiki/Dihydrotestosterone)。
 
-Estradiol is the Feminizing hormone, as it is the primary signaling hormone for growth in the mammary glands (breast tissue), and because it encourages fat deposits in the thighs, hips, butt, chest and arms, while discouraging fat deposits in the abdomen, thus producing a curvier figure. Estradiol also promote increased collagen production, resulting in softer skin and more flexible tendons & ligaments.
+睾酮是人体的主要男性化激素，它在肾上腺、睾丸和卵巢中产生（在卵巢中立即转化为雌酮和雌二醇）。它促使肌肉和骨细胞生长，更高的浓度促进更大的肌肉量和更厚的骨胳结构。这也意味着睾酮对骨胳健康至关重要，因为它影响骨胳结构内的钙分布。因此，严重缺乏睾酮可导致骨硬化和骨质疏松。睾酮是性冲动的主要因素，促进大脑皮层内的交配欲望。
 
-Estrone's role in the body has been something of a puzzle in medical research, as it has significantly lower binding affinity compared to estradiol (0.6%) and very low transactivational ability (4%). The hormone doesn't appear to *do* anything, it just sits in the blood stream. However it has a unique ability to convert to and from Estradiol via an enzyme group called [17β-HSD](https://en.wikipedia.org/wiki/17%CE%B2-Hydroxysteroid_dehydrogenase), making it ideally suited to function like an estrogen battery within the body.
+二氢睾酮（DTH）由前列腺、皮肤和肝脏中的睾酮转化而来，通过促使随机勃起、面毛生长和体毛生长，在青春期男性生殖器的发育中起着主要作用。矛盾的是，DHT也导致了雄性激素脱发，因为它阻碍了头皮毛囊的血液循环（抱歉，对跨性别兄弟是一把双刃剑）。DHT与雄激素受体的结合强度是睾酮的十倍，所以减少它对女性化转变至关重要。
 
-New research is starting to suggest that the body may regulate total estradiol levels by releasing HSD17B1 to turn estradiol into estrone, and releasing HSD17B2 to convert it back, however this is very early study. Both enzymes are produced in breast tissue, and may play a role in the presence of cyclical period-like symptoms in estrogenic individuals who do not have ovaries, such as trans women.
 
-{!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">For Your Information</h4> }!}
+### 雌性激素
 
-**Why aren't AFAB trans people prescribed estrogen blockers alongside testosterone?**
+雌激素有四种：[雌二醇](https://en.wikipedia.org/wiki/Estradiol)、[雌酮](https://en.wikipedia.org/wiki/Estrone)、雌三醇和雌四醇。后两者只在孕期产生，对胎儿健康很重要，但和转变没有关系。
 
-There are two separate sources for estrogens within the female reproductive system. Ovaries contains thousands of follicles, cell structures which produce eggs. The pituitary gland produces luteinizing hormone (LH) and follicle-stimulating hormone (FSH), which encourages the follicles to grow into luteal cells. Theca cells within the follicle produce testosterone, and granulosa cells produce the enzyme [aromatase](https://en.wikipedia.org/wiki/Aromatase), which converts that testosterone into estradiol. This is the first source of estrogen, but it is not the largest source.
+雌二醇是女性化激素，因为它是乳腺组织主要的生长信号激素，还促使脂肪堆积在大腿、臀部、臀部、胸部和手臂，同时阻止脂肪沉积在腹部，从而产生身体曲线。雌二醇还能促进胶原蛋白合成，使皮肤更柔软，肌腱和韧带更灵活。
 
-Note: This is why PCOS causes ovaries to produce testosterone; the ovarian cysts disrupt the aromatase production, so the testosterone does not get converted.
+雌酮的作用一直是医学研究中的难题，因为与雌二醇相比，它有非常低的结合亲和力（0.6% ）和反式激活能力（4% ）。这种只停留在血液中的激素似乎没有任何作用。然而，它可以通过[17β-羟基类固醇脱氢酶](https://en.wikipedia.org/wiki/17%CE%B2-Hydroxysteroid_dehydrogenase)转化为雌二醇，在体内发挥雌激素电池的作用。
 
-Two weeks into the period cycle the hypothalamus tells the pituitary gland to produce an LH and FSH spike three to four times stronger than earlier in the cycle. That surge causes the follicles to swell until one pops, releasing an egg, at which point the remains of the follicle become a structure known as the corpus luteum. That corpus luteum then begins to produce progesterone and significantly more estrogens in order to prepare the womb for a fertilized egg. This is the second source.
+新研究逐渐证明，身体可能为了调节总雌二醇水平，通过释放HSD17B1将雌二醇转化为雌酮，再释放HSD17B2将其转化回来。这两种酶都在乳腺组织中产生，可能对无卵巢的雌激素主导个体（如跨性别女性）在出现类似月经的周期性症状时发挥作用。
 
-Taking testosterone causes the hypothalamus to deactivate the genes that initiate this LH and FSH spike, so the follicles never reach maturity, ovulation never occurs, and the corpus luteum is never formed, removing a significant source of estrogen within the ovaries.
+{!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">供参考</h4> }!}
 
-*So no, Reddit, it isn't just "because testosterone is stronger", it's because ovaries are a hell of a lot more complex than testes and are easier to disrupt. Please stop spreading this falsehood.*
+**为什么出生为男性的跨性别者不在服用睾酮的同时服用雌激素阻断剂呢？**
+
+在女性生殖系统中，雌激素有两个不同的来源。卵巢包含成千上万的卵泡，这些细胞结构产生卵子。垂体产生黄体生成素（LH）和促卵泡激素（FSH），促使卵泡生长为黄体细胞。卵泡中的卵泡膜细胞产生睾酮，粒膜细胞产生[芳香化酶](https://en.wikipedia.org/wiki/Aromatase)，将睾酮转化为雌二醇。这是雌激素的第一种来源，但不是最大的来源。
+
+注意：这就是多囊卵巢综合征导致卵巢产生睾酮的原因；卵巢囊肿干扰芳香化酶分泌，使睾酮不能转化。
+
+月经周期两周后，下丘脑促使垂体产生周期早期三到四倍的黄体生成素和促卵泡激素峰值。这种峰值导致卵泡膨胀到释放卵子，此时卵泡的剩余结构叫黄体。然后，黄体开始产生孕酮和更多的雌激素，使子宫为受精卵着床做准备。这是第二种来源。
+
+服用睾酮会导致下丘脑启动黄体生成素和促卵泡激素峰值的基因失活，所以卵泡永远不会成熟，永远不会排卵，黄体也永远不会形成，从而去除卵巢内的一个重要的雌激素来源。
+
+*所以不仅仅是“因为睾酮更强”，而是因为卵巢比睾丸复杂得多，也更容易破坏。请停止传播虚假信息。*
 
 {!{ </div></div></div> }!}
 
-### Progestagins
+### 孕激素
 
-The primary progestogin is [progesterone](https://en.wikipedia.org/wiki/Progesterone), which plays numerous roles in the body and has been found to be [an important component for feminizing hormone therapy](https://academic.oup.com/jcem/article/104/4/1181/5270376).
+最主要的孕激素是[孕酮](https://zh.wikipedia.org/zh/%E5%AD%95%E9%85%AE)，它对人体有许多作用，且是[女性化激素治疗的重要部分](https://academic.oup.com/jcem/article/104/4/1181/5270376)。
 
-One of the largest roles that the progestogin receptor plays is in the regulation of gonadal function (ovaries and testies). The hypothalamus is positively *littered* with progestogin receptors and responds strongly to their activation, downregulating the production of [GnRH](https://en.wikipedia.org/wiki/Gonadotropin-releasing_hormone), which then reduces the production of [luteinizing hormone](https://en.wikipedia.org/wiki/Luteinizing_hormone) by the pituitary gland.
+孕激素受体的最大作用之一是调节性腺功能（卵巢和睾丸）。下丘脑*满是*对激活反应强烈的孕激素受体，下调[促性腺激素释放激素](https://zh.wikipedia.org/wiki/%E4%BF%83%E6%80%A7%E8%85%BA%E6%BF%80%E7%B4%A0%E9%87%8A%E6%94%BE%E6%BF%80%E7%B4%A0)水平，从而减少了垂体产生的[促黄体激素](https://en.wikipedia.org/wiki/Luteinizing_hormone)。
 
-LH is what tells the ovaries and testes to produce estrogen and androgens. LH and its sibling hormone [FSH](https://en.wikipedia.org/wiki/Follicle-stimulating_hormone) both play central roles in ovulation, which is another large source of estrogen in ovary-havers. Thus, synthetic progestins, chemicals that fit into progestogin receptors, are often included in birth control in order to prevent ovulation. In AMABs, progestogins are a useful tool for blocking testosterone production.
+促黄体激素使卵巢和睾丸产生雌激素和雄激素。促黄体激素和促卵泡激素在排卵中起着重要作用，这是卵巢中雌激素的另一个重要来源。因此，适用于孕激素受体的合成孕激素，通常是防止排卵的避孕手段。对于出生为男性的跨性别者来说，孕激素是拮抗睾酮的有用工具。
 
-Another type of cell that is full of progestogin receptors is mammary tissue. Progesterone plays a major role in the growth and maturation of milk ducts within breast tissue. While little formal research has been conducted into progesterone's effect on breast development, anecdotally it has been seen widely across the transfem community to provide significant improvements in breast fullness. Progesterone has also been demonstrated to increase blood flow to breast tissue, and encourages fat deposits in the breasts, both of which increase breast size.
+另一种满是孕激素受体的细胞是乳腺组织。孕酮对乳腺组织内乳管的生长和成熟中起主要作用。虽然"孕酮对乳房发育的影响"的正式研究很少，但在跨性别女性社群中已经看到很多它对乳房发育的显著改善。孕酮还被证明可以增加乳房组织的血流量，并促使脂肪沉积在乳房中，这两者都会增大乳房。
 
-Additionally, progesterone promotes better sleep, improves cardiovascular health, increases ketogenesis (reducing triglycerides), increases metabolic function, and has been found to reduce breast cancer risk.
+此外，孕酮提高睡眠质量，改善心血管健康，促进生酮作用（降低甘油三酯），增强代谢功能，降低乳腺癌风险。
 
-### Mineralcorticoids
+### 盐皮质激素
 
-Mineralcorticoids play no role in transition, but they are worth mentioning because of one major hormone: [Aldosterone](https://en.wikipedia.org/wiki/Aldosterone).
+盐皮质激素在转变中不起作用，但有一种主导激素所以值得说：[醛固酮](https://en.wikipedia.org/wiki/Aldosterone)。
 
-Aldosterone is what instructs the kidneys to *stop* extracting water from the blood stream. It is produced by the adrenal glands in order to regulate body hydration. Why is this significant?
+醛固酮是肾脏从血液中水分子再吸收的*停止*信号。它由肾上腺产生，以调节身体水合作用。为什么它意义重大？
 
-Because one drug that is very commonly used in trans hormone therapy is an extremely powerful aldosterone antagonist... Spironolactone. Spiro binds to mineralcorticoid receptors more strongly than aldosterone does, but does not activate the receptor. It just clogs it, preventing the kidneys from receiving the signal to stop extracting water.
+因为在跨性别激素治疗中常用的一种药物是极其强的醛固酮拮抗剂——螺内酯。螺内酯与盐皮质激素受体的结合比醛固酮更强，但不激活受体。它只会阻止肾脏接收停止水分子再吸收的信号。
 
-This is why spiro makes people pee so much.
+这就是螺内酯利尿的原理。
