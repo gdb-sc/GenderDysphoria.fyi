@@ -62,9 +62,9 @@ siblings:
 
 18. [激素的作用](/gdb/hormones)
 
-19. [雄性激素造成的第二青春期 101](/gdb/second-puberty-masc)
+19. [“雄性激素造成的第二青春期”导论](/gdb/second-puberty-masc)
 
-20. [雌性激素造成的第二青春期 101](/gdb/second-puberty-fem)
+20. [“雌性激素造成的第二青春期”导论](/gdb/second-puberty-fem)
 
 21. [结语](/gdb/conclusion)
 
