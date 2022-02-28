@@ -1,9 +1,10 @@
 <!DOCTYPE HTML>
-<html lang="en-US">
+<html lang="{{page.lang}}">
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta charset="UTF-8">
+  <meta name="referrer" content="origin-when-cross-origin">
   <meta name="author" content="{{site.author}}">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta property="og:site_name" content="{{site.title}}">
@@ -58,18 +59,24 @@
   <div class="root">
     <header>
       <nav>
-        <a href="/" class="top-brand" >That's Gender Dysphoria, FYI</a>
+        <a href="/" class="top-brand">{{{lang 'HEADER_TITLE'}}}</a>
 
         <div class="top-nav">
           <ul class="top-nav-inner">
-            <li><a href="/gdb/" class="top-nav-item dropdown-toggle" id="nav-gdb" data-toggle="dropdown" data-flip="false" aria-haspopup="true" aria-expanded="false">The Gender Dysphoria Bible</a>{{import '/public/_gdb-menu'}}</li>
-            <li><a href="/tweets/" class="top-nav-item" title="Trans Twitter Topics"><img src="/images/transtwitter.png" width="24" height="24" alt=""></a></li>
-            <li class="disposable"><a href="https://github.com/GenderDysphoria/GenderDysphoria.fyi/issues" class="top-nav-item">{{icon 'brands/github'}}</a></li>
+            <li>{{import (join [ '/public/' page.lang '/_menu' ] "")}}</li>
+            <li>
+              <a href="/en/" class="top-nav-item dropdown-toggle" id="nav-lang" data-toggle="dropdown" data-flip="false" aria-haspopup="true" aria-expanded="false">{{lang 'MENU_LANGUAGE'}}</a>
+              <div class="dropdown-menu" aria-labelledby="nav-gdb">
+                <a href="/en/" class="{{#is page.lang 'en'}}active {{/is}}dropdown-item">English</a>
+                <a href="/zh/" class="{{#is page.lang 'zh'}}active {{/is}}dropdown-item">中文 (Chinese)</a>
+                <a href="/de/" class="{{#is page.lang 'de'}}active {{/is}}dropdown-item">Deutsch (German)</a>
+              </div>
+            </li>
+            <li><a href="/tweets/" class="top-nav-item" title="{{{lang 'TRANS_TWITTER_TOPICS'}}}"><img src="/images/transtwitter.png" width="24" height="24" alt=""></a></li>
+            <li class="disposable"><a href="https://github.com/GenderDysphoria/GenderDysphoria.fyi" class="top-nav-item">{{icon 'brands/github'}}</a></li>
             <li class="disposable"><a href="https://patreon.com/curvyandtrans" class="top-nav-item" title="Patreon">{{icon 'brands/patreon'}}</a></li>
             <li class="disposable"><a href="https://ko-fi.com/curvyandtrans" class="top-nav-item" title="Ko-Fi">{{icon 'brands/ko-fi'}}</a></li>
           </ul>
-
-
         </div>
       </nav>
     </header>
@@ -79,30 +86,39 @@
     </div>
     <footer>
       <div class="patreon-support">
-        <strong>
-          This site is made possible thanks to contributions from the community.
-          If you have found this site invaluable, please consider <a href="https://www.patreon.com/curvyandtrans">making a pledge on patreon</a> or a <a href="https://ko-fi.com/curvyandtrans">donation via Ko-fi</a>.
-        </strong>
-        <p>Special thanks to the following patreon supporters:</p>
+        <strong>{{{lang 'PATREON_FOOTER_BODY'}}}</strong>
+        <p>{{{lang 'PATREON_FOOTER_THANKS'}}}</p>
         <ul>
-          <li>Julia Hocken</li>
+          <li>Alita Moore</li>
           <li>Amanda B</li>
-          <li>Brass Cowbell</li>
+          <li>Amanda McPeck</li>
           <li>Amelia Unchained</li>
-          <li>Lee Piner</li>
-          <li>Xanterra</li>
-          <li>Mae</li>
-          <li>Made of Stars</li>
+          <li>Blake VanTassel</li>
+          <li>Brass Cowbell</li>
+          <li>Clarity Amaranthine</li>
+          <li>Dillon</li>
+          <li>Evelin M. C.</li>
           <li>Franziska Roten</li>
-          <li>Philippe Gauthier</li>
+          <li>Hannah Johnson-Walsh</li>
           <li>Heather Lunde</li>
+          <li>Jon Sailor</li>
+          <li>Julia Hocken</li>
+          <li>K. Volkert</li>
           <li>Laura B Tinter</li>
+          <li>Lee Piner</li>
+          <li>Made of Stars</li>
+          <li>Mae</li>
+          <li>Meghan Hailey Jantak</li>
+          <li>Miguel Corona</li>
+          <li>Olivia Thiderman</li>
           <li>patternicity</li>
+          <li>Xanterra</li>
+          <li>Zoé Cassiopée</li>
         </ul>
         <hr>
       </div>
-      <p class="copyright">Site text, website code and original graphics are <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">licensed CC BY-NC-SA.</a><span class="cc-by-nc-sa">{{icon 'symbols/cc'}}{{icon 'symbols/cc-by'}}{{icon 'symbols/cc-nc'}}{{icon 'symbols/cc-sa'}}</span><br>&copy; {{date "yyyy"}} <a href="https://curvyandtrans.com">Jocelyn Badgley</a> and Other Contributors </p>
-      <p class="foot-nav"><a href="/privacy.html">Privacy Policy</a></p>
+      <p class="copyright">{{{lang 'FOOTER_COPYRIGHT'}}}<span class="cc-by-nc-sa">{{icon 'symbols/cc'}}{{icon 'symbols/cc-by'}}{{icon 'symbols/cc-nc'}}{{icon 'symbols/cc-sa'}}</span><br>&copy; {{date "yyyy"}} <a href="https://curvyandtrans.com">Jocelyn Badgley</a> {{lang 'FOOTER_COPYRIGHT2'}}</p>
+      <p class="foot-nav"><a href="/privacy.html">{{lang 'Privacy Policy'}}</a></p>
 
     </footer>
   </div>

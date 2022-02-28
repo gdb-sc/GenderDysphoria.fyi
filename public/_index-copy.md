@@ -14,53 +14,57 @@ A trans person can come to recognize this at *any point* in their life. Some chi
 
 Even more common is a perception that even though they have feelings about being unhappy with the gender they were assigned at birth, they believe that this is not the same as what transgender people experience. Some may feel that a wish to be transgender and have transition available is some kind of disrespect towards "real" trans people who knew they were actually boys or girls "born in the wrong body." These narratives of the transgender experience that have been spread by popular media create a very false impression of just what it means to be transgender and what growing up transgender feels like.
 
-This experience of discontinuity between the internal and external self is what we describe as Gender Dysphoria. Every trans person, regardless of their position within or outside of the gender binary, experiences some form of Gender Dysphoria. This is something of a political topic within trans communities, as different groups have their own ideas of what Gender Dysphoria is, how it manifests itself, and what qualifies a person as being trans. By and large, however, this debate is feckless and fruitless, as the definition at the top of this page encompasses the beginning and the ending of how these terms intermingle.
+This experience of discontinuity between the societal presumed gender and the internal sense of self is what we describe as Gender Dysphoria, and is common among nearly all trans individuals, regardless of their position within or outside of the gender binary. This has at times been something of a political topic within trans communities, as different groups have their own ideas of what Gender Dysphoria is, how it manifests itself, and what qualifies a person as being trans. By and large, however, this debate is feckless and fruitless, as the definition at the top of this page encompasses the beginning and the ending of how these terms intermingle. If you identify with a gender that does not match what was assigned to you at birth, your claim to the transgender identity is valid, no matter how you experience that incongruence.
 
-The purpose of this site is to document the many ways that Gender Dysphoria can manifest, as well as other aspects of gender transition, in order to provide a guide for those who are questioning, those who are starting their transgender journey, those already on their path, and those who simply wish to be better allies.
+The purpose of this site is to document the many ways that Gender Dysphoria can manifest, as well as the numerous forms of gender transition, in order to provide a guide for those who are questioning, those who are starting their transgender journey, those already on their path, and those who simply wish to be better allies.
 
 
 æææ<div class="two-column-list">æææ
 
 ### Table of Contents
 
-1. [What is Gender?](/gdb/what-is-gender)
+1. [Introduction](/en/#introduction)
 
-3. [The History of Gender Dysphoria](/gdb/history)
+2. [What is Gender?](/en/what-is-gender)
 
-4. [Gender Euphoria](/gdb/euphoria)
+3. [The History of Gender Dysphoria](/en/history)
 
-5. [Physical Dysphoria](/gdb/physical-dysphoria)
+4. [Gender Euphoria](/en/euphoria)
 
-6. [Biochemical Dysphoria](/gdb/biochemical-dysphoria)
+5. [Physical Dysphoria](/en/physical-dysphoria)
 
-7. [Social Dysphoria](/gdb/social-dysphoria)
+6. [Biochemical Dysphoria](/en/biochemical-dysphoria)
 
-8. [Societal Dysphoria](/gdb/societal-dysphoria)
+7. [Social Dysphoria](/en/social-dysphoria)
 
-9. [Sexual Dysphoria](/gdb/sexual-dysphoria)
+8. [Societal Dysphoria](/en/societal-dysphoria)
 
-10. [Presentational Dysphoria](/gdb/presentational-dysphoria)
+9. [Sexual Dysphoria](/en/sexual-dysphoria)
 
-11. [Existential Dysphoria](/gdb/existential-dysphoria)
+10. [Presentational Dysphoria](/en/presentational-dysphoria)
 
-12. [Managed Dysphoria](/gdb/managed-dysphoria)
+11. [Existential Dysphoria](/en/existential-dysphoria)
 
-13. [Impostor Syndrome](/gdb/impostor-syndrome)
+12. [Managed Dysphoria](/en/managed-dysphoria)
 
-14. [Clinical Diagnoses](/gdb/diagnoses)
+13. [Impostor Syndrome](/en/impostor-syndrome)
 
-15. [Treating Gender Dysphoria](/gdb/treatment)
+14. [Am I Trans?](/en/am-i-trans)
 
-16. [Causes of Gender Dysphoria](/gdb/causes)
+15. [Clinical Diagnoses](/en/diagnoses)
 
-17. [Chromosomes](/gdb/chromosomes)
+16. [Treating Gender Dysphoria](/en/treatment)
 
-18. [How Hormones Work](/gdb/hormones)
+17. [Causes of Gender Dysphoria](/en/causes)
 
-19. [Androgenic Second Puberty 101](/gdb/second-puberty-masc)
+18. [Chromosomes](/en/chromosomes)
 
-20. [Estrogenic Second Puberty 101](/gdb/second-puberty-fem)
+19. [How Hormones Work](/en/hormones)
 
-21. [Conclusion](/gdb/conclusion)
+20. [Androgenic Second Puberty 101](/en/second-puberty-masc)
+
+21. [Estrogenic Second Puberty 101](/en/second-puberty-fem)
+
+22. [Conclusion](/en/conclusion)
 
 æææ</div></div>æææ

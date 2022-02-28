@@ -122,6 +122,15 @@
 
   ul { padding-left: 2em; }
 
+  code {
+    font-size: 87.5%;
+    color: $gray-900;
+    word-wrap: break-word;
+    font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    background: $gray-300;
+    padding: 2px;
+  }
+
   .center {
     margin-left: auto;
     margin-right: auto;
@@ -132,6 +141,10 @@
 .cw {
   $cwColor: darken($gray-100, 2%);
   margin: 0 -1rem 1em;
+
+  &:first-child {
+    margin-top: -1rem;
+  }
 
   padding: 10px 20px;
   background-color: $cwColor;
